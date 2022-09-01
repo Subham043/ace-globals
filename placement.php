@@ -72,16 +72,13 @@
                         <div class="service-sidebar">
                             <div class="category-widget">
                                 <ul class="category-list clearfix">
-                                    <li><a href="campus-to-corporate.php"><i
+                                <li><a href="campus-to-corporate.php"><i
                                                 class="fas fa-angle-right"></i>Campus to Corporate</a></li>
                                     <li><a href="talent-identification-sourcing.php"><i class="fas fa-angle-right"></i>Talent Identificaiton Sources</a></li>
                                     <li><a href="placement.php" class="current"><i class="fas fa-angle-right"></i>Placement</a></li>
-                                    <li><a href="corporate-program.html"><i class="fas fa-angle-right"></i>Corporate
-                                            Program</a></li>
+                                    <li><a href="contract-staffing.php"><i class="fas fa-angle-right"></i>Contract Staffing</a></li>
                                     <li><a href="leadership-training.html"><i class="fas fa-angle-right"></i>Leadership
                                             Training</a></li>
-                                    <li><a href="staff-management.html"><i class="fas fa-angle-right"></i>Staff
-                                            Management</a></li>
                                 </ul>
                             </div>
                             <div class="support-box">

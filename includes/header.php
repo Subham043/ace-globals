@@ -53,7 +53,7 @@
                                     <li><a href="talent-identification-sourcing.php">Talent Identificaiton Sources</a></li>
                                     <li><a href="project-details.html">Background / Credentials Verification </a></li>
                                     <li><a href="placement.php">Placement</a></li>
-                                    <li><a href="error.html">Staffing Contract</a></li>
+                                    <li><a href="contract-staffing.php">Staffing Contract</a></li>
                                 </ul>
                             </li>
                             <li><a href="contact.php">Industries Verticals</a></li>

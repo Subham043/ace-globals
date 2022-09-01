@@ -52,7 +52,7 @@
             <div class="auto-container">
                 <div class="content-box">
                     <div class="title">
-                        <h1>Talent Identificaiton Sources</h1>
+                        <h1>Contract Staffing </h1>
                     </div>
                     <ul class="bread-crumb clearfix">
                         <li><a href="index-2.html">Home</a></li>
@@ -72,11 +72,13 @@
                         <div class="service-sidebar">
                             <div class="category-widget">
                                 <ul class="category-list clearfix">
-                                <li><a href="campus-to-corporate.php"><i
-                                                class="fas fa-angle-right"></i>Campus to Corporate</a></li>
-                                    <li><a href="talent-identification-sourcing.php" class="current"><i class="fas fa-angle-right"></i>Talent Identificaiton Sources</a></li>
+                                    <li><a href="campus-to-corporate.php"><i class="fas fa-angle-right"></i>Campus to
+                                            Corporate</a></li>
+                                    <li><a href="talent-identification-sourcing.php"><i
+                                                class="fas fa-angle-right"></i>Talent Identificaiton Sources</a></li>
                                     <li><a href="placement.php"><i class="fas fa-angle-right"></i>Placement</a></li>
-                                    <li><a href="contract-staffing.php"><i class="fas fa-angle-right"></i>Contract Staffing</a></li>
+                                    <li><a href="contract-staffing.php" class="current"><i
+                                                class="fas fa-angle-right"></i>Contract Staffing</a></li>
                                     <li><a href="leadership-training.html"><i class="fas fa-angle-right"></i>Leadership
                                             Training</a></li>
                                 </ul>
@@ -100,36 +102,35 @@
                                 <i class="flaticon-controller"></i>
                             </figure>
                             <div class="text">
-                                <h2>Talent Identificaiton Sources </h2>
-                                <p>Talent Identificaiton Sources is a cardinal first step in bringing the finest talent
-                                    into your organizational fold. Our sourcing teams work relentlessly to find
-                                    high-quality potential candidates who can be engaged and interested in joining your
-                                    organization. We have a very clear sourcing process in place as we employ best
-                                    practices, and we are invariably looking for ways to revamp your strategy. </p>
-                                <p>Our strategy speaks volumes about how your organization can maximize the utility and
-                                    benefit of our talent sourcing operation.</p>
-                                <p>Through foolproof talent identification sourcing, we generate a consistent flow of
-                                    highly-skilled applicants to the organizations.
+                                <h2>Contract Staffing</h2>
+                                <p>More and more companies are looking for new and innovative ways to manage costs in
+                                    their business. Contractual staffing is one such way that many companies in recent
+                                    years have taken up. Contractual staffing of late has started working in favour of
+                                    organizations as it benefits both workers and employers. </p>
+                                <p>We have comprehended the fact that “One size fits all” is a superficial phrase,
+                                    therefore Ace Global Hr caters to services that organizations are looking for.
+                                    Whether you are looking for independent contracts, part-time work, seasonal work,
+                                    etc, we got you covered.
                                 </p>
-                                <p>Through foolproof talent identification sourcing, we generate a consistent flow of
-                                    highly-skilled applicants to the organizations.
-                                    Our team develops comprehensive ideas of what you are exactly looking for in your
-                                    candidate’s profile as different job platforms have different specialities. We
-                                    source and assess the right talent pool based on the understanding of where
-                                    candidates with desired talents are concentrated.
-                                    which an organization attracts, recruits, retains, identifies and develops talent.
+                                <p>As Industry insiders in the business world, we have seen drastic changes across many
+                                    domains. Staffing contract not only helps employers but even the employees can
+                                    reconcile work and family life in a better way.
                                 </p>
+                                <p>Just as there is a growing demand for Contractual Staffing, jobs are likely to
+                                    disappear quickly, companies find it difficult to hire new employees. We make your
+                                    work easier by opening our plethora of databases and finding you the best in no
+                                    time. </p>
                             </div>
                             <div class="two-column">
                                 <div class="row clearfix">
                                     <div class="col-lg-12 col-md-12 col-sm-12 text-column">
                                         <div class="text">
-                                            <h3>The process at Ace Global HR starts by </h3>
+                                            <h3>Benefits of contract staffing for organizations</h3>
                                             <ul class="list-item clearfix">
-                                                <li>Identifying the potential job candidates,</li>
-                                                <li>Ding thorough research about them</li>
-                                                <li>Generating and filtering the right candidates and</li>
-                                                <li>Networking in order to convert individuals into job applicants.</li>
+                                                <li>More flexibility in adapting to changes in market conditions and work requirements. </li>
+                                                <li>Potentially lower labour costs as companies do not need to feel the need to hire employees for full-time.</li>
+                                                <li>Increased productivity</li>
+                                                <li>Companies can manage better long-term relationships with part-time resources.</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -140,54 +141,68 @@
                                     <li class="accordion block">
                                         <div class="acc-btn">
                                             <div class="icon-outer"><i class="fas fa-plus"></i></div>
-                                            <h5>What is our four-point process to identify the right talent pool?
-                                            </h5>
+                                            <h5>What are the services we offer?</h5>
                                         </div>
                                         <div class="acc-content">
                                             <div class="text">
-                                                <p>Planning: We establish a clear plan that is designed to direct our
-                                                    search toward areas where we find a high density of desirable
-                                                    candidates</p>
-                                                <p>Sourcing: Here we identify, reach out to, and enrich our
-                                                    relationships with potential candidates.</p>
-                                                <p>Assessing: Once we streamline a pool of qualified applicants, we
-                                                    assess and narrow down the candidates who are most aligned with your
-                                                    organization’s culture and values.
-                                                    Hiring: We run the candidate through an intensive interview process,
-                                                    and shortlist the top candidate.
-                                                </p>
-                                                <p>Onboarding: This is the final stage of the talent sourcing process
-                                                    where the onboarding of new employees takes place. </p>
+                                                <ul class="list-item clearfix">
+                                                    <li>General Staffing</li>
+                                                    <li>Permanent Recruitment</li>
+                                                    <li>Facility management</li>
+                                                    <li>Managed services</li>
+                                                    <li>Technology services</li>
+                                                </ul>
                                             </div>
                                         </div>
                                     </li>
                                     <li class="accordion block active-block">
                                         <div class="acc-btn active">
                                             <div class="icon-outer"><i class="fas fa-plus"></i></div>
-                                            <h5>How does Ace Global HR keep up with the growing demand for the right
-                                                talent pool?</h5>
+                                            <h5>How does Contractual Staffing help employees?</h5>
                                         </div>
                                         <div class="acc-content current">
                                             <div class="text">
-                                                <p>Firstly, we keep the window of the sourcing process always open and
-                                                    are constantly looking for ways to improve our talent sourcing
-                                                    process. We devise thoughtful ways to experiment, acquire feedback,
-                                                    and measure results to deliver impeccable service all the time.</p>
+                                                <p>In this modern world, employees are also looking for flexibility in work as they get more time in hand to enhance their skills and maintain a good work life balance. The wages are potentially higher than what the permanent employees earn. </p>
                                             </div>
                                         </div>
                                     </li>
                                     <li class="accordion block">
                                         <div class="acc-btn">
                                             <div class="icon-outer"><i class="fas fa-plus"></i></div>
-                                            <h5>What is the relationship between talent sourcing and recruiting?</h5>
+                                            <h5>What are the industries that Ace Global HR caters contract staffing?</h5>
                                         </div>
                                         <div class="acc-content">
                                             <div class="text">
-                                                <p>Talent sourcing is the building block of the recruitment process and
-                                                    a vital aspect of designing a sturdy talent pipeline. As talent
-                                                    source specialists, we aim at generating leads for a limited number
-                                                    of requisitions. Our team works closely with recruiting and hiring
-                                                    managers to achieve the desired result. </p>
+                                            <ul class="list-item clearfix">
+                                                    <li>Pharma, Healthcare and Life Science</li>
+                                                    <li>Banking, Financial Services and Insurance</li>
+                                                    <li>IT and Outsourcing</li>
+                                                    <li>Consumer Retail services</li>
+                                                    <li>BPO and KPO </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="accordion block">
+                                        <div class="acc-btn">
+                                            <div class="icon-outer"><i class="fas fa-plus"></i></div>
+                                            <h5>What is the duration of employment for contract workers?</h5>
+                                        </div>
+                                        <div class="acc-content">
+                                            <div class="text">
+                                                <p>The duration depends on the nature of the job and the company they are working for. A candidate enters a contract by signing the document and abiding by it until his term concludes. The duration of the job ideally ranges from a couple of months to a few years. </p>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="accordion block">
+                                        <div class="acc-btn">
+                                            <div class="icon-outer"><i class="fas fa-plus"></i></div>
+                                            <h5>Why does Ace Global HR stand out as being the best staffing agency? </h5>
+                                        </div>
+                                        <div class="acc-content">
+                                            <div class="text">
+                                                <p>We offer more than just contract staffing services. Our services are flexible and adapt seamlessly regardless of the nature and size of the business. Our approach is methodical and infuses technology.</p>
+                                                <p>Reach out to us and scale up your company any given day.</p>
                                             </div>
                                         </div>
                                     </li>
