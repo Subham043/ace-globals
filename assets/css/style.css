@@ -1938,7 +1938,7 @@ div#mCSB_1_container{
 .content_block_1 .content-box .inner-box .single-item{
   position: relative;
   float: left;
-  width: 50%;
+  width: 100%;
 }
 
 .content_block_1 .content-box .inner-box .single-item h5{
@@ -1969,7 +1969,7 @@ div#mCSB_1_container{
 
 .content_block_1 .content-box .inner-box .single-item p{
   font-size: 16px;
-  line-height: 30px;
+  line-height: 20px;
 }
 
 .content_block_1 .content-box .lower-box{
@@ -2310,7 +2310,12 @@ div#mCSB_1_container{
 
 .content_block_3 .content-box .tabs-content .inner-box{
   position: relative;
-  padding-left: 245px;
+  /* padding-left: 245px; */
+}
+
+.content_block_3 .content-box .tab-btn-box ul{
+  display: flex;
+  justify-content: center;
 }
 
 .content_block_3 .content-box .tabs-content .inner-box .image-box{
@@ -2327,7 +2332,7 @@ div#mCSB_1_container{
 
 .content_block_3 .content-box .tabs-content .inner-box .text p{
   font-size: 18px;
-  line-height: 34px;
+  line-height: 20px;
   color: #bfbfbf;
   margin-bottom: 34px;
 }
@@ -2336,7 +2341,7 @@ div#mCSB_1_container{
   position: relative;
   display: block;
   font-size: 18px;
-  line-height: 34px;
+  line-height: 25px;
   color: #bfbfbf;
   margin-bottom: 15px;
   padding-left: 28px;
@@ -4484,7 +4489,7 @@ div#mCSB_1_container{
 
 .about-style-three .inner-container{
   position: relative;
-  padding: 120px 0px 110px 0px;
+  padding: 120px 0px 60px 0px;
   border-bottom: 1px solid #e6e6e6;
 }
 
@@ -4514,13 +4519,17 @@ div#mCSB_1_container{
 
 .about-style-three .content-box .text p{
   font-size: 18px;
-  line-height: 34px;
+  line-height: 25px;
 }
 
 .team-section .inner-container{
   position: relative;
   margin-bottom: -120px;
   z-index: 1;
+}
+
+.process-block .inner-box p{
+  line-height: 20px;
 }
 
 

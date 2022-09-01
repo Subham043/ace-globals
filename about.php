@@ -2,34 +2,38 @@
 <html lang="en">
 
 <!-- Mirrored from azim.commonsupport.com/Recvite/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 17 Jul 2022 16:56:06 GMT -->
+
 <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<title>Recvite - HTML 5 Template Preview</title>
+    <title>Recvite - HTML 5 Template Preview</title>
 
-<!-- Fav Icon -->
-<link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
+    <!-- Fav Icon -->
+    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
 
-<!-- Google Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&amp;display=swap" rel="stylesheet">
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&amp;display=swap"
+        rel="stylesheet">
 
-<!-- Stylesheets -->
-<link href="assets/css/font-awesome-all.css" rel="stylesheet">
-<link href="assets/css/flaticon.css" rel="stylesheet">
-<link href="assets/css/owl.css" rel="stylesheet">
-<link href="assets/css/bootstrap.css" rel="stylesheet">
-<link href="assets/css/jquery.fancybox.min.css" rel="stylesheet">
-<link href="assets/css/animate.css" rel="stylesheet">
-<link href="assets/css/color.css" rel="stylesheet">
-<link href="assets/css/style.css" rel="stylesheet">
-<link href="assets/css/responsive.css" rel="stylesheet">
+    <!-- Stylesheets -->
+    <link href="assets/css/font-awesome-all.css" rel="stylesheet">
+    <link href="assets/css/flaticon.css" rel="stylesheet">
+    <link href="assets/css/owl.css" rel="stylesheet">
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+    <link href="assets/css/jquery.fancybox.min.css" rel="stylesheet">
+    <link href="assets/css/animate.css" rel="stylesheet">
+    <link href="assets/css/color.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="assets/css/responsive.css" rel="stylesheet">
 
 </head>
 
 
 <!-- page wrapper -->
+
 <body>
 
     <div class="boxed_wrapper">
@@ -80,10 +84,73 @@
                             <div class="content-box">
                                 <div class="sec-title">
                                     <p>Our Agency Detail Introduction</p>
-                                    <h2>Learn About Our Recruitment Agency</h2>
+                                    <h2>We are the maximisers</h2>
                                 </div>
                                 <div class="text">
-                                    <p>There are many variations of pass of lorem ipsum available but the majority have suffered alteration in some form. Injected humour randomised words which don't look even slightly believable you need to be sure there isn't anything embarrassing. Praesent arcu gravida vehicula simply free text available for the market use and est node maecenas loareet.</p>
+                                    <p>Ace Global HR is an HR consulting, contracting and outsourcing company that helps
+                                        organisations develop proficient teams, understand and put the organization’s
+                                        compliance in place, bring in fresh talent who have what it takes to accelerate
+                                        the organization several notches up, train the workforce in various domains of
+                                        HR and deliver prodigious business results through increased employee
+                                        productivity and lesser employee turnover.</p>
+                                    <p>We also deliver impeccable in-house hr management support for organizations that
+                                        are looking for outsourcing their hr function.</p>
+                                    <p>At times, organizations grow too soon but their HR practices don’t keep up with
+                                        that growth, this is where we step in!!! Through a sheer practical and
+                                        collaborative approach, we identify the priorities, assess different risks and
+                                        help you focus on where the most value can be added.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row clearfix mt-5">
+                        <div class="col-lg-4 col-md-6 col-sm-12 process-block">
+                            <div class="process-block-one wow fadeInUp animated animated" data-wow-delay="00ms"
+                                data-wow-duration="1500ms">
+                                <div class="inner-box">
+                                    <div class="icon-box">
+                                        <i class="flaticon-investment"></i>
+                                        <span>01</span>
+                                        <div class="icon-shape"
+                                            style="background-image: url(assets/images/shape/shape-4.png);"></div>
+                                    </div>
+                                    <h3>What sets up apart from the rest?</h3>
+                                    <p>The world of business is changing all around us and this changing time and again demands a fundamental shift in how organisations contemplate and operate. Some of the successful organisations that we have worked with have embraced change as they understand that change is an opportunity rather than a risk.
+                                    </p>
+                                    <p>Ace global HR is a disruptive consultancy that specialises in making the HR arena and its workforce to be empowered across the full HR and leadership spectrum.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-12 process-block">
+                            <div class="process-block-one wow fadeInUp animated animated" data-wow-delay="300ms"
+                                data-wow-duration="1500ms">
+                                <div class="inner-box">
+                                    <div class="icon-box">
+                                        <i class="flaticon-checklist"></i>
+                                        <span>02</span>
+                                        <div class="icon-shape"
+                                            style="background-image: url(assets/images/shape/shape-4.png);"></div>
+                                    </div>
+                                    <h3>Our expertise lies in the business of people</h3>
+                                    <p>There are two verticals we are passionate about – people and business relationships. Both relationships matter and if finely tuned then organisations thrive and flourish. As an organization, you need us by your side for sustainable change as we pride ourselves to be your most critical, strategic and trusted partner.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-12 process-block">
+                            <div class="process-block-one wow fadeInUp animated animated" data-wow-delay="500ms"
+                                data-wow-duration="1500ms">
+                                <div class="inner-box">
+                                    <div class="icon-box">
+                                        <i class="flaticon-outsourcing"></i>
+                                        <span>03</span>
+                                        <div class="icon-shape"
+                                            style="background-image: url(assets/images/shape/shape-4.png);"></div>
+                                    </div>
+                                    <h3>This is what our work culture looks like</h3>
+                                    <p>Since we work across many sectors and domains, our culture is rather very collaborative. Everyone in our team is seasoned and has held senior roles in their field. Our team comes with rich industry experience and has an unsurpassed breadth of knowledge.
+                                    </p>
+                                    <p>Our bespoke service is tailored entirely to the needs of the organization and we provide end-to-end support across the whole employee lifecycle. Over a period of time, we have developed long-term relationships, flexibly working with you as and how your organization evolves.</p>
                                 </div>
                             </div>
                         </div>
@@ -94,65 +161,26 @@
         <!-- about-style-three end -->
 
 
+
         <!-- clients-section -->
-        <section class="clients-section shadow-none">
+        <!-- <section class="clients-section shadow-none">
             <div class="auto-container">
                 <div class="clients-carousel owl-carousel owl-theme owl-nav-none owl-dots-none">
-                    <figure class="clients-logo-box"><a href="index-2.html"><img src="assets/images/clients/clients-logo-1.png" alt=""></a></figure>
-                    <figure class="clients-logo-box"><a href="index-2.html"><img src="assets/images/clients/clients-logo-2.png" alt=""></a></figure>
-                    <figure class="clients-logo-box"><a href="index-2.html"><img src="assets/images/clients/clients-logo-3.png" alt=""></a></figure>
-                    <figure class="clients-logo-box"><a href="index-2.html"><img src="assets/images/clients/clients-logo-4.png" alt=""></a></figure>
-                    <figure class="clients-logo-box"><a href="index-2.html"><img src="assets/images/clients/clients-logo-5.png" alt=""></a></figure>
+                    <figure class="clients-logo-box"><a href="index-2.html"><img
+                                src="assets/images/clients/clients-logo-1.png" alt=""></a></figure>
+                    <figure class="clients-logo-box"><a href="index-2.html"><img
+                                src="assets/images/clients/clients-logo-2.png" alt=""></a></figure>
+                    <figure class="clients-logo-box"><a href="index-2.html"><img
+                                src="assets/images/clients/clients-logo-3.png" alt=""></a></figure>
+                    <figure class="clients-logo-box"><a href="index-2.html"><img
+                                src="assets/images/clients/clients-logo-4.png" alt=""></a></figure>
+                    <figure class="clients-logo-box"><a href="index-2.html"><img
+                                src="assets/images/clients/clients-logo-5.png" alt=""></a></figure>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- clients-section end -->
 
-
-        <!-- testimonial-style-two -->
-        <section class="testimonial-style-two">
-            <div class="auto-container">
-                <div class="inner-container">
-                    <div class="row clearfix">
-                        <div class="col-lg-6 col-md-12 col-sm-12 image-column">
-                            <div class="image_block_2">
-                                <div class="image-box">
-                                    <figure class="image"><img src="assets/images/resource/testimonial-1.jpg" alt=""></figure>
-                                    <div class="icon-box"><span>"</span></div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-12 col-sm-12 content-column">
-                            <div class="content_block_9">
-                                <div class="content-box">
-                                    <div class="sec-title light">
-                                        <p>Our Testimonials</p>
-                                        <h2>What They Speak</h2>
-                                    </div>
-                                    <div class="testimonial-inner">
-                                        <div class="single-item-carousel owl-carousel owl-theme owl-dots-none nav-style-one">
-                                            <div class="testimonial-content">
-                                                <h3>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch.</h3>
-                                                <h5>John Smith  -  Co Founder</h5>
-                                            </div>
-                                            <div class="testimonial-content">
-                                                <h3>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch.</h3>
-                                                <h5>John Smith  -  Co Founder</h5>
-                                            </div>
-                                            <div class="testimonial-content">
-                                                <h3>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch.</h3>
-                                                <h5>John Smith  -  Co Founder</h5>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- testimonial-style-two end -->
 
 
         <!-- agency-section -->
@@ -176,33 +204,26 @@
                                 <div class="tabs-box">
                                     <div class="tab-btn-box">
                                         <ul class="tab-btns tab-buttons clearfix">
-                                            <li class="tab-btn active-btn" data-tab="#tab-1">For Employers</li>
-                                            <li class="tab-btn" data-tab="#tab-2">For Employees</li>
+                                            <li class="tab-btn active-btn" data-tab="#tab-1">Vision</li>
+                                            <li class="tab-btn" data-tab="#tab-2">Mission</li>
                                         </ul>
                                     </div>
                                     <div class="tabs-content">
                                         <div class="tab active-tab" id="tab-1">
                                             <div class="inner-box">
-                                                <figure class="image-box"><img src="assets/images/resource/agency-1.jpg" alt=""></figure>
                                                 <div class="text">
-                                                    <p>There are many simply free text available variations of passages of but the majority have in some.</p>
-                                                    <ul class="list clearfix">
-                                                        <li>Support on hiring employeers</li>
-                                                        <li>Get rxceptional service for growth</li>
-                                                        <li>Outsourced consulting business</li>
-                                                    </ul>
+                                                    <p>Ace Global HR aims at giving a workforce to the organization that is cut above the rest. One workplace at a time. We have the vision to humanise HR and want to bring back the people element in full throttle.</p>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="tab" id="tab-2">
                                             <div class="inner-box">
-                                                <figure class="image-box"><img src="assets/images/resource/agency-1.jpg" alt=""></figure>
                                                 <div class="text">
-                                                    <p>There are many simply free text available variations of passages of but the majority have in some.</p>
                                                     <ul class="list clearfix">
-                                                        <li>Support on hiring employeers</li>
-                                                        <li>Get rxceptional service for growth</li>
-                                                        <li>Outsourced consulting business</li>
+                                                        <li>Our goal is to make our clients understand the connection between a high-performing workforce and business success.</li>
+                                                        <li>We empower your leadership team and effectively create a team of HR experts within your business that can amplify your culture and your success.</li>
+                                                        <li>We are on a mission to become one of the prominent human resources consulting firms operating worldwide.</li>
+                                                        <li>We want to maintain strict principles, and strategic partnerships and create value for all our stakeholders.</li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -273,100 +294,41 @@
         </section>
         <!-- funfact-section end -->
 
-
-        <!-- team-section -->
-        <section class="team-section sec-pad pb-0">
+         <!-- about-section -->
+         <section class="about-section">
             <div class="auto-container">
-                <div class="sec-title centred">
-                    <p>Our Team Members</p>
-                    <h2>Experienced People</h2>
-                </div>
-                <div class="inner-container">
-                    <div class="row clearfix">
-                        <div class="col-lg-3 col-md-6 col-sm-12 team-block">
-                            <div class="team-block-one wow fadeInUp animated animated" data-wow-delay="00ms" data-wow-duration="1500ms">
-                                <div class="inner-box">
-                                    <figure class="image-box"> 
-                                        <img src="assets/images/team/team-1.jpg" alt="">
-                                        <div class="content-box clearfix">
-                                            <span>Connect</span>
-                                            <ul class="social-links">
-                                                <li><a href="index-3.html"><i class="fab fa-facebook-square"></i></a></li>
-                                                <li><a href="index-3.html"><i class="fab fa-twitter"></i></a></li>
-                                                <li><a href="index-3.html"><i class="fab fa-pinterest-p"></i></a></li>
-                                                <li><a href="index-3.html"><i class="fab fa-instagram"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </figure>
-                                    <div class="lower-content">
-                                        <h4><a href="index-3.html">Jessica Brown</a></h4>
-                                        <span class="designation">Director</span>
-                                    </div>
-                                </div>
+                <div class="row clearfix">
+                    <div class="col-lg-5 col-md-12 col-sm-12 image-column">
+                        <div class="image_block_1">
+                            <div class="image-box">
+                                <figure class="image image-1"><img src="assets/images/resource/about-1.jpg" alt=""></figure>
+                                <figure class="image image-2"><img src="assets/images/resource/about-2.jpg" alt=""></figure>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6 col-sm-12 team-block">
-                            <div class="team-block-one wow fadeInUp animated animated" data-wow-delay="200ms" data-wow-duration="1500ms">
-                                <div class="inner-box">
-                                    <figure class="image-box"> 
-                                        <img src="assets/images/team/team-2.jpg" alt="">
-                                        <div class="content-box clearfix">
-                                            <span>Connect</span>
-                                            <ul class="social-links">
-                                                <li><a href="index-3.html"><i class="fab fa-facebook-square"></i></a></li>
-                                                <li><a href="index-3.html"><i class="fab fa-twitter"></i></a></li>
-                                                <li><a href="index-3.html"><i class="fab fa-pinterest-p"></i></a></li>
-                                                <li><a href="index-3.html"><i class="fab fa-instagram"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </figure>
-                                    <div class="lower-content">
-                                        <h4><a href="index-3.html">Mike Hardson</a></h4>
-                                        <span class="designation">Director</span>
-                                    </div>
+                    </div>
+                    <div class="col-lg-7 col-md-12 col-sm-12 content-column">
+                        <div class="content_block_1">
+                            <div class="content-box">
+                                <div class="sec-title">
+                                    <p>Welcome to Agency</p>
+                                    <h2>We uphold our values very dearly</h2>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 col-sm-12 team-block">
-                            <div class="team-block-one wow fadeInUp animated animated" data-wow-delay="400ms" data-wow-duration="1500ms">
-                                <div class="inner-box">
-                                    <figure class="image-box"> 
-                                        <img src="assets/images/team/team-3.jpg" alt="">
-                                        <div class="content-box clearfix">
-                                            <span>Connect</span>
-                                            <ul class="social-links">
-                                                <li><a href="index-3.html"><i class="fab fa-facebook-square"></i></a></li>
-                                                <li><a href="index-3.html"><i class="fab fa-twitter"></i></a></li>
-                                                <li><a href="index-3.html"><i class="fab fa-pinterest-p"></i></a></li>
-                                                <li><a href="index-3.html"><i class="fab fa-instagram"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </figure>
-                                    <div class="lower-content">
-                                        <h4><a href="index-3.html">Christine Eve</a></h4>
-                                        <span class="designation">Director</span>
+                                <div class="inner-box clearfix">
+                                    <div class="single-item mb-3">
+                                        <h5><span>01</span>Integrity</h5>
+                                        <p>We conform to the highest standards of personal and professional ethics, integrity and conviction. We welcome diversity as diversity brings innovation and leadership at all levels.</p>
                                     </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 col-sm-12 team-block">
-                            <div class="team-block-one wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
-                                <div class="inner-box">
-                                    <figure class="image-box"> 
-                                        <img src="assets/images/team/team-4.jpg" alt="">
-                                        <div class="content-box clearfix">
-                                            <span>Connect</span>
-                                            <ul class="social-links">
-                                                <li><a href="index-3.html"><i class="fab fa-facebook-square"></i></a></li>
-                                                <li><a href="index-3.html"><i class="fab fa-twitter"></i></a></li>
-                                                <li><a href="index-3.html"><i class="fab fa-pinterest-p"></i></a></li>
-                                                <li><a href="index-3.html"><i class="fab fa-instagram"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </figure>
-                                    <div class="lower-content">
-                                        <h4><a href="index-3.html">Kevin Smith</a></h4>
-                                        <span class="designation">Director</span>
+                                    <div class="single-item mb-3">
+                                        <h5><span>02</span>Competency</h5>
+                                        <p>We are a competent team who are set out to fulfil our commitment to our clients, partners and all our stakeholders with a clear understanding of the urgency and accountability inherent in those commitments.</p>
+                                    </div>
+                                    <div class="single-item mb-3">
+                                        <h5><span>03</span>Passion for Excellence</h5>
+                                        <p>We are committed to delivering superior services with integrity, trust and appreciation to maintain our customer loyalty. We live up to the expectations of our clients with a promise to deliver exceptional business results while making a positive contribution to our client’s organizations.</p>
+                                    </div>
+                                    <div class="single-item mb-3">
+                                        <h5><span>04</span>Collaboration</h5>
+                                        <p>Ace Global HR works as a team where we share knowledge for the unceasing enhancement of learning and innovation. Since its inception, Ace global HR stands for intense client focus and this definition has remained at the heart of our culture from day one. </p>
                                     </div>
                                 </div>
                             </div>
@@ -375,7 +337,7 @@
                 </div>
             </div>
         </section>
-        <!-- team-section end -->
+        <!-- about-section end -->
 
 
         <!-- cta-style-two -->
@@ -420,4 +382,5 @@
 </body><!-- End of .page_wrapper -->
 
 <!-- Mirrored from azim.commonsupport.com/Recvite/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 17 Jul 2022 16:56:21 GMT -->
+
 </html>
