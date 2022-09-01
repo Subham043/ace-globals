@@ -349,8 +349,8 @@
                             <div class="shape-1" style="background-image: url(assets/images/shape/shape-6.png);"></div>
                             <div class="shape-2" style="background-image: url(assets/images/shape/shape-7.png);"></div>
                         </div>
-                        <h2>Hire Your Next Candidate On Recvite</h2>
-                        <p>Call adviser for Staffing and HR outsourcing service business</p>
+                        <h2>Reach out to us for a strategic direction</h2>
+                        <p>We design solutions that match your market situation and organisational requirement and do not believe in cookie-cutter solutions to resolve complex problems.</p>
                     </div>
                     <div class="btn-box">
                         <a href="index-3.html" class="theme-btn-one">Discover More</a>

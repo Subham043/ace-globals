@@ -5076,7 +5076,7 @@ div#mCSB_1_container{
 .accordion-box .block .acc-content{
   position:relative;
   display:none;
-  padding-left: 45px;
+  padding: 0 45px;
   padding-bottom: 11px;
 }
 
@@ -5109,8 +5109,30 @@ div#mCSB_1_container{
 .accordion-box .block .acc-content .text p{
   font-size: 16px;
   line-height: 32px;
-  color: rgba(255,255,255,0.7);
+  color: white;
   margin: 0px;
+}
+
+.accordion-box .block .acc-content .text ul li{
+  position: relative;
+    display: block;
+    font-size: 18px;
+    line-height: 34px;
+    color: #fff;
+    margin-bottom: 15px;
+    padding-left: 28px;
+    margin-bottom: 6px;
+}
+
+.accordion-box .block .acc-content .text ul li:before {
+  position: absolute;
+  content: "\f00c";
+  font-family: 'Font Awesome 5 Pro';
+  font-size: 16px;
+  left: 0px;
+  top: 0px;
+  font-weight: 700;
+  color: white;
 }
 
 
