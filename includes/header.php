@@ -50,7 +50,7 @@
                             <li class="dropdown"><a href="index.php">Our Services</a>
                                 <ul>
                                     <li><a href="campus-to-corporate.php">Campus to Corporate</a></li>
-                                    <li><a href="project.html">Talent Identificaiton Sources</a></li>
+                                    <li><a href="talent-identification-sourcing.php">Talent Identificaiton Sources</a></li>
                                     <li><a href="project-details.html">Background / Credentials Verification </a></li>
                                     <li><a href="error.html">Placement</a></li>
                                     <li><a href="error.html">Staffing Contract</a></li>

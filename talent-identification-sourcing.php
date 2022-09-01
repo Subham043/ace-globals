@@ -52,7 +52,7 @@
             <div class="auto-container">
                 <div class="content-box">
                     <div class="title">
-                        <h1>Campus to corporate </h1>
+                        <h1>Talent Identificaiton Sources</h1>
                     </div>
                     <ul class="bread-crumb clearfix">
                         <li><a href="index-2.html">Home</a></li>
@@ -72,9 +72,10 @@
                         <div class="service-sidebar">
                             <div class="category-widget">
                                 <ul class="category-list clearfix">
-                                    <li><a href="campus-to-corporate.php" class="current"><i
-                                                class="fas fa-angle-right"></i>Campus to Corporate</a></li>
-                                    <li><a href="talent-identification-sourcing.php"><i class="fas fa-angle-right"></i>Talent Identificaiton Sources</a></li>
+                                    <li><a href="campus-to-corporate.php"><i class="fas fa-angle-right"></i>Campus to
+                                            Corporate</a></li>
+                                    <li><a href="talent-identification-sourcing.php" class="current"><i
+                                                class="fas fa-angle-right"></i>Talent Identificaiton Sources</a></li>
                                     <li><a href="staffing-solutions.html"><i class="fas fa-angle-right"></i>Staffing
                                             Solutions</a></li>
                                     <li><a href="corporate-program.html"><i class="fas fa-angle-right"></i>Corporate
@@ -104,34 +105,37 @@
                                 <i class="flaticon-controller"></i>
                             </figure>
                             <div class="text">
-                                <h2>Campus to Corporate </h2>
-                                <p>We at Ace Global HR believe that young minds have compelling and engaging ideas that
-                                    can help organizations transcend from one level to the next. However, despite their
-                                    dexterity and savviness, these youngsters need to build a professional image,
-                                    develop the fundamentals of corporate communication and transition the mindset to
-                                    sustain in a highly competitive corporate environment. </p>
-                                <p>Our Campus to Corporate revolves around building a professional persona of young
-                                    graduates so that they can give their best to the organization. </p>
-                                <p>While the colleges and universities hone their knowledge front, we step in and fill
-                                    the gaps and enhance the soft skills. This helps in a smooth and effective workplace
-                                    transformation. The need for a comprehensive campus to corporate has become
-                                    inevitable as a result of the challenges that are posed in the work environment.
-                                    Since soft skills are not a part of the curriculum of the education system, it is
-                                    all the more important to get acquainted as different job profiles require different
-                                    business skills.
+                                <h2>Talent Identificaiton Sources </h2>
+                                <p>Talent Identificaiton Sources is a cardinal first step in bringing the finest talent
+                                    into your organizational fold. Our sourcing teams work relentlessly to find
+                                    high-quality potential candidates who can be engaged and interested in joining your
+                                    organization. We have a very clear sourcing process in place as we employ best
+                                    practices, and we are invariably looking for ways to revamp your strategy. </p>
+                                <p>Our strategy speaks volumes about how your organization can maximize the utility and
+                                    benefit of our talent sourcing operation.</p>
+                                <p>Through foolproof talent identification sourcing, we generate a consistent flow of
+                                    highly-skilled applicants to the organizations.
+                                </p>
+                                <p>Through foolproof talent identification sourcing, we generate a consistent flow of
+                                    highly-skilled applicants to the organizations.
+                                    Our team develops comprehensive ideas of what you are exactly looking for in your
+                                    candidate’s profile as different job platforms have different specialities. We
+                                    source and assess the right talent pool based on the understanding of where
+                                    candidates with desired talents are concentrated.
+                                    which an organization attracts, recruits, retains, identifies and develops talent.
                                 </p>
                             </div>
                             <div class="two-column">
                                 <div class="row clearfix">
                                     <div class="col-lg-12 col-md-12 col-sm-12 text-column">
                                         <div class="text">
-                                            <h3>Here's what our soft skills mapping looks like:</h3>
+                                            <h3>The process at Ace Global HR starts by </h3>
                                             </p>
                                             <ul class="list-item clearfix">
-                                                <li>We prepare and give a head start to students to step into a corporate of their choice</li>
-                                                <li>We give them a platform to build a strong reputation for themselves as contributing members of corporate teams,</li>
-                                                <li>We improve their rate of growth in the organisations</li>
-                                                <li>Our primary focus is on imparting life skills essential for success in the corporate world.</li>
+                                                <li>Identifying the potential job candidates,</li>
+                                                <li>Ding thorough research about them</li>
+                                                <li>Generating and filtering the right candidates and</li>
+                                                <li>Networking in order to convert individuals into job applicants.</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -142,64 +146,39 @@
                                     <li class="accordion block">
                                         <div class="acc-btn">
                                             <div class="icon-outer"><i class="fas fa-plus"></i></div>
-                                            <h5>What are the key learning points in the campus to corporate program?</h5>
+                                            <h5>What is our four-point process to identify the right talent pool?
+                                            </h5>
                                         </div>
                                         <div class="acc-content">
                                             <div class="text">
-                                                <ul class="list-item clearfix">
-                                                    <li>We prepare and give a head start to students to step into a corporate of their choice</li>
-                                                    <li>We give them a platform to build a strong reputation for themselves as contributing members of corporate teams,</li>
-                                                    <li>We improve their rate of growth in the organisations</li>
-                                                    <li>Our primary focus is on imparting life skills essential for success in the corporate world.</li>
-                                                </ul>
+                                                <p>Planning: We establish a clear plan that is designed to direct our search toward areas where we find a high density of desirable candidates</p>
+                                                <p>Sourcing: Here we identify, reach out to, and enrich our relationships with potential candidates.</p>
+                                                <p>Assessing: Once we streamline a pool of qualified applicants, we assess and narrow down the candidates who are most aligned with your organization’s culture and values.
+Hiring: We run the candidate through an intensive interview process, and shortlist the top candidate. 
+</p>
+<p>Onboarding: This is the final stage of the talent sourcing process where the onboarding of new employees takes place. </p>
                                             </div>
                                         </div>
                                     </li>
                                     <li class="accordion block active-block">
                                         <div class="acc-btn active">
                                             <div class="icon-outer"><i class="fas fa-plus"></i></div>
-                                            <h5>What’s in it for the organization?</h5>
+                                            <h5>How does Ace Global HR keep up with the growing demand for the right talent pool?</h5>
                                         </div>
                                         <div class="acc-content current">
                                             <div class="text">
-                                                <p>We provide a learning and development platform tailored to the organization’s interests and needs. From delivering company-specific management training and leadership development to maintaining a competitive edge in ever-changing markets, we cover everything.</p>
-                                                <p>Our campus to the corporate program has strategic tools specific to business goals and adds value to the organizations.</p>
+                                                <p>Firstly, we keep the window of the sourcing process always open and are constantly looking for ways to improve our talent sourcing process. We devise thoughtful ways to experiment, acquire feedback, and measure results to deliver impeccable service all the time.</p>
                                             </div>
                                         </div>
                                     </li>
                                     <li class="accordion block">
                                         <div class="acc-btn">
                                             <div class="icon-outer"><i class="fas fa-plus"></i></div>
-                                            <h5>What is the purpose of campus to corporate training?</h5>
+                                            <h5>What is the relationship between talent sourcing and recruiting?</h5>
                                         </div>
                                         <div class="acc-content">
                                             <div class="text">
-                                                <ul class="list-item clearfix">
-                                                    <li>To amplify employee performance</li>
-                                                    <li>To attract & retain talent</li>
-                                                    <li>To improve the quality of the workforce in the organization</li>
-                                                    <li>To foster culture & thought diversity</li>
-                                                    <li>To bolster innovative ideas</li>
-                                                    <li>To minimise skill-gaps</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li class="accordion block">
-                                        <div class="acc-btn">
-                                            <div class="icon-outer"><i class="fas fa-plus"></i></div>
-                                            <h5>Why choose Ace Global HR as your training partner?</h5>
-                                        </div>
-                                        <div class="acc-content">
-                                            <div class="text">
-                                                <ul class="list-item clearfix">
-                                                    <li>Bespoke, flexible and hands-on training programmes.</li>
-                                                    <li>We provide both Onsite and Offsite training models</li>
-                                                    <li>Structured and state-of-the-art course material.</li>
-                                                    <li>Impeccable TAT and decrease costs</li>
-                                                    <li>Optimize staff efficiency and productivity levels</li>
-                                                    <li>Reduced employee turnover and attrition</li>
-                                                </ul>
+                                                <p>Talent sourcing is the building block of the recruitment process and a vital aspect of designing a sturdy talent pipeline. As talent source specialists, we aim at generating leads for a limited number of requisitions. Our team works closely with recruiting and hiring managers to achieve the desired result. </p>
                                             </div>
                                         </div>
                                     </li>
