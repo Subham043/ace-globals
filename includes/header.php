@@ -52,7 +52,7 @@
                                     <li><a href="campus-to-corporate.php">Campus to Corporate</a></li>
                                     <li><a href="talent-identification-sourcing.php">Talent Identificaiton Sources</a></li>
                                     <li><a href="project-details.html">Background / Credentials Verification </a></li>
-                                    <li><a href="error.html">Placement</a></li>
+                                    <li><a href="placement.php">Placement</a></li>
                                     <li><a href="error.html">Staffing Contract</a></li>
                                 </ul>
                             </li>

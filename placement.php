@@ -52,7 +52,7 @@
             <div class="auto-container">
                 <div class="content-box">
                     <div class="title">
-                        <h1>Talent Identificaiton Sources</h1>
+                        <h1>Placement </h1>
                     </div>
                     <ul class="bread-crumb clearfix">
                         <li><a href="index-2.html">Home</a></li>
@@ -72,11 +72,10 @@
                         <div class="service-sidebar">
                             <div class="category-widget">
                                 <ul class="category-list clearfix">
-                                    <li><a href="campus-to-corporate.php"><i class="fas fa-angle-right"></i>Campus to
-                                            Corporate</a></li>
-                                    <li><a href="talent-identification-sourcing.php" class="current"><i
-                                                class="fas fa-angle-right"></i>Talent Identificaiton Sources</a></li>
-                                    <li><a href="placement.php"><i class="fas fa-angle-right"></i>Placement</a></li>
+                                    <li><a href="campus-to-corporate.php"><i
+                                                class="fas fa-angle-right"></i>Campus to Corporate</a></li>
+                                    <li><a href="talent-identification-sourcing.php"><i class="fas fa-angle-right"></i>Talent Identificaiton Sources</a></li>
+                                    <li><a href="placement.php" class="current"><i class="fas fa-angle-right"></i>Placement</a></li>
                                     <li><a href="corporate-program.html"><i class="fas fa-angle-right"></i>Corporate
                                             Program</a></li>
                                     <li><a href="leadership-training.html"><i class="fas fa-angle-right"></i>Leadership
@@ -104,36 +103,28 @@
                                 <i class="flaticon-controller"></i>
                             </figure>
                             <div class="text">
-                                <h2>Talent Identificaiton Sources </h2>
-                                <p>Talent Identificaiton Sources is a cardinal first step in bringing the finest talent
-                                    into your organizational fold. Our sourcing teams work relentlessly to find
-                                    high-quality potential candidates who can be engaged and interested in joining your
-                                    organization. We have a very clear sourcing process in place as we employ best
-                                    practices, and we are invariably looking for ways to revamp your strategy. </p>
-                                <p>Our strategy speaks volumes about how your organization can maximize the utility and
-                                    benefit of our talent sourcing operation.</p>
-                                <p>Through foolproof talent identification sourcing, we generate a consistent flow of
-                                    highly-skilled applicants to the organizations.
+                                <h2>Placement</h2>
+                                <p>Ace Global HR is a consulting company that provides organisations with a high-value workforce and helps bring in a diverse and talented team. The advice that we give to organizational leaders is based on years of experience across all industries, strategies, and innovations.</p>
+                                <p>Our motto is to help organizations find potential candidates who have an equally effective strategy that cuts through complexity, understand the values and culture of the organization and inspires people around them.</p>
+                                <p>We come with international experience that we execute locally to build exceptional customer service and technological advantage. Our placement services are end-to-end automated, and ensure agility, accuracy and excellence in delivering the right candidates for the right role.
                                 </p>
-                                <p>Through foolproof talent identification sourcing, we generate a consistent flow of
-                                    highly-skilled applicants to the organizations.
-                                    Our team develops comprehensive ideas of what you are exactly looking for in your
-                                    candidate’s profile as different job platforms have different specialities. We
-                                    source and assess the right talent pool based on the understanding of where
-                                    candidates with desired talents are concentrated.
-                                    which an organization attracts, recruits, retains, identifies and develops talent.
-                                </p>
+                                <p>Our institutional capability around placement comes with years of experience, discipline and a keen eye to consistently discover new sources of growth.</p>
                             </div>
                             <div class="two-column">
                                 <div class="row clearfix">
                                     <div class="col-lg-12 col-md-12 col-sm-12 text-column">
                                         <div class="text">
-                                            <h3>The process at Ace Global HR starts by </h3>
+                                            <h3>Why choose us?</h3>
+                                            <p>We at Ace Global HR show you a strategy that can attract, recruit and retain the workforce. Our focus is on every aspect ranging from:</p>
                                             <ul class="list-item clearfix">
-                                                <li>Identifying the potential job candidates,</li>
-                                                <li>Ding thorough research about them</li>
-                                                <li>Generating and filtering the right candidates and</li>
-                                                <li>Networking in order to convert individuals into job applicants.</li>
+                                                <li>Requirement mapping</li>
+                                                <li>Sourcing</li>
+                                                <li>Training & skill enhancement programs</li>
+                                                <li>Assessment</li>
+                                                <li>Selection</li>
+                                                <li>Onboarding</li>
+                                                <li>Payroll process and</li>
+                                                <li>Statutory compliances.</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -144,54 +135,56 @@
                                     <li class="accordion block">
                                         <div class="acc-btn">
                                             <div class="icon-outer"><i class="fas fa-plus"></i></div>
-                                            <h5>What is our four-point process to identify the right talent pool?
-                                            </h5>
+                                            <h5>What are the services we offer?</h5>
                                         </div>
                                         <div class="acc-content">
                                             <div class="text">
-                                                <p>Planning: We establish a clear plan that is designed to direct our
-                                                    search toward areas where we find a high density of desirable
-                                                    candidates</p>
-                                                <p>Sourcing: Here we identify, reach out to, and enrich our
-                                                    relationships with potential candidates.</p>
-                                                <p>Assessing: Once we streamline a pool of qualified applicants, we
-                                                    assess and narrow down the candidates who are most aligned with your
-                                                    organization’s culture and values.
-                                                    Hiring: We run the candidate through an intensive interview process,
-                                                    and shortlist the top candidate.
-                                                </p>
-                                                <p>Onboarding: This is the final stage of the talent sourcing process
-                                                    where the onboarding of new employees takes place. </p>
+                                                <ul class="list-item clearfix">
+                                                    <li>General Staffing</li>
+                                                    <li>Permanent Recruitment</li>
+                                                    <li>Facility management</li>
+                                                    <li>Managed services</li>
+                                                    <li>Technology services</li>
+                                                </ul>
                                             </div>
                                         </div>
                                     </li>
                                     <li class="accordion block active-block">
                                         <div class="acc-btn active">
                                             <div class="icon-outer"><i class="fas fa-plus"></i></div>
-                                            <h5>How does Ace Global HR keep up with the growing demand for the right
-                                                talent pool?</h5>
+                                            <h5>How does Ace Global HR design and execute a placement strategy?</h5>
                                         </div>
                                         <div class="acc-content current">
                                             <div class="text">
-                                                <p>Firstly, we keep the window of the sourcing process always open and
-                                                    are constantly looking for ways to improve our talent sourcing
-                                                    process. We devise thoughtful ways to experiment, acquire feedback,
-                                                    and measure results to deliver impeccable service all the time.</p>
+                                                <p>To design a placement strategy and to get the best from your team, we align your HR function with your goals for the future. We offer simple, customized and cost-effective solutions to make your life easier. With the right placement strategy in place, the organization can work smarter, grow stronger and move faster.</p>
                                             </div>
                                         </div>
                                     </li>
                                     <li class="accordion block">
                                         <div class="acc-btn">
                                             <div class="icon-outer"><i class="fas fa-plus"></i></div>
-                                            <h5>What is the relationship between talent sourcing and recruiting?</h5>
+                                            <h5>How do we bridge the gap between job seekers and organizations?</h5>
                                         </div>
                                         <div class="acc-content">
                                             <div class="text">
-                                                <p>Talent sourcing is the building block of the recruitment process and
-                                                    a vital aspect of designing a sturdy talent pipeline. As talent
-                                                    source specialists, we aim at generating leads for a limited number
-                                                    of requisitions. Our team works closely with recruiting and hiring
-                                                    managers to achieve the desired result. </p>
+                                                <p>We play a pivotal role in connecting job seekers and recruiters by connecting the right company with the right candidate. Ace Global HR maintains a large database of job aspirants and employers alike that caters to all the specific needs and requirements for all your placement solutions.</p>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="accordion block">
+                                        <div class="acc-btn">
+                                            <div class="icon-outer"><i class="fas fa-plus"></i></div>
+                                            <h5>What is the key to a successful placement process?</h5>
+                                        </div>
+                                        <div class="acc-content">
+                                            <div class="text">
+                                                <p>The key to successful placement is having a simple process, efficient schedule, tremendous candidate experience, and factual reporting. Here’s what we do:</p>
+                                                <ul class="list-item clearfix">
+                                                    <li>Attract and engage candidates for the right role</li>
+                                                    <li>Configure automated workflows throughout the entirety of the hiring process</li>
+                                                    <li>Meet and screen people virtually or physically </li>
+                                                    <li>Close in on the right people in your organization swiftly</li>
+                                                </ul>
                                             </div>
                                         </div>
                                     </li>

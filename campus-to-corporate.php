@@ -75,8 +75,7 @@
                                     <li><a href="campus-to-corporate.php" class="current"><i
                                                 class="fas fa-angle-right"></i>Campus to Corporate</a></li>
                                     <li><a href="talent-identification-sourcing.php"><i class="fas fa-angle-right"></i>Talent Identificaiton Sources</a></li>
-                                    <li><a href="staffing-solutions.html"><i class="fas fa-angle-right"></i>Staffing
-                                            Solutions</a></li>
+                                    <li><a href="placement.php"><i class="fas fa-angle-right"></i>Placement</a></li>
                                     <li><a href="corporate-program.html"><i class="fas fa-angle-right"></i>Corporate
                                             Program</a></li>
                                     <li><a href="leadership-training.html"><i class="fas fa-angle-right"></i>Leadership
@@ -126,7 +125,6 @@
                                     <div class="col-lg-12 col-md-12 col-sm-12 text-column">
                                         <div class="text">
                                             <h3>Here's what our soft skills mapping looks like:</h3>
-                                            </p>
                                             <ul class="list-item clearfix">
                                                 <li>We prepare and give a head start to students to step into a corporate of their choice</li>
                                                 <li>We give them a platform to build a strong reputation for themselves as contributing members of corporate teams,</li>
