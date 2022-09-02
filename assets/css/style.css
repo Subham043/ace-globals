@@ -2128,7 +2128,7 @@ div#mCSB_1_container{
 
 .service-block-one .inner-box .lower-content{
   position: relative;
-  padding: 34px 50px 27px 50px;
+  padding: 25px 10px;
 }
 
 .service-block-one .inner-box .lower-content h3{
@@ -5161,7 +5161,7 @@ div#mCSB_1_container{
 
 .sidebar-page-container{
   position: relative;
-  padding: 120px 0px;
+  padding: 60px 0px;
 }
 
 .news-block-one .inner-box .lower-content h2{
@@ -5513,12 +5513,12 @@ div#mCSB_1_container{
   font-size: 20px;
   line-height: 28px;
   font-weight: 700;
-  margin-bottom: 38px;
+  margin-bottom: 10px;
 }
 
 .blog-details-content .author-box .inner p{
   font-size: 18px;
-  line-height: 34px;
+  line-height: 25px;
 }
 
 .sidebar-page-container .blog-details-content .news-block-one .inner-box{

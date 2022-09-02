@@ -374,6 +374,36 @@
 			}
 		});    		
 	}
+	
+	// services-carousel
+	if ($('.services-carousel').length) {
+		$('.services-carousel').owlCarousel({
+			loop:true,
+			margin:30,
+			nav:false,
+			smartSpeed: 3000,
+			autoplay: true,
+			navText: [ '<span class="fas fa-angle-left"></span>', '<span class="fas fa-angle-right"></span>' ],
+			responsive:{
+				0:{
+					items:3
+				},
+				480:{
+					items:1
+				},
+				600:{
+					items:1
+				},
+				800:{
+					items:2
+				},			
+				1200:{
+					items:3
+				}
+
+			}
+		});    		
+	}
 
 
 	//Add One Page nav

@@ -185,10 +185,10 @@
             <div class="auto-container">
                 <div class="sec-title centred">
                     <p>Our All Services List</p>
-                    <h2>Outsourced HR Services</h2>
+                    <h2>Our services - Here’s what we do</h2>
                 </div>
-                <div class="row clearfix">
-                    <div class="col-lg-4 col-md-6 col-sm-12 service-block">
+                <div class="row clearfix services-carousel owl-carousel owl-theme owl-nav-none owl-dots-none">
+                    <div class="col-lg-12 col-md-12 col-sm-12 service-block">
                         <div class="service-block-one wow fadeInUp animated animated" data-wow-delay="00ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <figure class="image-box">
@@ -197,15 +197,15 @@
                                     <i class="flaticon-consulting"></i>
                                 </figure>
                                 <div class="lower-content">
-                                    <h3><a href="hr-consulting.html">HR Consulting</a></h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur notted adipisicing elit sed do eiusmod.</p>
+                                    <h3><a href="hr-consulting.html">HR Audit</a></h3>
+                                    <p>We do a complete analysis of your HR department to identify the pitfalls in every business operation and provide the necessary solution for it.</p>
                                     <div class="link"><a href="hr-consulting.html">Read More</a></div>
                                     <div class="light-icon"><i class="flaticon-consulting"></i></div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 service-block">
+                    <div class="col-lg-12 col-md-12 col-sm-12 service-block">
                         <div class="service-block-one wow fadeInUp animated animated" data-wow-delay="300ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <figure class="image-box">
@@ -214,15 +214,15 @@
                                     <i class="flaticon-controller"></i>
                                 </figure>
                                 <div class="lower-content">
-                                    <h3><a href="technology-resource.html">Technology Resource</a></h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur notted adipisicing elit sed do eiusmod.</p>
+                                    <h3><a href="technology-resource.html">HR Strategy</a></h3>
+                                    <p>Ace global HR partners with you to evaluate the services, customize the best solutions and provide you with expert consulting</p>
                                     <div class="link"><a href="technology-resource.html">Read More</a></div>
                                     <div class="light-icon"><i class="flaticon-controller"></i></div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 service-block">
+                    <div class="col-lg-12 col-md-12 col-sm-12 service-block">
                         <div class="service-block-one wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <figure class="image-box">
@@ -231,8 +231,76 @@
                                     <i class="flaticon-policy"></i>
                                 </figure>
                                 <div class="lower-content">
-                                    <h3><a href="staffing-solutions.html">Staffing Solutions</a></h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur notted adipisicing elit sed do eiusmod.</p>
+                                    <h3><a href="staffing-solutions.html">Performance Management</a></h3>
+                                    <p>Revitalising the existing performance process and incorporating emerging trends in your organisation has just got easier. </p>
+                                    <div class="link"><a href="staffing-solutions.html">Read More</a></div>
+                                    <div class="light-icon"><i class="flaticon-policy"></i></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-sm-12 service-block">
+                        <div class="service-block-one wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
+                            <div class="inner-box">
+                                <figure class="image-box">
+                                    <img src="./assets/images/service/service-3.jpg" alt="">
+                                    <span class="category">Solutions</span>
+                                    <i class="flaticon-policy"></i>
+                                </figure>
+                                <div class="lower-content">
+                                    <h3><a href="staffing-solutions.html">Campus to corporate </a></h3>
+                                    <p>Hiring freshers can be daunting. Our expertise can bring the best and the finest workforce to your doorstep. </p>
+                                    <div class="link"><a href="staffing-solutions.html">Read More</a></div>
+                                    <div class="light-icon"><i class="flaticon-policy"></i></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-sm-12 service-block">
+                        <div class="service-block-one wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
+                            <div class="inner-box">
+                                <figure class="image-box">
+                                    <img src="./assets/images/service/service-3.jpg" alt="">
+                                    <span class="category">Solutions</span>
+                                    <i class="flaticon-policy"></i>
+                                </figure>
+                                <div class="lower-content">
+                                    <h3><a href="staffing-solutions.html">Induction program</a></h3>
+                                    <p>We take care of the whole process right from the job role to the working cycle to the employee and improve operational efficiency.</p>
+                                    <div class="link"><a href="staffing-solutions.html">Read More</a></div>
+                                    <div class="light-icon"><i class="flaticon-policy"></i></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-sm-12 service-block">
+                        <div class="service-block-one wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
+                            <div class="inner-box">
+                                <figure class="image-box">
+                                    <img src="./assets/images/service/service-3.jpg" alt="">
+                                    <span class="category">Solutions</span>
+                                    <i class="flaticon-policy"></i>
+                                </figure>
+                                <div class="lower-content">
+                                    <h3><a href="staffing-solutions.html">Employee Engagement & Retention</a></h3>
+                                    <p>We help you leverage perceptive analytics and identify the problem areas, and engagement trends to set up an astute workforce</p>
+                                    <div class="link"><a href="staffing-solutions.html">Read More</a></div>
+                                    <div class="light-icon"><i class="flaticon-policy"></i></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-sm-12 service-block">
+                        <div class="service-block-one wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
+                            <div class="inner-box">
+                                <figure class="image-box">
+                                    <img src="./assets/images/service/service-3.jpg" alt="">
+                                    <span class="category">Solutions</span>
+                                    <i class="flaticon-policy"></i>
+                                </figure>
+                                <div class="lower-content">
+                                    <h3><a href="staffing-solutions.html">Placements</a></h3>
+                                    <p>Our forte here is to match employees to employers. HR departments can outsource their searches for new employees to us and be rest assured.</p>
                                     <div class="link"><a href="staffing-solutions.html">Read More</a></div>
                                     <div class="light-icon"><i class="flaticon-policy"></i></div>
                                 </div>

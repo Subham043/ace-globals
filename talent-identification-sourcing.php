@@ -75,6 +75,7 @@
                                 <li><a href="campus-to-corporate.php"><i
                                                 class="fas fa-angle-right"></i>Campus to Corporate</a></li>
                                     <li><a href="talent-identification-sourcing.php" class="current"><i class="fas fa-angle-right"></i>Talent Identificaiton Sources</a></li>
+                                    <li><a href="background-credential-verification.php" ><i class="fas fa-angle-right"></i>Background / Credentials Verification</a></li>
                                     <li><a href="placement.php"><i class="fas fa-angle-right"></i>Placement</a></li>
                                     <li><a href="contract-staffing.php"><i class="fas fa-angle-right"></i>Contract Staffing</a></li>
                                     <li><a href="leadership-training.html"><i class="fas fa-angle-right"></i>Leadership
@@ -87,7 +88,7 @@
                                 <div class="content-box">
                                     <div class="icon-box"><i class="flaticon-phone"></i></div>
                                     <p>Get Professional Help</p>
-                                    <h3><a href="tel:928886660000">+ 92 888 666 0000</a></h3>
+                                    <h3><a href="tel:9538969696">9538969696</a></h3>
                                 </div>
                             </div>
                         </div>

@@ -51,13 +51,13 @@
                                 <ul>
                                     <li><a href="campus-to-corporate.php">Campus to Corporate</a></li>
                                     <li><a href="talent-identification-sourcing.php">Talent Identificaiton Sources</a></li>
-                                    <li><a href="project-details.html">Background / Credentials Verification </a></li>
+                                    <li><a href="background-credential-verification.php">Background / Credentials Verification </a></li>
                                     <li><a href="placement.php">Placement</a></li>
                                     <li><a href="contract-staffing.php">Staffing Contract</a></li>
                                 </ul>
                             </li>
                             <li><a href="contact.php">Industries Verticals</a></li>
-                            <li><a href="contact.php">Leadership Team</a></li>
+                            <li><a href="leadership-team.php">Leadership Team</a></li>
                             <li><a href="contact.php">Experties</a></li>
                         </ul>
                     </div>

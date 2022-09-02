@@ -52,7 +52,7 @@
             <div class="auto-container">
                 <div class="content-box">
                     <div class="title">
-                        <h1>Placement </h1>
+                        <h1>Background / Credentials Verification </h1>
                     </div>
                     <ul class="bread-crumb clearfix">
                         <li><a href="index-2.html">Home</a></li>
@@ -75,11 +75,9 @@
                                 <li><a href="campus-to-corporate.php"><i
                                                 class="fas fa-angle-right"></i>Campus to Corporate</a></li>
                                     <li><a href="talent-identification-sourcing.php"><i class="fas fa-angle-right"></i>Talent Identificaiton Sources</a></li>
-                                    <li><a href="background-credential-verification.php" ><i class="fas fa-angle-right"></i>Background / Credentials Verification</a></li>
-                                    <li><a href="placement.php" class="current"><i class="fas fa-angle-right"></i>Placement</a></li>
+                                    <li><a href="background-credential-verification.php" class="current"><i class="fas fa-angle-right"></i>Background / Credentials Verification</a></li>
+                                    <li><a href="placement.php"><i class="fas fa-angle-right"></i>Placement</a></li>
                                     <li><a href="contract-staffing.php"><i class="fas fa-angle-right"></i>Contract Staffing</a></li>
-                                    <li><a href="leadership-training.html"><i class="fas fa-angle-right"></i>Leadership
-                                            Training</a></li>
                                 </ul>
                             </div>
                             <div class="support-box">
@@ -101,28 +99,26 @@
                                 <i class="flaticon-controller"></i>
                             </figure>
                             <div class="text">
-                                <h2>Placement</h2>
-                                <p>Ace Global HR is a consulting company that provides organisations with a high-value workforce and helps bring in a diverse and talented team. The advice that we give to organizational leaders is based on years of experience across all industries, strategies, and innovations.</p>
-                                <p>Our motto is to help organizations find potential candidates who have an equally effective strategy that cuts through complexity, understand the values and culture of the organization and inspires people around them.</p>
-                                <p>We come with international experience that we execute locally to build exceptional customer service and technological advantage. Our placement services are end-to-end automated, and ensure agility, accuracy and excellence in delivering the right candidates for the right role.
+                                <h2>Background / Credentials Verification</h2>
+                                <p>Maintaining compliance through background checks generally creates onboarding roadblocks for the candidates and tends to become a burden for your team members.
+It is important that the process is smooth sailing and done within a stipulated time. Ace Global HR works meticulously with you to design solutions that achieve this goal seamlessly. 
+</p>
+                                <p>Through a scrupulous, automated background check process and by using strict data security protocols, we procure the data that verifies the financial, unlawful and sometimes commercial records of employees. </p>
+                                <p>Our Background and Credential Verification services protect the organization’s interests and keep any kind of fraudulent activities, loss of income and damage to reputation at bay.
                                 </p>
-                                <p>Our institutional capability around placement comes with years of experience, discipline and a keen eye to consistently discover new sources of growth.</p>
+                                <p>Ace Global HR is your source for the most professional background screening services in the industry as we do comprehensive screening with immediate results. Our array of products and services is designed specifically to provide you with high calibre information at phenomenal prices. </p>
                             </div>
                             <div class="two-column">
                                 <div class="row clearfix">
                                     <div class="col-lg-12 col-md-12 col-sm-12 text-column">
                                         <div class="text">
                                             <h3>Why choose us?</h3>
-                                            <p>We at Ace Global HR show you a strategy that can attract, recruit and retain the workforce. Our focus is on every aspect ranging from:</p>
                                             <ul class="list-item clearfix">
-                                                <li>Requirement mapping</li>
-                                                <li>Sourcing</li>
-                                                <li>Training & skill enhancement programs</li>
-                                                <li>Assessment</li>
-                                                <li>Selection</li>
-                                                <li>Onboarding</li>
-                                                <li>Payroll process and</li>
-                                                <li>Statutory compliances.</li>
+                                                <li>Fast turnaround times</li>
+                                                <li>Great backend support</li>
+                                                <li>Global reach & range</li>
+                                                <li>Customised & contrived solutions</li>
+                                                <li>HR, ATS and API integrations</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -133,16 +129,15 @@
                                     <li class="accordion block">
                                         <div class="acc-btn">
                                             <div class="icon-outer"><i class="fas fa-plus"></i></div>
-                                            <h5>What are the services we offer?</h5>
+                                            <h5>What are the services that we offer?</h5>
                                         </div>
                                         <div class="acc-content">
                                             <div class="text">
+                                                <p>Our Services include:</p>
                                                 <ul class="list-item clearfix">
-                                                    <li>General Staffing</li>
-                                                    <li>Permanent Recruitment</li>
-                                                    <li>Facility management</li>
-                                                    <li>Managed services</li>
-                                                    <li>Technology services</li>
+                                                    <li>Employee Background Screening - Access to due-diligence reports, Quality verification with authentic analysis and a Strong network with an international presence.</li>
+                                                    <li>Education Verification - Digital education verification. minimize liability, scopious reach with real-time report updates</li>
+                                                    <li>Know Your Customer [KYC] - Advanced and automated customer identification, accurate risk mitigation analysis, augmented operational efficiency with expanded reach</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -150,39 +145,33 @@
                                     <li class="accordion block active-block">
                                         <div class="acc-btn active">
                                             <div class="icon-outer"><i class="fas fa-plus"></i></div>
-                                            <h5>How does Ace Global HR design and execute a placement strategy?</h5>
+                                            <h5>What is our TAT to deliver apt results?</h5>
                                         </div>
                                         <div class="acc-content current">
                                             <div class="text">
-                                                <p>To design a placement strategy and to get the best from your team, we align your HR function with your goals for the future. We offer simple, customized and cost-effective solutions to make your life easier. With the right placement strategy in place, the organization can work smarter, grow stronger and move faster.</p>
+                                                <p>We have a streamlined online process that can deliver results in less than an hour. Our background and credentials verification saves organizations a lot of time as we neither deal with paper forms nor follow up with candidates to conclude their verifications.</p>
                                             </div>
                                         </div>
                                     </li>
                                     <li class="accordion block">
                                         <div class="acc-btn">
                                             <div class="icon-outer"><i class="fas fa-plus"></i></div>
-                                            <h5>How do we bridge the gap between job seekers and organizations?</h5>
+                                            <h5>Why are background checks necessary?</h5>
                                         </div>
                                         <div class="acc-content">
                                             <div class="text">
-                                                <p>We play a pivotal role in connecting job seekers and recruiters by connecting the right company with the right candidate. Ace Global HR maintains a large database of job aspirants and employers alike that caters to all the specific needs and requirements for all your placement solutions.</p>
+                                                <p>In today’s growing world, it is important that organizations get pre-employment verifications done for all their employees to avoid any kind of hassle in the future. These background checks keep a tab on both the competitors as well as your employees. We cater to verifications that even include BFSI, type of residential occupancy, domestic help and support staff verification, etc</p>
                                             </div>
                                         </div>
                                     </li>
                                     <li class="accordion block">
                                         <div class="acc-btn">
                                             <div class="icon-outer"><i class="fas fa-plus"></i></div>
-                                            <h5>What is the key to a successful placement process?</h5>
+                                            <h5>What framework do we use to perform background verification?</h5>
                                         </div>
                                         <div class="acc-content">
                                             <div class="text">
-                                                <p>The key to successful placement is having a simple process, efficient schedule, tremendous candidate experience, and factual reporting. Here’s what we do:</p>
-                                                <ul class="list-item clearfix">
-                                                    <li>Attract and engage candidates for the right role</li>
-                                                    <li>Configure automated workflows throughout the entirety of the hiring process</li>
-                                                    <li>Meet and screen people virtually or physically </li>
-                                                    <li>Close in on the right people in your organization swiftly</li>
-                                                </ul>
+                                                <p>Ace Global HR has a dynamic legal team that, if need be, gets in touch with advisors in the government to perform background verification and credentials services with authentic results. To maintain the authenticity and accuracy of our verification results, we have collaborated with C-DAC and E-Pramaan (National e-Authentication framework). </p>
                                             </div>
                                         </div>
                                     </li>
