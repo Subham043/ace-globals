@@ -153,7 +153,7 @@
                                                 </p>
                                             </div>
                                             <div class="progress-box">
-                                                <h5>Stuffing</h5>
+                                                <h5>Staffing</h5>
                                                 <div class="bar">
                                                     <div class="bar-inner count-bar counted" data-percent="80%"><div class="count-text">80%</div></div>
                                                 </div>
@@ -197,8 +197,8 @@
                                     <i class="flaticon-consulting"></i>
                                 </figure>
                                 <div class="lower-content">
-                                    <h3><a href="hr-consulting.html">HR Audit</a></h3>
-                                    <p>We do a complete analysis of your HR department to identify the pitfalls in every business operation and provide the necessary solution for it.</p>
+                                    <h3><a href="hr-consulting.html">Placements</a></h3>
+                                    <p>Our forte here is to match employees to employers. HR departments can outsource their searches for new employees to us and be rest assured.</p>
                                     <div class="link"><a href="hr-consulting.html">Read More</a></div>
                                     <div class="light-icon"><i class="flaticon-consulting"></i></div>
                                 </div>
@@ -214,8 +214,8 @@
                                     <i class="flaticon-controller"></i>
                                 </figure>
                                 <div class="lower-content">
-                                    <h3><a href="technology-resource.html">HR Strategy</a></h3>
-                                    <p>Ace global HR partners with you to evaluate the services, customize the best solutions and provide you with expert consulting</p>
+                                    <h3><a href="technology-resource.html">Background / Credentials Verification</a></h3>
+                                    <p>Ace Global HR works meticulously with you in maintaining compliance through background checks to avoid any onboarding roadblocks </p>
                                     <div class="link"><a href="technology-resource.html">Read More</a></div>
                                     <div class="light-icon"><i class="flaticon-controller"></i></div>
                                 </div>
@@ -231,7 +231,7 @@
                                     <i class="flaticon-policy"></i>
                                 </figure>
                                 <div class="lower-content">
-                                    <h3><a href="staffing-solutions.html">Performance Management</a></h3>
+                                    <h3><a href="staffing-solutions.html">Contract Staffing</a></h3>
                                     <p>Revitalising the existing performance process and incorporating emerging trends in your organisation has just got easier. </p>
                                     <div class="link"><a href="staffing-solutions.html">Read More</a></div>
                                     <div class="light-icon"><i class="flaticon-policy"></i></div>
@@ -249,7 +249,24 @@
                                 </figure>
                                 <div class="lower-content">
                                     <h3><a href="staffing-solutions.html">Campus to corporate </a></h3>
-                                    <p>Hiring freshers can be daunting. Our expertise can bring the best and the finest workforce to your doorstep. </p>
+                                    <p>Ace Global Hr caters to services like independent contracts, part-time work, seasonal work, etc, as we believe that “One size doesn't fit all”</p>
+                                    <div class="link"><a href="staffing-solutions.html">Read More</a></div>
+                                    <div class="light-icon"><i class="flaticon-policy"></i></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-sm-12 service-block">
+                        <div class="service-block-one wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
+                            <div class="inner-box">
+                                <figure class="image-box">
+                                    <img src="./assets/images/service/service-3.jpg" alt="">
+                                    <span class="category">Solutions</span>
+                                    <i class="flaticon-policy"></i>
+                                </figure>
+                                <div class="lower-content">
+                                    <h3><a href="staffing-solutions.html">Talent Identification Sourcing</a></h3>
+                                    <p>Our sourcing teams bring the finest talent into your organizational fold. We work relentlessly to find high-quality potential candidates.</p>
                                     <div class="link"><a href="staffing-solutions.html">Read More</a></div>
                                     <div class="light-icon"><i class="flaticon-policy"></i></div>
                                 </div>
@@ -284,23 +301,6 @@
                                 <div class="lower-content">
                                     <h3><a href="staffing-solutions.html">Employee Engagement & Retention</a></h3>
                                     <p>We help you leverage perceptive analytics and identify the problem areas, and engagement trends to set up an astute workforce</p>
-                                    <div class="link"><a href="staffing-solutions.html">Read More</a></div>
-                                    <div class="light-icon"><i class="flaticon-policy"></i></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-12 col-md-12 col-sm-12 service-block">
-                        <div class="service-block-one wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
-                            <div class="inner-box">
-                                <figure class="image-box">
-                                    <img src="./assets/images/service/service-3.jpg" alt="">
-                                    <span class="category">Solutions</span>
-                                    <i class="flaticon-policy"></i>
-                                </figure>
-                                <div class="lower-content">
-                                    <h3><a href="staffing-solutions.html">Placements</a></h3>
-                                    <p>Our forte here is to match employees to employers. HR departments can outsource their searches for new employees to us and be rest assured.</p>
                                     <div class="link"><a href="staffing-solutions.html">Read More</a></div>
                                     <div class="light-icon"><i class="flaticon-policy"></i></div>
                                 </div>
@@ -358,7 +358,7 @@
                                         <p>From retained HR Support to HR Project Support, recruitment support to training & development, placement and much more, we have done it all.</p>
                                     </div>
                                 </div>
-                                <div class="btn-box"><a href="index-3.html" class="theme-btn-one">Connect With Us</a></div>
+                                <div class="btn-box"><a href="index-3.html" class="theme-btn-one">Meet Our Leaders</a></div>
                             </div>
                         </div>
                     </div>
@@ -493,16 +493,16 @@
                                     <div class="testimonial-inner">
                                         <div class="single-item-carousel owl-carousel owl-theme owl-dots-none nav-style-one">
                                             <div class="testimonial-content">
-                                                <h3>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch.</h3>
-                                                <h5>John Smith  -  Co Founder</h5>
+                                                <h3>We used Ace Global HR to guide us through the process of placement and staffing. They have done a terrific job by adhering to our timelines in a professional manner. We would highly recommend them and will be using their services again in the future!</h3>
+                                                <h5>Suresh Jayachandra  -  Co Founder</h5>
                                             </div>
                                             <div class="testimonial-content">
-                                                <h3>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch.</h3>
-                                                <h5>John Smith  -  Co Founder</h5>
+                                                <h3>I have used their expertise in the past and highly recommend them to anyone who is looking for timely and quality HR services and advice. They have a keen eye on the industry trends and provide us with good practical advice. </h3>
+                                                <h5>Vinay Abraham  -  Co Founder</h5>
                                             </div>
                                             <div class="testimonial-content">
-                                                <h3>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch.</h3>
-                                                <h5>John Smith  -  Co Founder</h5>
+                                                <h3>Ace Global HR’s background verification is on spot and they got back to us very fast. I really appreciate their swift turnaround time. The team is always willing to help and give advice that reaps good results. I strongly recommend them. </h3>
+                                                <h5>Aparna Godbole  -  Co Founder</h5>
                                             </div>
                                         </div>
                                     </div>

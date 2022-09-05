@@ -52,7 +52,7 @@
             <div class="auto-container">
                 <div class="content-box">
                     <div class="title">
-                        <h1>Talent Identificaiton Sources</h1>
+                        <h1>Services </h1>
                     </div>
                     <ul class="bread-crumb clearfix">
                         <li><a href="index-2.html">Home</a></li>
@@ -74,7 +74,7 @@
                                 <ul class="category-list clearfix">
                                 <li><a href="campus-to-corporate.php"><i
                                                 class="fas fa-angle-right"></i>Campus to Corporate</a></li>
-                                    <li><a href="talent-identification-sourcing.php" class="current"><i class="fas fa-angle-right"></i>Talent Identificaiton Sources</a></li>
+                                    <li><a href="talent-identification-sourcing.php"><i class="fas fa-angle-right"></i>Talent Identificaiton Sources</a></li>
                                     <li><a href="background-credential-verification.php" ><i class="fas fa-angle-right"></i>Background / Credentials Verification</a></li>
                                     <li><a href="placement.php"><i class="fas fa-angle-right"></i>Placement</a></li>
                                     <li><a href="contract-staffing.php"><i class="fas fa-angle-right"></i>Contract Staffing</a></li>
@@ -99,36 +99,27 @@
                                 <i class="flaticon-controller"></i>
                             </figure>
                             <div class="text">
-                                <h2>Talent Identificaiton Sources </h2>
-                                <p>Talent Identificaiton Sources is a cardinal first step in bringing the finest talent
-                                    into your organizational fold. Our sourcing teams work relentlessly to find
-                                    high-quality potential candidates who can be engaged and interested in joining your
-                                    organization. We have a very clear sourcing process in place as we employ best
-                                    practices, and we are invariably looking for ways to revamp your strategy. </p>
-                                <p>Our strategy speaks volumes about how your organization can maximize the utility and
-                                    benefit of our talent sourcing operation.</p>
-                                <p>Through foolproof talent identification sourcing, we generate a consistent flow of
-                                    highly-skilled applicants to the organizations.
-                                </p>
-                                <p>Through foolproof talent identification sourcing, we generate a consistent flow of
-                                    highly-skilled applicants to the organizations.
-                                    Our team develops comprehensive ideas of what you are exactly looking for in your
-                                    candidate’s profile as different job platforms have different specialities. We
-                                    source and assess the right talent pool based on the understanding of where
-                                    candidates with desired talents are concentrated.
-                                    which an organization attracts, recruits, retains, identifies and develops talent.
-                                </p>
+                                <h2>We enable your business to harness the power of human energy.</h2>
+                                <p>At Ace Global HR, we offer all HR services right from understanding how your organisation thrives on the quality of your people to creating exemplary organisational cultures. We have been successful in resolving critical organisational issues so that organizations work smoothly on a daily basis without any discrepancies.</p>
+                                <p>We are committed to developing a team of talented consultants that provide you with practical and real-world advice and support. For us, your business community is at the crux of our thought process and the core of our business is to offer human resource services and management consulting to organizations.</p>
+                                <p>We are also specialists in mentoring CEOs and founders to amplify engagement and performance in their businesses.</p>
                             </div>
                             <div class="two-column">
                                 <div class="row clearfix">
                                     <div class="col-lg-12 col-md-12 col-sm-12 text-column">
                                         <div class="text">
-                                            <h3>The process at Ace Global HR starts by </h3>
+                                            <h3>We collaborate with our clients across all facets of human resources like</h3>
                                             <ul class="list-item clearfix">
-                                                <li>Identifying the potential job candidates,</li>
-                                                <li>Ding thorough research about them</li>
-                                                <li>Generating and filtering the right candidates and</li>
-                                                <li>Networking in order to convert individuals into job applicants.</li>
+                                                <li>Workforce planning,</li>
+                                                <li>Safety and wellbeing,</li>
+                                                <li>Talent acquisition,</li>
+                                                <li>Industrial relations,</li>
+                                                <li>Learning and development,</li>
+                                                <li>Organisational development,</li>
+                                                <li>Diversity and inclusion</li>
+                                                <li>Human resource management systems,</li>
+                                                <li>Change management and</li>
+                                                <li>Remuneration and benefits.</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -139,54 +130,57 @@
                                     <li class="accordion block">
                                         <div class="acc-btn">
                                             <div class="icon-outer"><i class="fas fa-plus"></i></div>
-                                            <h5>What is our four-point process to identify the right talent pool?
-                                            </h5>
+                                            <h5>How We Can Help?</h5>
                                         </div>
                                         <div class="acc-content">
                                             <div class="text">
-                                                <p>Planning: We establish a clear plan that is designed to direct our
-                                                    search toward areas where we find a high density of desirable
-                                                    candidates</p>
-                                                <p>Sourcing: Here we identify, reach out to, and enrich our
-                                                    relationships with potential candidates.</p>
-                                                <p>Assessing: Once we streamline a pool of qualified applicants, we
-                                                    assess and narrow down the candidates who are most aligned with your
-                                                    organization’s culture and values.
-                                                    Hiring: We run the candidate through an intensive interview process,
-                                                    and shortlist the top candidate.
-                                                </p>
-                                                <p>Onboarding: This is the final stage of the talent sourcing process
-                                                    where the onboarding of new employees takes place. </p>
+                                                <p>We assist our clients in –</p>
+                                                <ul class="list-item clearfix">
+                                                    <li>Identifying internal skill gaps and addressing them for HR expertise</li>
+                                                    <li>We step up in absence of an in-house HR department and let the show go on seamlessly</li>
+                                                    <li>Undertake special projects that can upscale your organization</li>
+                                                    <li>By Capitalizing on opportunities by keeping up with the latest trends</li>
+                                                </ul>
                                             </div>
                                         </div>
                                     </li>
                                     <li class="accordion block active-block">
                                         <div class="acc-btn active">
                                             <div class="icon-outer"><i class="fas fa-plus"></i></div>
-                                            <h5>How does Ace Global HR keep up with the growing demand for the right
-                                                talent pool?</h5>
+                                            <h5>What is our plan of action?</h5>
                                         </div>
                                         <div class="acc-content current">
                                             <div class="text">
-                                                <p>Firstly, we keep the window of the sourcing process always open and
-                                                    are constantly looking for ways to improve our talent sourcing
-                                                    process. We devise thoughtful ways to experiment, acquire feedback,
-                                                    and measure results to deliver impeccable service all the time.</p>
+                                                <p>Our plan of action includes:</p>
+                                                <ul class="list-item clearfix">
+                                                    <li>Developing strategies and agendas</li>
+                                                    <li>Recruiting the best workforce</li>
+                                                    <li>Developing your team with adequate training</li>
+                                                    <li>Help your workforce improve their performance.</li>
+                                                </ul>
                                             </div>
                                         </div>
                                     </li>
                                     <li class="accordion block">
                                         <div class="acc-btn">
                                             <div class="icon-outer"><i class="fas fa-plus"></i></div>
-                                            <h5>What is the relationship between talent sourcing and recruiting?</h5>
+                                            <h5>How do we revitalise and improve your existing performance?</h5>
                                         </div>
                                         <div class="acc-content">
                                             <div class="text">
-                                                <p>Talent sourcing is the building block of the recruitment process and
-                                                    a vital aspect of designing a sturdy talent pipeline. As talent
-                                                    source specialists, we aim at generating leads for a limited number
-                                                    of requisitions. Our team works closely with recruiting and hiring
-                                                    managers to achieve the desired result. </p>
+                                                <p>We prepare bespoke employment documentation like job descriptions, background verification, letters and contracts for your business. Right from providing you with templates, and forms to streamlining your processes, we take care of it all.</p>
+                                                <p>We know that hiring people can be very taxing, we help our clients get back to what they do best, growing their business while we work wonders from the backend.</p>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="accordion block">
+                                        <div class="acc-btn">
+                                            <div class="icon-outer"><i class="fas fa-plus"></i></div>
+                                            <h5>How does confidentiality and non-disclosure work in our company?</h5>
+                                        </div>
+                                        <div class="acc-content">
+                                            <div class="text">
+                                                <p>Once our solutions match your requirements, we then get into a confidentiality and non-disclosure agreement that will ensure substantial protection for both parties.</p>
                                             </div>
                                         </div>
                                     </li>

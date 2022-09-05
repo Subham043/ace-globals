@@ -47,7 +47,7 @@
                         <ul class="navigation clearfix">
                             <li class="current"><a href="index.php">Home</a></li>
                             <li><a href="about.php">About Us</a></li>
-                            <li class="dropdown"><a href="index.php">Our Services</a>
+                            <li class="dropdown"><a href="services.php">Our Services</a>
                                 <ul>
                                     <li><a href="campus-to-corporate.php">Campus to Corporate</a></li>
                                     <li><a href="talent-identification-sourcing.php">Talent Identificaiton Sources</a></li>
@@ -58,7 +58,7 @@
                             </li>
                             <li><a href="contact.php">Industries Verticals</a></li>
                             <li><a href="leadership-team.php">Leadership Team</a></li>
-                            <li><a href="contact.php">Experties</a></li>
+                            <li><a href="csr.php">Experties</a></li>
                         </ul>
                     </div>
                 </nav>

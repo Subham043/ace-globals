@@ -83,7 +83,7 @@
                         <div class="col-lg-12 col-md-12 col-sm-12 content-column">
                             <div class="content-box">
                                 <div class="sec-title">
-                                    <p>Our Agency Detail Introduction</p>
+                                    <p>Know all about us</p>
                                     <h2>We are the maximisers</h2>
                                 </div>
                                 <div class="text">

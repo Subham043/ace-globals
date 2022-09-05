@@ -102,10 +102,10 @@
                         <div class="title-inner">
                             <div class="sec-title">
                                 <p>Contact with Us</p>
-                                <h2>Call Now or Write a Message</h2>
+                                <h2>Let us know your HR queries and we will get back to you</h2>
                             </div>
                             <div class="text">
-                                <p>Lorem ipsum dolor sit amet, conse ctetur adipisicing elit sed do eiusm od tempor ut labore. sit amet scelerisque eros. Phasellus hendrerit neque a augue.</p>
+                                <p>Contact Ace Global HR now for a structured and customised discussion about your business plans, challenges or initiatives. Find out how we can provide you with the systematic business support and prowess you need.</p>
                             </div>
                             <ul class="social-links clearfix"> 
                                 <li><h6>Connect:</h6></li>

@@ -78,8 +78,6 @@
                                     <li><a href="background-credential-verification.php" ><i class="fas fa-angle-right"></i>Background / Credentials Verification</a></li>
                                     <li><a href="placement.php" class="current"><i class="fas fa-angle-right"></i>Placement</a></li>
                                     <li><a href="contract-staffing.php"><i class="fas fa-angle-right"></i>Contract Staffing</a></li>
-                                    <li><a href="leadership-training.html"><i class="fas fa-angle-right"></i>Leadership
-                                            Training</a></li>
                                 </ul>
                             </div>
                             <div class="support-box">
