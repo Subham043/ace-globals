@@ -21,7 +21,7 @@
                             <div class="inner">
                                 <div class="icon-box"><i class="flaticon-address"></i></div>
                                 <h6>Address</h6>
-                                <p>Suite 20 Golden Street USA</p>
+                                <p>Basavanagudi, Bengaluru, 560004</p>
                             </div>
                         </div>
                     </div>

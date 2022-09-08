@@ -68,7 +68,7 @@
                         <div class="single-info-box">
                             <div class="inner-box">
                                 <div class="icon-box"><i class="flaticon-email"></i></div>
-                                <p><a href="mailto:sunil@aceglobalhr.com">sunil@aceglobalhr.com</a></p>
+                                <p><a href="mailto:sunil@aceglobalhr.com">sunil@aceglobalhr.com</a><br/><a href="mailto:hr@aceglobalhr.com">hr@aceglobalhr.com</a></p>
                             </div>
                         </div>
                     </div>
@@ -76,7 +76,7 @@
                         <div class="single-info-box">
                             <div class="inner-box">
                                 <div class="icon-box"><i class="flaticon-telephone"></i></div>
-                                <p><a href="tel:9538969696">9538969696</a></p>
+                                <p><a href="tel:9538969696">9538969696</a><br/><a href="tel:9980530284">9980530284</a></p>
                             </div>
                         </div>
                     </div>
@@ -84,7 +84,7 @@
                         <div class="single-info-box">
                             <div class="inner-box">
                                 <div class="icon-box"><i class="flaticon-pin"></i></div>
-                                <p>Suite 20 Golden Street Line <br />New York, USA</p>
+                                <p>Address: 16, 2nd Floor, Evergreen House Kanakanapalya, Road, Basavanagudi, Bengaluru, Karnataka 560004</p>
                             </div>
                         </div>
                     </div>

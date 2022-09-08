@@ -47,7 +47,7 @@
         <section class="banner-section style-two centred">
             <div class="banner-carousel owl-theme owl-carousel owl-dots-none">
                 <div class="slide-item">
-                    <div class="image-layer" style="background-image:url(./assets/images/banner/banner-3.jpg)"></div>
+                    <div class="image-layer" style="background-image:url(./assets/images/banner/banner-7.jpg)"></div>
                     <div class="auto-container">
                         <div class="content-box">
                             <h1>A seamless journey through a human-centric approach</h1>
@@ -59,7 +59,7 @@
                     </div>
                 </div>
                 <div class="slide-item">
-                    <div class="image-layer" style="background-image:url(./assets/images/banner/banner-4.jpg)"></div>
+                    <div class="image-layer" style="background-image:url(./assets/images/banner/banner-6.jpg)"></div>
                     <div class="auto-container">
                         <div class="content-box">
                             <h1>We're galvanised to empower your workforce</h1>
@@ -71,7 +71,7 @@
                     </div>
                 </div>
                 <div class="slide-item">
-                    <div class="image-layer" style="background-image:url(./assets/images/banner/banner-2.jpg)"></div>
+                    <div class="image-layer" style="background-image:url(./assets/images/banner/banner-5.jpg)"></div>
                     <div class="auto-container">
                         <div class="content-box">
                             <h1>Build your business with our best practices</h1>
@@ -94,7 +94,7 @@
                     <div class="col-lg-5 col-md-12 col-sm-12 title-column">
                         <div class="sec-title light">
                             <p>About Ace Global</p>
-                            <h2>Ace global HR is a transparent and proven talent acquisition company with a proficient team at the helm.</h2>
+                            <h2>A proven talent acquisition company with a proficient team at the helm.</h2>
                         </div>
                     </div>
                     <div class="col-lg-7 col-md-12 col-sm-12 text-column">
@@ -144,7 +144,7 @@
                                 <div class="content-box">
                                     <div class="sec-title">
                                         <p>Learn Ace Global</p>
-                                        <h2>We understand the importance of employing the right people with the right skill set and attitude that can match and meet your business goals.</h2>
+                                        <h2>Ace Global HR understands the importance of matching the right people with the right skill set to meet your business goals.</h2>
                                     </div>
                                     <div class="progress-inner">
                                         <div class="progress-content">
@@ -192,7 +192,7 @@
                         <div class="service-block-one wow fadeInUp animated animated" data-wow-delay="00ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <figure class="image-box">
-                                    <img src="./assets/images/service/service-1.jpg" alt="">
+                                    <img src="./assets/images/news/news-1.jpg" alt="">
                                     <span class="category">Management</span>
                                     <i class="flaticon-consulting"></i>
                                 </figure>
@@ -209,7 +209,7 @@
                         <div class="service-block-one wow fadeInUp animated animated" data-wow-delay="300ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <figure class="image-box">
-                                    <img src="./assets/images/service/service-2.jpg" alt="">
+                                    <img src="./assets/images/news/news-2.jpg" alt="">
                                     <span class="category">Resources</span>
                                     <i class="flaticon-controller"></i>
                                 </figure>
@@ -226,7 +226,7 @@
                         <div class="service-block-one wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <figure class="image-box">
-                                    <img src="./assets/images/service/service-3.jpg" alt="">
+                                    <img src="./assets/images/news/news-3.jpg" alt="">
                                     <span class="category">Solutions</span>
                                     <i class="flaticon-policy"></i>
                                 </figure>
@@ -243,7 +243,7 @@
                         <div class="service-block-one wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <figure class="image-box">
-                                    <img src="./assets/images/service/service-3.jpg" alt="">
+                                    <img src="./assets/images/news/news-4.jpg" alt="">
                                     <span class="category">Solutions</span>
                                     <i class="flaticon-policy"></i>
                                 </figure>
@@ -260,7 +260,7 @@
                         <div class="service-block-one wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <figure class="image-box">
-                                    <img src="./assets/images/service/service-3.jpg" alt="">
+                                    <img src="./assets/images/news/news-5.jpg" alt="">
                                     <span class="category">Solutions</span>
                                     <i class="flaticon-policy"></i>
                                 </figure>
@@ -277,7 +277,7 @@
                         <div class="service-block-one wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <figure class="image-box">
-                                    <img src="./assets/images/service/service-3.jpg" alt="">
+                                    <img src="./assets/images/news/news-6.jpg" alt="">
                                     <span class="category">Solutions</span>
                                     <i class="flaticon-policy"></i>
                                 </figure>
@@ -294,7 +294,7 @@
                         <div class="service-block-one wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <figure class="image-box">
-                                    <img src="./assets/images/service/service-3.jpg" alt="">
+                                    <img src="./assets/images/news/news-7.jpg" alt="">
                                     <span class="category">Solutions</span>
                                     <i class="flaticon-policy"></i>
                                 </figure>
@@ -518,7 +518,7 @@
 
         <!-- clients-section -->
         <section class="clients-section alternat-2" style="background-image: url(./assets/images/background/clients-1.jpg);">
-            <div class="auto-container">
+            <!-- <div class="auto-container">
                 <div class="inner-container">
                     <div class="clients-carousel owl-carousel owl-theme owl-nav-none owl-dots-none">
                         <figure class="clients-logo-box"><a href="index-2.html"><img src="./assets/images/clients/clients-logo-6.png" alt=""></a></figure>
@@ -528,7 +528,7 @@
                         <figure class="clients-logo-box"><a href="index-2.html"><img src="./assets/images/clients/clients-logo-10.png" alt=""></a></figure>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </section>
         <!-- clients-section end -->
 

@@ -94,7 +94,7 @@
                     <div class="col-lg-8 col-md-12 col-sm-12 content-side">
                         <div class="service-details-content">
                             <figure class="image-box">
-                                <img src="assets/images/service/service-7.jpg" alt="">
+                                <img src="assets/images/service/service-15.jpg" alt="">
                                 <span class="category">Resources</span>
                                 <i class="flaticon-controller"></i>
                             </figure>

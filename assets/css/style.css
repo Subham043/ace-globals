@@ -67,6 +67,11 @@
 
  ***/
 
+ .logo-img{
+  object-fit: contain;
+  height: 80px;
+ }
+
 
 body {
   font-size:16px;

@@ -6,7 +6,7 @@
             <ul class="info-list pull-left clearfix">
                 <li><i class="flaticon-email"></i><a href="mailto:sunil@aceglobalhr.com">sunil@aceglobalhr.com</a></li>
                 <li><i class="flaticon-telephone"></i><a href="tel:9538969696">9538969696</a></li>
-                <li><i class="flaticon-pin"></i>Suite 20 Golden Street USA</li>
+                <li><i class="flaticon-pin"></i>Basavanagudi, Bengaluru, Karnataka 560004</li>
             </ul>
             <div class="right-column pull-right clearfix">
                 <ul class="social-links clearfix">
@@ -33,7 +33,7 @@
     <div class="header-lower">
         <div class="outer-box">
             <div class="logo-box">
-                <figure class="logo"><a href="index-2.html"><img src="assets/images/logo.png" alt=""></a></figure>
+                <figure class="logo"><a href="index-2.html"><img class="logo-img" src="assets/images/logo.png" alt=""></a></figure>
             </div>
             <div class="menu-area">
                 <!--Mobile Navigation Toggler-->
@@ -75,7 +75,7 @@
     <div class="sticky-header">
         <div class="outer-box">
             <div class="logo-box">
-                <figure class="logo"><a href="index.php"><img src="assets/images/logo.png" alt=""></a></figure>
+                <figure class="logo"><a href="index.php"><img class="logo-img" src="assets/images/logo.png" alt=""></a></figure>
             </div>
             <div class="menu-area">
                 <nav class="main-menu clearfix">

@@ -114,7 +114,7 @@
                     <div class="col-lg-12 col-md-12 col-sm-12 content-side">
                         <div class="blog-details-content">
                             <div class="author-box">
-                                <figure class="author-thumb"><img src="assets/images/news/author-1.jpg" alt=""></figure>
+                                <figure class="author-thumb"><img src="assets/images/news/director.jpg" alt=""></figure>
                                 <div class="inner">
                                     <h4>Kemparaj,
                                         Managing Director
