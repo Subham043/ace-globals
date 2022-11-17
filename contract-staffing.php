@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from azim.commonsupport.com/Recvite/hr-consulting.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 17 Jul 2022 16:56:52 GMT -->
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-    <title>Recvite - HTML 5 Template Preview</title>
+    <title>Ace Global</title>
 
     <!-- Fav Icon -->
     <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
@@ -68,38 +66,14 @@
         <section class="service-details">
             <div class="auto-container">
                 <div class="row clearfix">
-                    <div class="col-lg-4 col-md-12 col-sm-12 sidebar-side">
-                        <div class="service-sidebar">
-                            <div class="category-widget">
-                                <ul class="category-list clearfix">
-                                    <li><a href="campus-to-corporate.php"><i class="fas fa-angle-right"></i>Campus to
-                                            Corporate</a></li>
-                                    <li><a href="talent-identification-sourcing.php"><i
-                                                class="fas fa-angle-right"></i>Talent Identificaiton Sources</a></li>
-                                                <li><a href="background-credential-verification.php" ><i class="fas fa-angle-right"></i>Background / Credentials Verification</a></li>
-                                    <li><a href="placement.php"><i class="fas fa-angle-right"></i>Placement</a></li>
-                                    <li><a href="contract-staffing.php" class="current"><i
-                                                class="fas fa-angle-right"></i>Contract Staffing</a></li>
-                                </ul>
-                            </div>
-                            <div class="support-box">
-                                <figure class="image-box"><img src="assets/images/resource/support-1.jpg" alt="">
-                                </figure>
-                                <div class="content-box">
-                                    <div class="icon-box"><i class="flaticon-phone"></i></div>
-                                    <p>Get Professional Help</p>
-                                    <h3><a href="tel:9538969696">9538969696</a></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    
                     <div class="col-lg-8 col-md-12 col-sm-12 content-side">
                         <div class="service-details-content">
-                            <figure class="image-box">
+                            <!-- <figure class="image-box">
                                 <img src="assets/images/service/service-17.jpg" alt="">
                                 <span class="category">Resources</span>
                                 <i class="flaticon-controller"></i>
-                            </figure>
+                            </figure> -->
                             <div class="text">
                                 <h2>Contract Staffing</h2>
                                 <p>More and more companies are looking for new and innovative ways to manage costs in
@@ -209,6 +183,32 @@
                             </div>
                         </div>
                     </div>
+                    <div class="col-lg-4 col-md-12 col-sm-12 sidebar-side">
+                        <div class="service-sidebar">
+                            <div class="category-widget">
+                                <ul class="category-list clearfix">
+                                    <li><a href="campus-to-corporate.php"><i class="fas fa-angle-right"></i>Campus to
+                                            Corporate</a></li>
+                                    <li><a href="talent-identification-sourcing.php"><i
+                                                class="fas fa-angle-right"></i>Talent Identificaiton Sources</a></li>
+                                                <li><a href="background-credential-verification.php" ><i class="fas fa-angle-right"></i>Background / Credentials Verification</a></li>
+                                    <li><a href="placement.php"><i class="fas fa-angle-right"></i>Placement</a></li>
+                                    <li><a href="contract-staffing.php" class="current"><i
+                                                class="fas fa-angle-right"></i>Contract Staffing</a></li>
+                                </ul>
+                            </div>
+                            <div class="support-box">
+                                <figure class="image-box"><img src="assets/images/resource/support-1.jpg" alt="">
+                                </figure>
+                                <div class="content-box">
+                                    <div class="icon-box"><i class="flaticon-phone"></i></div>
+                                    <p>Get Professional Help</p>
+                                    <h3><a href="tel:9538969696">9538969696</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
                 </div>
             </div>
         </section>
@@ -235,7 +235,5 @@
     <script src="assets/js/script.js"></script>
 
 </body><!-- End of .page_wrapper -->
-
-<!-- Mirrored from azim.commonsupport.com/Recvite/hr-consulting.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 17 Jul 2022 16:57:01 GMT -->
 
 </html>

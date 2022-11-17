@@ -291,7 +291,8 @@ img {
 }
 
 .sec-pad{
-  padding: 115px 0px 120px 0px;
+  /* padding: 115px 0px 120px 0px; */
+  padding: 60px 0px 60px 0px;
 }
 
 .sec-pad-2{
@@ -388,7 +389,8 @@ img {
   position:fixed;
   opacity:0;
   visibility:hidden;
-  background: #272727;
+  /* background: #272727; */
+  background: #fff;
   left:0px;
   top:0px;
   width:100%;
@@ -736,8 +738,23 @@ img {
 
 /** main-menu **/
 
+.menu-area{
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sticky-header .menu-area{
+  float: none;
+  margin-left: auto;
+  margin-right: initial;
+}
+
 .main-menu{
   float: left;
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .main-menu .navbar-collapse{
@@ -747,6 +764,8 @@ img {
 
 .main-menu .navigation{
   margin:0px;
+  display: flex;
+  justify-content: center;
 }
 
 .main-menu .navigation > li{
@@ -778,7 +797,8 @@ img {
   line-height:30px;
   font-weight:500;
   opacity:1;
-  color:#fff;
+  /* color:#fff; */
+  color:#757575;
   z-index:1;
   -webkit-transition:all 500ms ease;
   -moz-transition:all 500ms ease;
@@ -1820,7 +1840,8 @@ div#mCSB_1_container{
 
 .about-section{
   position: relative;
-  padding: 120px 0px 100px 0px;
+  /* padding: 120px 0px 100px 0px; */
+  padding: 60px 0px 60px 0px;
 }
 
 .image_block_1 .image-box{
@@ -1935,8 +1956,10 @@ div#mCSB_1_container{
 .content_block_1 .content-box .inner-box{
   position: relative;
   display: block;
-  padding-bottom: 50px;
-  margin-bottom: 80px;
+  /* padding-bottom: 50px;
+  margin-bottom: 80px; */
+  padding-bottom: 20px;
+  margin-bottom: 0px;
   border-bottom: 1px solid #e6e6e6;
 }
 
@@ -2201,7 +2224,8 @@ div#mCSB_1_container{
 
 .agency-section{
   position: relative;
-  padding: 115px 0px 220px;
+  /* padding: 115px 0px 220px; */
+  padding: 60px 0px 60px;
   width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2864,7 +2888,8 @@ div#mCSB_1_container{
   position: relative;
   display: block;
   background: #fff;
-  padding: 0px 60px 0px 60px;
+  /* padding: 0px 60px 0px 60px; */
+  padding: 0px 20px 0px 20px;
   box-shadow: 0 5px 15px rgba(0,0,0,0.06);
 }
 
@@ -3194,7 +3219,8 @@ div#mCSB_1_container{
 
 .footer-top .widget-section{
   position: relative;
-  padding: 75px 0px 78px 0px;
+  /* padding: 75px 0px 78px 0px; */
+  padding: 50px 0px 50px 0px;
 }
 
 .footer-top .widget-section .logo-widget .footer-logo{
@@ -3394,7 +3420,8 @@ div#mCSB_1_container{
 .footer-bottom{
   position: relative;
   width: 100%;
-  padding: 42px 0px;
+  /* padding: 42px 0px; */
+  padding: 15px 0px;
   background: #272727;
   border-top: 1px solid rgba(255,255,255,0.1);
 }
@@ -3485,7 +3512,9 @@ div#mCSB_1_container{
 
 .main-header .header-upper .logo-box{
   position: relative;
-  padding: 39px 0px;
+  /* padding: 39px 0px; */
+  padding: 5px 0px;
+  /* padding-top: 10px; */
 }
 
 .main-header .header-upper .upper-info li{
@@ -3538,7 +3567,8 @@ div#mCSB_1_container{
 }
 
 .main-header .header-upper .upper-info{
-  padding: 30px 0px;
+  /* padding: 30px 0px; */
+  padding: 15px 0px;
 }
 
 .main-header .sticky-header .outer-box {
@@ -3573,7 +3603,8 @@ div#mCSB_1_container{
 
 .main-header.style-two .header-lower .main-menu .navigation > li{
   margin: 0px 35px;
-  padding: 22px 0px;
+  /* padding: 22px 0px; */
+  padding: 10px 0px;
 }
 
 .main-header.style-two .header-lower .main-menu .navigation > li > a:before{
@@ -3582,9 +3613,11 @@ div#mCSB_1_container{
   background: url(../images/shape/shape-5.png);
   width: 62px;
   height: 8px;
-  left: 50%;
+  /* left: 50%; */
+  left: 48%;
   transform: translateX(-50%) scale(0,0);
-  top: -24px;
+  /* top: -24px; */
+  top: -12px;
   background-repeat: no-repeat;
   transition: all 500ms ease;
 }
@@ -3623,7 +3656,8 @@ div#mCSB_1_container{
 }
 
 .banner-section.style-two .banner-carousel .slide-item{
-  padding: 185px 0px 195px 0px;
+  /* padding: 185px 0px 195px 0px; */
+  padding: 120px 0px 120px 0px;
 }
 
 .banner-section.style-two .banner-carousel .slide-item:before{
@@ -3636,7 +3670,8 @@ div#mCSB_1_container{
 
 .about-agency{
   position: relative;
-  padding: 114px 0px 105px 0px;
+  /* padding: 114px 0px 105px 0px; */
+  padding: 50px 0px 85px 0px;
 }
 
 .about-agency .sec-title p{
@@ -3662,7 +3697,8 @@ div#mCSB_1_container{
 
 .about-style-two{
   position: relative;
-  padding-bottom: 120px;;
+  /* padding-bottom: 120px; */
+  padding-bottom: 70px;
 }
 
 .about-style-two .bg-layer{
@@ -3748,7 +3784,8 @@ div#mCSB_1_container{
 }
 
 .about-style-two .lower-box{
-  padding-top: 115px;
+  /* padding-top: 115px; */
+  padding-top: 65px;
 }
 
 .content_block_6 .content-box .text{
@@ -3821,7 +3858,8 @@ div#mCSB_1_container{
 .video-section{
   position: relative;
   width: 100%;
-  padding-bottom: 140px;
+  /* padding-bottom: 140px; */
+  padding-bottom: 60px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -4332,7 +4370,8 @@ div#mCSB_1_container{
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
-  padding: 230px 0px 120px 0px;
+  /* padding: 230px 0px 120px 0px; */
+  padding: 80px 0px 80px 0px;
 }
 
 .cta-style-two:before{
@@ -4413,7 +4452,8 @@ div#mCSB_1_container{
 
 .page-title{
   position: relative;
-  padding: 245px 0px 150px 0px;
+  /* padding: 245px 0px 150px 0px; */
+  padding: 90px 0px 90px 0px;
   width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -4494,7 +4534,8 @@ div#mCSB_1_container{
 
 .about-style-three .inner-container{
   position: relative;
-  padding: 120px 0px 60px 0px;
+  /* padding: 120px 0px 60px 0px; */
+  padding: 60px 0px 60px 0px;
   border-bottom: 1px solid #e6e6e6;
 }
 
@@ -4785,7 +4826,8 @@ div#mCSB_1_container{
 
 .service-details{
   position: relative;
-  padding: 120px 0px;
+  /* padding: 120px 0px; */
+  padding: 60px 0px;
 }
 
 .service-sidebar .category-widget{
@@ -5672,7 +5714,8 @@ div#mCSB_1_container{
 .contact-info-section{
   position: relative;
   background: #f7f7f7;
-  padding: 100px 0px;
+  /* padding: 100px 0px; */
+  padding: 50px 0px;
 }
 
 .contact-info-section .single-info-box .inner-box{
@@ -5698,7 +5741,8 @@ div#mCSB_1_container{
 
 .contact-info-section .single-info-box .inner-box p{
   position: relative;
-  font-size: 20px;
+  /* font-size: 20px; */
+  font-size: 15px;
   line-height: 34px;
   font-weight: 500;
 }
@@ -5711,6 +5755,9 @@ div#mCSB_1_container{
 
 }
 
+.accordion-box .block.active-block .acc-btn{
+  border-bottom: 1px solid #fff;
+}
 
 /** contact-section **/
 

@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from azim.commonsupport.com/Recvite/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 17 Jul 2022 16:57:48 GMT -->
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<title>Recvite - HTML 5 Template Preview</title>
+<title>Ace Global</title>
 
 <!-- Fav Icon -->
 <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
@@ -195,5 +194,4 @@
 
 </body><!-- End of .page_wrapper -->
 
-<!-- Mirrored from azim.commonsupport.com/Recvite/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 17 Jul 2022 16:57:50 GMT -->
 </html>

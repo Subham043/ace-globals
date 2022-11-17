@@ -357,6 +357,7 @@
 .accordion-box .block.active-block{
   background: #f5a122;
   border-color: #f5a122;
+  box-shadow: 0px 0px 10px 2px #ccc;
 }
 
 .accordion-box .block .acc-btn .icon-outer{

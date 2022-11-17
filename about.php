@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from azim.commonsupport.com/Recvite/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 17 Jul 2022 16:56:06 GMT -->
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-    <title>Recvite - HTML 5 Template Preview</title>
+    <title>Ace Global</title>
 
     <!-- Fav Icon -->
     <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
@@ -173,7 +171,7 @@
                                     <p>Learn Ace Global</p>
                                     <h2>We’re Reliable & Cost Efficiant Recruitment Agency</h2>
                                 </div>
-                                <div class="btn-box"><a href="about.html" class="theme-btn-one">Discover More</a></div>
+                                <div class="btn-box"><a href="contact.php" class="theme-btn-one">Contact Us</a></div>
                             </div>
                         </div>
                     </div>
@@ -219,7 +217,7 @@
 
 
         <!-- funfact-section -->
-        <section class="funfact-section centred">
+        <!-- <section class="funfact-section centred">
             <div class="auto-container">
                 <div class="inner-container">
                     <div class="row clearfix">
@@ -270,7 +268,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- funfact-section end -->
 
          <!-- about-section -->
@@ -332,7 +330,7 @@
                         <p>We design solutions that match your market situation and organisational requirement and do not believe in cookie-cutter solutions to resolve complex problems.</p>
                     </div>
                     <div class="btn-box">
-                        <a href="index-3.html" class="theme-btn-one">Discover More</a>
+                        <a href="contact.php" class="theme-btn-one">Contact Us</a>
                     </div>
                 </div>
             </div>
@@ -359,7 +357,5 @@
     <script src="assets/js/script.js"></script>
 
 </body><!-- End of .page_wrapper -->
-
-<!-- Mirrored from azim.commonsupport.com/Recvite/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 17 Jul 2022 16:56:21 GMT -->
 
 </html>

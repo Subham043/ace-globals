@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from azim.commonsupport.com/Recvite/hr-consulting.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 17 Jul 2022 16:56:52 GMT -->
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-    <title>Recvite - HTML 5 Template Preview</title>
+    <title>Ace Global</title>
 
     <!-- Fav Icon -->
     <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
@@ -70,11 +68,11 @@
                 <div class="row clearfix">
                     <div class="col-lg-12 col-md-12 col-sm-12 content-side">
                         <div class="service-details-content">
-                            <figure class="image-box">
+                            <!-- <figure class="image-box">
                                 <img src="assets/images/service/service-18.jpg" alt="">
                                 <span class="category">Resources</span>
                                 <i class="flaticon-controller"></i>
-                            </figure>
+                            </figure> -->
                             <div class="text">
                                 <h2>We are socially accountable to ourselves, our stakeholders and the public</h2>
                                 <p>We contribute towards the betterment and welfare of society and the country.</p>
@@ -151,7 +149,5 @@
     <script src="assets/js/script.js"></script>
 
 </body><!-- End of .page_wrapper -->
-
-<!-- Mirrored from azim.commonsupport.com/Recvite/hr-consulting.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 17 Jul 2022 16:57:01 GMT -->
 
 </html>

@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from azim.commonsupport.com/Recvite/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 17 Jul 2022 16:55:10 GMT -->
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -25,6 +24,7 @@
 <link href="./assets/css/color.css" rel="stylesheet">
 <link href="./assets/css/style.css" rel="stylesheet">
 <link href="./assets/css/responsive.css" rel="stylesheet">
+<script src="https://kit.fontawesome.com/02923278a2.js" crossorigin="anonymous"></script>
 
 </head>
 
@@ -53,7 +53,7 @@
                             <h1>A seamless journey through a human-centric approach</h1>
                             <p>A tailored HR plan to suit your organisation —we focus on both your customers and your people.</p>
                             <div class="btn-box">
-                                <a href="index.html" class="theme-btn-one">Discover More</a>
+                                <a href="contact.php" class="theme-btn-one">Contact Us</a>
                             </div>
                         </div> 
                     </div>
@@ -65,7 +65,7 @@
                             <h1>We're galvanised to empower your workforce</h1>
                             <p>Get a robust platform for growth to innovate and solve problems by learning to think differently</p>
                             <div class="btn-box">
-                                <a href="index.html" class="theme-btn-one">Discover More</a>
+                                <a href="contact.php" class="theme-btn-one">Contact Us</a>
                             </div>
                         </div> 
                     </div>
@@ -77,7 +77,7 @@
                             <h1>Build your business with our best practices</h1>
                             <p>We give you a roadmap to elevate your business exactly the way you wanted.</p>
                             <div class="btn-box">
-                                <a href="index-2.html" class="theme-btn-one">Discover More</a>
+                                <a href="contact.php" class="theme-btn-one">Contact Us</a>
                             </div>
                         </div> 
                     </div>
@@ -120,7 +120,7 @@
                         <div class="col-lg-4 col-md-4 col-sm-12 content-column">
                             <div class="content_block_5">
                                 <div class="content-box">
-                                    <div class="icon-box"><i class="flaticon-mission"></i></div>
+                                    <div class="icon-box"><i class="flaticon-creative-idea"></i></div>
                                     <h4>HR outsourcing</h4>
                                     <p>Comprehensive service delivery and assure an impressive return on investment across all facets of talent acquisition.</p>
                                 </div>
@@ -129,7 +129,7 @@
                         <div class="col-lg-4 col-md-4 col-sm-12 content-column">
                             <div class="content_block_5">
                                 <div class="content-box">
-                                    <div class="icon-box"><i class="flaticon-creative-idea"></i></div>
+                                    <div class="icon-box"><i class="fa-solid fa-people-carry-box"></i></div>
                                     <h4>RECRUITMENT & ONBOARDING</h4>
                                     <p>Effective HR systems matching your organisation’s size, business objectives and operating environment</p>
                                 </div>
@@ -155,13 +155,13 @@
                                             <div class="progress-box">
                                                 <h5>Staffing</h5>
                                                 <div class="bar">
-                                                    <div class="bar-inner count-bar counted" data-percent="80%"><div class="count-text">80%</div></div>
+                                                    <div class="bar-inner count-bar counted" data-percent="95%"><div class="count-text">95%</div></div>
                                                 </div>
                                             </div>
                                             <div class="progress-box">
                                                 <h5>Recruitment</h5>
                                                 <div class="bar">
-                                                    <div class="bar-inner count-bar counted" data-percent="60%"><div class="count-text">60%</div></div>
+                                                    <div class="bar-inner count-bar counted" data-percent="98%"><div class="count-text">98%</div></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -193,7 +193,7 @@
                             <div class="inner-box">
                                 <figure class="image-box">
                                     <img src="./assets/images/news/news-1.jpg" alt="">
-                                    <span class="category">Management</span>
+                                    <span class="category">Services</span>
                                     <i class="flaticon-consulting"></i>
                                 </figure>
                                 <div class="lower-content">
@@ -210,8 +210,8 @@
                             <div class="inner-box">
                                 <figure class="image-box">
                                     <img src="./assets/images/news/news-2.jpg" alt="">
-                                    <span class="category">Resources</span>
-                                    <i class="flaticon-controller"></i>
+                                    <span class="category">Services</span>
+                                    <i class="fa-solid fa-user-check"></i>
                                 </figure>
                                 <div class="lower-content">
                                     <h3><a href="technology-resource.html">Background / Credentials Verification</a></h3>
@@ -227,8 +227,8 @@
                             <div class="inner-box">
                                 <figure class="image-box">
                                     <img src="./assets/images/news/news-3.jpg" alt="">
-                                    <span class="category">Solutions</span>
-                                    <i class="flaticon-policy"></i>
+                                    <span class="category">Services</span>
+                                    <i class="fa-solid fa-file-signature"></i>
                                 </figure>
                                 <div class="lower-content">
                                     <h3><a href="staffing-solutions.html">Contract Staffing</a></h3>
@@ -244,8 +244,8 @@
                             <div class="inner-box">
                                 <figure class="image-box">
                                     <img src="./assets/images/news/news-4.jpg" alt="">
-                                    <span class="category">Solutions</span>
-                                    <i class="flaticon-policy"></i>
+                                    <span class="category">Services</span>
+                                    <i class="fa-regular fa-id-badge"></i>
                                 </figure>
                                 <div class="lower-content">
                                     <h3><a href="staffing-solutions.html">Campus to corporate </a></h3>
@@ -261,8 +261,8 @@
                             <div class="inner-box">
                                 <figure class="image-box">
                                     <img src="./assets/images/news/news-5.jpg" alt="">
-                                    <span class="category">Solutions</span>
-                                    <i class="flaticon-policy"></i>
+                                    <span class="category">Services</span>
+                                    <i class="fa-solid fa-person-circle-check"></i>
                                 </figure>
                                 <div class="lower-content">
                                     <h3><a href="staffing-solutions.html">Talent Identification Sourcing</a></h3>
@@ -278,8 +278,8 @@
                             <div class="inner-box">
                                 <figure class="image-box">
                                     <img src="./assets/images/news/news-6.jpg" alt="">
-                                    <span class="category">Solutions</span>
-                                    <i class="flaticon-policy"></i>
+                                    <span class="category">Services</span>
+                                    <i class="fa-solid fa-people-group"></i>
                                 </figure>
                                 <div class="lower-content">
                                     <h3><a href="staffing-solutions.html">Induction program</a></h3>
@@ -295,7 +295,7 @@
                             <div class="inner-box">
                                 <figure class="image-box">
                                     <img src="./assets/images/news/news-7.jpg" alt="">
-                                    <span class="category">Solutions</span>
+                                    <span class="category">Services</span>
                                     <i class="flaticon-policy"></i>
                                 </figure>
                                 <div class="lower-content">
@@ -324,14 +324,14 @@
                                     <p>Learn Ace Global</p>
                                     <h2>All about us</h2>
                                 </div>
-                                <div class="video-btn">
+                                <!-- <div class="video-btn">
                                     <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image video-btn" data-caption="">
                                         <i class="fas fa-play"></i>
                                         <span class="border-animation border-1"></span>
                                         <span class="border-animation border-2"></span>
                                         <span class="border-animation border-3"></span>
                                     </a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -353,12 +353,12 @@
                                         <p>As a company, we work alongside organisations with one common goal — to help recruit top candidates, foster developmental cultures and revamp new management thinking.</p>
                                     </div>
                                     <div class="single-item">
-                                        <div class="icon-box"><i class="flaticon-background-check"></i></div>
+                                        <div class="icon-box"><i class="fa-solid fa-user-tie"></i></div>
                                         <h4>Our Expeditions</h4>
                                         <p>From retained HR Support to HR Project Support, recruitment support to training & development, placement and much more, we have done it all.</p>
                                     </div>
                                 </div>
-                                <div class="btn-box"><a href="index-3.html" class="theme-btn-one">Meet Our Leaders</a></div>
+                                <div class="btn-box"><a href="contact.php" class="theme-btn-one">Contact Us</a></div>
                             </div>
                         </div>
                     </div>
@@ -471,7 +471,7 @@
 
 
         <!-- testimonial-style-two -->
-        <section class="testimonial-style-two">
+        <!-- <section class="testimonial-style-two">
             <div class="auto-container">
                 <div class="inner-container">
                     <div class="row clearfix">
@@ -507,6 +507,50 @@
                                         </div>
                                     </div>
                                 </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> -->
+        <section class="progress-section" style="background-image: url(assets/images/background/progress-1.jpg);">
+            <div class="auto-container">
+                <div class="row clearfix">
+                    <div class="col-lg-12 col-md-12 col-sm-12 title-column">
+                        <div class="sec-title light">
+                            <p>Our Testimonials</p>
+                            <h2>What They Speak</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="testimonial-section centred">
+            <div class="auto-container">
+                <div class="inner-container">
+                    <div class="three-item-carousel owl-carousel owl-theme owl-dots-none owl-nav-none">
+                        <div class="testimonial-block-one">
+                            <div class="inner-box">
+                                <div class="icon-box">"</div>
+                                <p>We used Ace Global HR to guide us through the process of placement and staffing. They have done a terrific job by adhering to our timelines in a professional manner. We would highly recommend them and will be using their services again in the future!</p>
+                                <h5>Suresh Jayachandra</h5>
+                                <figure class="image-box"><img src="assets/images/resource/testimonial-1.png" alt=""></figure>
+                            </div>
+                        </div>
+                        <div class="testimonial-block-one">
+                            <div class="inner-box">
+                                <div class="icon-box">"</div>
+                                <p>I have used their expertise in the past and highly recommend them to anyone who is looking for timely and quality HR services and advice. They have a keen eye on the industry trends and provide us with good practical advice. </p>
+                                <h5>Vinay Abraham</h5>
+                                <figure class="image-box"><img src="assets/images/resource/testimonial-2.png" alt=""></figure>
+                            </div>
+                        </div>
+                        <div class="testimonial-block-one">
+                            <div class="inner-box">
+                                <div class="icon-box">"</div>
+                                <p>Ace Global HR’s background verification is on spot and they got back to us very fast. I really appreciate their swift turnaround time. The team is always willing to help and give advice that reaps good results. I strongly recommend them.</p>
+                                <h5>Aparna Godbole</h5>
+                                <figure class="image-box"><img src="assets/images/resource/testimonial-3.png" alt=""></figure>
                             </div>
                         </div>
                     </div>
@@ -577,7 +621,7 @@
                         <p>Call adviser for Staffing and HR outsourcing service business</p>
                     </div>
                     <div class="btn-box">
-                        <a href="index-3.html" class="theme-btn-one">Discover More</a>
+                        <a href="contact.php" class="theme-btn-one">Contact Us</a>
                     </div>
                 </div>
             </div>
@@ -608,6 +652,4 @@
     <script src="./assets/js/script.js"></script>
 
 </body><!-- End of .page_wrapper -->
-
-<!-- Mirrored from azim.commonsupport.com/Recvite/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 17 Jul 2022 16:56:04 GMT -->
 </html>

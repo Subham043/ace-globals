@@ -30,13 +30,13 @@
                             <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
                                 <div class="footer-widget logo-widget">
                                     <figure class="footer-logo"><a href="index-2.html"><img src="assets/images/logo.png" alt=""></a></figure>
-                                    <p>Join our newsletter and get latest updates</p>
+                                    <!-- <p>Join our newsletter and get latest updates</p>
                                     <form action="http://azim.commonsupport.com/Recvite/contact.html" method="post">
                                         <div class="form-group">
                                             <input type="email" name="email" placeholder="Email Address" required="">
                                             <button><i class="fas fa-check"></i></button>
                                         </div>
-                                    </form>
+                                    </form> -->
                                     <ul class="social-links clearfix">
                                         <li><h6>Connect:</h6></li>
                                         <li><a href="index-2.html"><i class="fab fa-twitter"></i></a></li>
@@ -46,6 +46,7 @@
                                     </ul>
                                 </div>
                             </div>
+                            <div class="col-lg-2 col-md-6 col-sm-12 footer-column"></div>
                             <div class="col-lg-2 col-md-6 col-sm-12 footer-column">
                                 <div class="footer-widget links-widget">
                                     <div class="widget-title">
@@ -78,7 +79,23 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
+                            <div class="col-lg-2 col-md-6 col-sm-12 footer-column">
+                                <div class="footer-widget links-widget ml-30">
+                                    <div class="widget-title">
+                                        <h4>Links</h4>
+                                    </div>
+                                    <div class="widget-content">
+                                        <ul class="links-list clearfix">
+                                            <li><a href="index-2.html">Employers</a></li>
+                                            <li><a href="index-2.html">Job Seekers</a></li>
+                                            <li><a href="index-2.html">How It Works</a></li>
+                                            <li><a href="index-2.html">Pricing & Plans</a></li>
+                                            <li><a href="index-2.html">Our Departments</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
                                 <div class="footer-widget post-widget ml-50">
                                     <div class="widget-title">
                                         <h4>News</h4>
@@ -96,7 +113,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -105,7 +122,7 @@
                 <div class="auto-container">
                     <div class="inner-box clearfix">
                         <div class="copyright pull-left">
-                            <p>&copy; Copyright 2020 by <a href="index-2.html">Recvite</a></p>
+                            <p>&copy; Copyright 2020 by <a href="index-2.html">Ace Global</a></p>
                         </div>
                         <ul class="footer-nav pull-right">
                             <li><a href="index-2.html">Privacy Policy</a></li>
