@@ -52,7 +52,7 @@
                         <h1>Campus to corporate </h1>
                     </div>
                     <ul class="bread-crumb clearfix">
-                        <li><a href="index-2.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li>Service Details</li>
                     </ul>
                 </div>

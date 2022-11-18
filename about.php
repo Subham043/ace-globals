@@ -53,7 +53,7 @@
                         <h1>About Us</h1>
                     </div>
                     <ul class="bread-crumb clearfix">
-                        <li><a href="index-2.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li>About</li>
                     </ul>
                 </div>

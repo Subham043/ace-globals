@@ -50,7 +50,7 @@
                         <h1>Contact Us</h1>
                     </div>
                     <ul class="bread-crumb clearfix">
-                        <li><a href="index-2.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li>Contact</li>
                     </ul>
                 </div>

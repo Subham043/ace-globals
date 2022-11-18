@@ -52,7 +52,7 @@
                         <h1>Services </h1>
                     </div>
                     <ul class="bread-crumb clearfix">
-                        <li><a href="index-2.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li>Service Details</li>
                     </ul>
                 </div>
@@ -65,36 +65,14 @@
         <section class="service-details">
             <div class="auto-container">
                 <div class="row clearfix">
-                    <div class="col-lg-4 col-md-12 col-sm-12 sidebar-side">
-                        <div class="service-sidebar">
-                            <div class="category-widget">
-                                <ul class="category-list clearfix">
-                                <li><a href="campus-to-corporate.php"><i
-                                                class="fas fa-angle-right"></i>Campus to Corporate</a></li>
-                                    <li><a href="talent-identification-sourcing.php"><i class="fas fa-angle-right"></i>Talent Identificaiton Sources</a></li>
-                                    <li><a href="background-credential-verification.php" ><i class="fas fa-angle-right"></i>Background / Credentials Verification</a></li>
-                                    <li><a href="placement.php"><i class="fas fa-angle-right"></i>Placement</a></li>
-                                    <li><a href="contract-staffing.php"><i class="fas fa-angle-right"></i>Contract Staffing</a></li>
-                                </ul>
-                            </div>
-                            <div class="support-box">
-                                <figure class="image-box"><img src="assets/images/resource/support-1.jpg" alt="">
-                                </figure>
-                                <div class="content-box">
-                                    <div class="icon-box"><i class="flaticon-phone"></i></div>
-                                    <p>Get Professional Help</p>
-                                    <h3><a href="tel:9538969696">9538969696</a></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    
                     <div class="col-lg-8 col-md-12 col-sm-12 content-side">
                         <div class="service-details-content">
-                            <figure class="image-box">
+                            <!-- <figure class="image-box">
                                 <img src="assets/images/service/service-7.jpg" alt="">
                                 <span class="category">Resources</span>
                                 <i class="flaticon-controller"></i>
-                            </figure>
+                            </figure> -->
                             <div class="text">
                                 <h2>We enable your business to harness the power of human energy.</h2>
                                 <p>At Ace Global HR, we offer all HR services right from understanding how your organisation thrives on the quality of your people to creating exemplary organisational cultures. We have been successful in resolving critical organisational issues so that organizations work smoothly on a daily basis without any discrepancies.</p>
@@ -185,6 +163,30 @@
                             </div>
                         </div>
                     </div>
+                    <div class="col-lg-4 col-md-12 col-sm-12 sidebar-side">
+                        <div class="service-sidebar">
+                            <div class="category-widget">
+                                <ul class="category-list clearfix">
+                                <li><a href="campus-to-corporate.php"><i
+                                                class="fas fa-angle-right"></i>Campus to Corporate</a></li>
+                                    <li><a href="talent-identification-sourcing.php"><i class="fas fa-angle-right"></i>Talent Identificaiton Sources</a></li>
+                                    <li><a href="background-credential-verification.php" ><i class="fas fa-angle-right"></i>Background / Credentials Verification</a></li>
+                                    <li><a href="placement.php"><i class="fas fa-angle-right"></i>Placement</a></li>
+                                    <li><a href="contract-staffing.php"><i class="fas fa-angle-right"></i>Contract Staffing</a></li>
+                                </ul>
+                            </div>
+                            <div class="support-box">
+                                <figure class="image-box"><img src="assets/images/resource/support-1.jpg" alt="">
+                                </figure>
+                                <div class="content-box">
+                                    <div class="icon-box"><i class="flaticon-phone"></i></div>
+                                    <p>Get Professional Help</p>
+                                    <h3><a href="tel:9538969696">9538969696</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
                 </div>
             </div>
         </section>

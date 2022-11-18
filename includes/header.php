@@ -9,15 +9,15 @@
                         </div>
                         <div class="right-column pull-right clearfix">
                             <ul class="social-links clearfix">
-                                <li><a href="index-2.html"><i class="fab fa-facebook-square"></i></a></li>
-                                <li><a href="index-2.html"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index-2.html"><i class="fab fa-pinterest-p"></i></a></li>
-                                <li><a href="index-2.html"><i class="fab fa-instagram"></i></a></li>
+                                <li><a href="index.php"><i class="fab fa-facebook-square"></i></a></li>
+                                <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="index.php"><i class="fab fa-pinterest-p"></i></a></li>
+                                <li><a href="index.php"><i class="fab fa-instagram"></i></a></li>
                             </ul>
                             <ul class="header-nav clearfix">
-                                <li><a href="index-2.html">About</a></li>
-                                <li><a href="index-2.html">Resources</a></li>
-                                <li><a href="index-2.html">Site Map</a></li>
+                                <li><a href="index.php">About</a></li>
+                                <li><a href="index.php">Resources</a></li>
+                                <li><a href="index.php">Site Map</a></li>
                             </ul>
                         </div>
                     </div>
@@ -29,7 +29,7 @@
                 <div class="auto-container">
                     <div class="upper-inner clearfix">
                         <div class="logo-box pull-left">
-                            <figure class="logo"><a href="index-2.html"><img class="logo-img" src="assets/images/logo.png" alt=""></a></figure>
+                            <figure class="logo"><a href="index.php"><img class="logo-img" src="assets/images/logo.png" alt=""></a></figure>
                         </div>
                         <ul class="upper-info clearfix pull-right">
                             <li>
@@ -64,21 +64,21 @@
                             <nav class="main-menu navbar-expand-md navbar-light">
                                 <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                     <!-- <ul class="navigation clearfix">
-                                        <li class="current dropdown"><a href="index-2.html">Home</a>
+                                        <li class="current dropdown"><a href="index.php">Home</a>
                                             <ul>
-                                                <li><a href="index-2.html">Home Page 01</a></li>
+                                                <li><a href="index.php">Home Page 01</a></li>
                                                 <li><a href="index-3.html">Home Page 02</a></li>
                                                 <li><a href="index-onepage.html">OnePage Home</a></li>
                                                 <li><a href="index-rtl.html">RTL Home</a></li>
-                                                <li class="dropdown"><a href="index-2.html">Header Style</a>
+                                                <li class="dropdown"><a href="index.php">Header Style</a>
                                                     <ul>
-                                                        <li><a href="index-2.html">Header Style 01</a></li>
+                                                        <li><a href="index.php">Header Style 01</a></li>
                                                         <li><a href="index-3.html">Header Style 02</a></li>
                                                     </ul>
                                                 </li>
                                             </ul>
                                         </li> 
-                                        <li class="dropdown"><a href="index-2.html">Pages</a>
+                                        <li class="dropdown"><a href="index.php">Pages</a>
                                             <ul>
                                                 <li><a href="about.html">About Us</a></li>
                                                 <li><a href="project.html">Latest Projects</a></li>
@@ -86,7 +86,7 @@
                                                 <li><a href="error.html">404</a></li>
                                             </ul>
                                         </li>
-                                        <li class="dropdown"><a href="index-2.html">Our Solutions</a>
+                                        <li class="dropdown"><a href="index.php">Our Solutions</a>
                                             <ul>
                                                 <li><a href="service.html">Our Solutions</a></li>
                                                 <li><a href="hr-consulting.html">HR Consulting</a></li>
@@ -97,7 +97,7 @@
                                                 <li><a href="staff-management.html">Staff Management</a></li>
                                             </ul>
                                         </li>
-                                        <li class="dropdown"><a href="index-2.html">Elements</a>
+                                        <li class="dropdown"><a href="index.php">Elements</a>
                                             <div class="megamenu">
                                                 <div class="row clearfix">
                                                     <div class="col-lg-4 column">
@@ -139,7 +139,7 @@
                                                 </div>                                        
                                             </div>
                                         </li>    
-                                        <li class="dropdown"><a href="index-2.html">Blog</a>
+                                        <li class="dropdown"><a href="index.php">Blog</a>
                                             <ul>
                                                 <li><a href="blog.html">Blog Grid</a></li>
                                                 <li><a href="blog-2.html">Blog Standard</a></li>
@@ -162,7 +162,7 @@
                                         </li>
                                         <li><a href="contact.php">Industries Verticals</a></li>
                                         <li><a href="leadership-team.php">Leadership Team</a></li>
-                                        <li><a href="csr.php">Experties</a></li>
+                                        <li><a href="csr.php">CSR</a></li>
                                     </ul>
                                 </div>
                             </nav>
@@ -185,12 +185,12 @@
                             </div>
                             <div class="language-box">
                                 <img src="assets/images/icons/flag-2.png" alt="">
-                                <a href="index-2.html" class="text">English</a>
+                                <a href="index.php" class="text">English</a>
                                 <ul class="language-list">
-                                    <li><a href="index-2.html">English</a></li>
-                                    <li><a href="index-2.html">Spanish</a></li>
-                                    <li><a href="index-2.html">Turky</a></li>
-                                    <li><a href="index-2.html">Chiness</a></li>
+                                    <li><a href="index.php">English</a></li>
+                                    <li><a href="index.php">Spanish</a></li>
+                                    <li><a href="index.php">Turky</a></li>
+                                    <li><a href="index.php">Chiness</a></li>
                                 </ul>
                             </div>
                         </div> -->
@@ -202,7 +202,7 @@
             <div class="sticky-header">
                 <div class="outer-box">
                     <div class="logo-box">
-                        <figure class="logo"><a href="index-2.html"><img class="logo-img" src="assets/images/logo.png" alt=""></a></figure>
+                        <figure class="logo"><a href="index.php"><img class="logo-img" src="assets/images/logo.png" alt=""></a></figure>
                     </div>
                     <div class="menu-area">
                         <nav class="main-menu clearfix">
@@ -227,12 +227,12 @@
                         </div>
                         <div class="language-box">
                             <img src="assets/images/icons/flag-2.png" alt="">
-                            <a href="index-2.html" class="text">English</a>
+                            <a href="index.php" class="text">English</a>
                             <ul class="language-list">
-                                <li><a href="index-2.html">English</a></li>
-                                <li><a href="index-2.html">Spanish</a></li>
-                                <li><a href="index-2.html">Turky</a></li>
-                                <li><a href="index-2.html">Chiness</a></li>
+                                <li><a href="index.php">English</a></li>
+                                <li><a href="index.php">Spanish</a></li>
+                                <li><a href="index.php">Turky</a></li>
+                                <li><a href="index.php">Chiness</a></li>
                             </ul>
                         </div>
                     </div> -->
@@ -247,7 +247,7 @@
             <div class="close-btn"><i class="fas fa-times"></i></div>
             
             <nav class="menu-box">
-                <div class="nav-logo"><a href="index-2.html"><img src="assets/images/logo-2.png" alt="" title=""></a></div>
+                <div class="nav-logo"><a href="index.php"><img src="assets/images/logo-2.png" alt="" title=""></a></div>
                 <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
                 <div class="contact-info">
                     <h4>Contact Info</h4>
@@ -259,11 +259,11 @@
                 </div>
                 <div class="social-links">
                     <ul class="clearfix">
-                        <li><a href="index-2.html"><span class="fab fa-twitter"></span></a></li>
-                        <li><a href="index-2.html"><span class="fab fa-facebook-square"></span></a></li>
-                        <li><a href="index-2.html"><span class="fab fa-pinterest-p"></span></a></li>
-                        <li><a href="index-2.html"><span class="fab fa-instagram"></span></a></li>
-                        <li><a href="index-2.html"><span class="fab fa-youtube"></span></a></li>
+                        <li><a href="index.php"><span class="fab fa-twitter"></span></a></li>
+                        <li><a href="index.php"><span class="fab fa-facebook-square"></span></a></li>
+                        <li><a href="index.php"><span class="fab fa-pinterest-p"></span></a></li>
+                        <li><a href="index.php"><span class="fab fa-instagram"></span></a></li>
+                        <li><a href="index.php"><span class="fab fa-youtube"></span></a></li>
                     </ul>
                 </div>
             </nav>

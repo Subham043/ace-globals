@@ -53,7 +53,7 @@
                         <h1>Leadership Team</h1>
                     </div>
                     <ul class="bread-crumb clearfix">
-                        <li><a href="index-2.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li>Leadership Team</li>
                     </ul>
                 </div>
@@ -66,7 +66,7 @@
         <section class="about-style-three">
             <div class="auto-container">
                 <div class="inner-container">
-                    <div class="row clearfix">
+                    <!-- <div class="row clearfix">
                         <div class="col-xl-8 col-lg-12 col-md-12 big-column">
                             <div class="image-box clearfix">
                                 <figure class="image"><img src="assets/images/resource/about-4.jpg" alt=""></figure>
@@ -76,7 +76,7 @@
                         <div class="col-xl-4 col-lg-12 col-md-12 small-column">
                             <figure class="image"><img src="assets/images/resource/about-6.jpg" alt=""></figure>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="row clearfix">
                         <div class="col-lg-12 col-md-12 col-sm-12 content-column">
                             <div class="content-box">
@@ -106,12 +106,131 @@
         </section>
         <!-- about-style-three end -->
 
+        <section class="project-details">
+            <div class="auto-container">
+                <div class="project-details-content">
+                    <div class="text" style="margin-bottom:20px;">
+                        <h3>Kemparaj, Managing Director</h3>
+                        <p>He comes with a cumulative experience of 25 magnificent years as an HR professional. With a
+                            background in corporate senior roles including HR Director, Head of Training, Head of
+                            Management Development, and other “people orientated positions” in organizations in
+                            countries like Germany, and Australia to name a few. Through his extensive and rich
+                            experience, he has empowered people with new skills and a changed mindset and given
+                            organizations a sturdy platform for growth.</p>
+                    </div>
+                    <div class="two-column">
+                        <div class="row clearfix">
+                            <div class="col-lg-5 col-md-6 col-sm-12 image-column">
+                                <figure class="image"><img src="assets/images/news/director.jpg" alt=""></figure>
+                            </div>
+                            <div class="col-lg-7 col-md-6 col-sm-12 text-column">
+                                <div class="text">
+                                    <p>Although he has a global outreach, he chose to establish himself right here in
+                                        Karnataka where he has built a vast network. His work so far speaks volumes
+                                        about his experience in talent Management, Industrial Relations, rewards &
+                                        Recognition involved in preparations of HR Policy, Budget, HR-MIS, HR-Connect &
+                                        Conferences with various locations in India & Abroad. Trained and exposed to the
+                                        7S concept, strong public relations, implementation of National & International
+                                        Labor laws, handling multiple unions & their long-term settlements. As a
+                                        passionate leader, his in-depth know-how in handling international audits like
+                                        APPC, sustainability & HR Audits has earned him a lot of accolades.</p>
+                                    <p>Kemparaj believes in enabling people to consistently deliver business objectives
+                                        and deliver extraordinary results. During his association with Welspun Group,
+                                        Birla Group, Kirloskar Group, Mohan Spintex Inida, AT&S India, Wuerth India and
+                                        Dynamitic Technology, he achieved a healthy mix of innovation and pragmatism
+                                        centred around delivering results and enjoying senior leadership roles like
+                                        President & CHRO, HR Leader, Vice President & Group Head HR.</p>
+                                    <p>His array of degrees in Psychology at SDM College, Ujire, Mangaluru University &
+                                        PG in MSW in HR & Labor Laws at Roshini Nilaya, Mangaluru University have set
+                                        him on a path to a greater degree of pragmatism and openness to each engagement,
+                                        giving companies greater speed, responsiveness, and control over the approach
+                                        and outcome.</p>
+                                </div>
+                                <!-- <ul class="list-item clearfix">
+                                    <li>Lorem Ipsum generators on the Internet tend</li>
+                                    <li>It uses a dictionary of over 200 Latin words</li>
+                                    <li>The majority have alteration in some form</li>
+                                    <li>There are many variations of passages of available</li>
+                                    <li>Which don’t look even slightly believable</li>
+                                </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="project-details">
+            <div class="auto-container">
+                <div class="project-details-content">
+                    <div class="text" style="margin-bottom:20px;">
+                        <h3>H N MOHAMED ALI UCHIL, Director</h3>
+                        <p>With the personnel and professional qualifications and 34 years experience with a Top
+                            Manpower Supply Est. in Abu Dhabi, very sound knowledge of Oil and Gas Industry. Always come
+                            out with challenging business problems, and very good marketing strategy.</p>
+                    </div>
+                    <div class="two-column">
+                        <div class="row clearfix">
+                            <div class="col-lg-5 col-md-6 col-sm-12 image-column">
+                                <figure class="image"><img src="assets/images/news/director-2.jpg" alt=""></figure>
+                            </div>
+                            <div class="col-lg-7 col-md-6 col-sm-12 text-column">
+                                <div class="text">
+                                    <p>Supervising all the Business Development Activities with the Oil and Gas
+                                        Companies in the UAE
+                                        January 1985 to January 2017</p>
+                                    <p>Spark Est. for Oil Field Services, Abu Dhabi Responsible For :</p>
+                                </div>
+                                <ul class="list-item clearfix">
+                                    <li>850 highly professional personnel consisting of Project Managers, Senior
+                                        Consultants, Engineers, HSE Professionals, Technical Supervisors, Technicians,
+                                        Clerks and Secretaries. And also looking after the Financial Entitlement of
+                                        another 26 personnel positioned in Head Office, directly reporting to General
+                                        Manager. Directly responsible for another 80 temporary highly skilled Personnel.
+                                    </li>
+                                    <li>All seconded to companies / clients like ADNOC, ADGAS, ADCO, ADMA-OPCO, AL-HOSN,
+                                        ZADCO, TOTAL, BUNDUQ, ABU DHABI PENSION FUND, SAMSUNG ENGINEERING, BECHTAL etc.
+                                        ROLES AND RESPONSIBILITIES</li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-12 col-md-12 col-sm-12 text-column">
+                                <div class="text">
+                                    <p>RECRUITMENT CONSULTANT:</p>
+                                </div>
+                                <ul class="list-item clearfix">
+                                    <li>Job involves from receiving the CV's, Screening the CV's till mobilization of
+                                        the personnel.</li>
+                                    <li>With a highly diplomatic skill and manners, very friendly with key friendly with
+                                        key personnel of the
+                                        SKILLS</li>
+                                    <li>Confident, enthusiastic, ambitious and hard working.</li>
+                                    <li>A fast learner and believer of change as a tool to bring efficiency.</li>
+                                    <li>Able critically evaluate and take fast and effective decisions.</li>
+                                    <li>A good team player with adequate leadership qualities.</li>
+                                    <li>Determined to excel in a challenging and competitive work environment.</li>
+                                    <li>A very good approach and bridge building with people. • Like to work in a
+                                        challenging
+                                        Job.</li>
+                                    <li>Exemplary written and verbal
+                                        communication</li>
+                                    <li>Talent recruitment</li>
+                                    <li>Diverse communicator</li>
+                                    <li>Contract and agreement
+                                        negotiation</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <section class="sidebar-page-container">
             <div class="auto-container">
                 <div class="row clearfix">
                     <div class="col-lg-12 col-md-12 col-sm-12 content-side">
                         <div class="blog-details-content">
-                            <div class="author-box">
+
+                            <!-- <div class="author-box">
                                 <figure class="author-thumb"><img src="assets/images/news/director.jpg" alt=""></figure>
                                 <div class="inner">
                                     <h4>Kemparaj,
@@ -122,13 +241,22 @@
                                     <p>Kemparaj believes in enabling people to consistently deliver business objectives and deliver extraordinary results. During his association with Welspun Group, Birla Group, Kirloskar Group, Mohan Spintex Inida, AT&S India, Wuerth India and Dynamitic Technology, he achieved a healthy mix of innovation and pragmatism centred around delivering results and enjoying senior leadership roles like President & CHRO, HR Leader, Vice President & Group Head HR.</p>
                                     <p>His array of degrees in Psychology at SDM College, Ujire, Mangaluru University & PG in MSW in HR & Labor Laws at Roshini Nilaya, Mangaluru University have set him on a path to a greater degree of pragmatism and openness to each engagement, giving companies greater speed, responsiveness, and control over the approach and outcome.</p>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="author-box">
                                 <figure class="author-thumb"><img src="assets/images/news/author-1.jpg" alt=""></figure>
                                 <div class="inner">
                                     <h4>Rakshith Kumar
                                     </h4>
-                                    <p>Rakshith Kumar is a lawyer based out of Bangalore with an experience of 14 years.    He is the founder of NISHTA LAW CHAMBERS. He started his career in Belthangady Court and since then has handled many high-profile cases. He has also served as an external enquiry officer for multiple entities. A dexterous lawyer by profession who has handled multiple cases across verticals like criminal, civil, and labour. His rich experience in the corporate world as a legal team leader handling public shares and various litigations and settlements makes him the best in his field. He has a passion for people and their development and provides practical, client-focussed solutions which help achieve personal and business growth.</p>
+                                    <p>Rakshith Kumar is a lawyer based out of Bangalore with an experience of 14 years.
+                                        He is the founder of NISHTA LAW CHAMBERS. He started his career in Belthangady
+                                        Court and since then has handled many high-profile cases. He has also served as
+                                        an external enquiry officer for multiple entities. A dexterous lawyer by
+                                        profession who has handled multiple cases across verticals like criminal, civil,
+                                        and labour. His rich experience in the corporate world as a legal team leader
+                                        handling public shares and various litigations and settlements makes him the
+                                        best in his field. He has a passion for people and their development and
+                                        provides practical, client-focussed solutions which help achieve personal and
+                                        business growth.</p>
                                 </div>
                             </div>
                             <div class="author-box">
@@ -136,7 +264,16 @@
                                 <div class="inner">
                                     <h4>Capt. (Ex) Ramdass Manjeshwar Kamath
                                     </h4>
-                                    <p>Capt. (Ex) Ramdass Manjeshwar Kamath's experience spans from serving the nation to working across many IT and corporate domains. He also has a substantial amount of experience in Vigilance Management in IT Companies, Banking Sectors & Public sectors. He helped organizations identify their blind spots, collaborate more effectively, and grow through considered practice. His forte is communicating and listening effectively at all levels to promote understanding and buy-in to core issues. He empowers individuals and teams consistently to achieve through an inclusive style which encourages and enables development. He has contributed immensely towards organisational strategy and its application. </p>
+                                    <p>Capt. (Ex) Ramdass Manjeshwar Kamath's experience spans from serving the nation
+                                        to working across many IT and corporate domains. He also has a substantial
+                                        amount of experience in Vigilance Management in IT Companies, Banking Sectors &
+                                        Public sectors. He helped organizations identify their blind spots, collaborate
+                                        more effectively, and grow through considered practice. His forte is
+                                        communicating and listening effectively at all levels to promote understanding
+                                        and buy-in to core issues. He empowers individuals and teams consistently to
+                                        achieve through an inclusive style which encourages and enables development. He
+                                        has contributed immensely towards organisational strategy and its application.
+                                    </p>
                                 </div>
                             </div>
                             <div class="author-box">
@@ -144,10 +281,19 @@
                                 <div class="inner">
                                     <h4>Sunil
                                     </h4>
-                                    <p>Sunil experience in People Management /HR, Strategy, Marketing, Sales and Operations, speaks volumes about the breadth of his sector and functional experience combined with his passion for adding financial value through people. His forte includes Senior HR Consulting and leadership coaching across a variety of industries and disciplines. His expertise also lies in creating modern software tools for background verifications / Employee Verifications for IT & Non-IT companies. Besides his HR know-how, his technical expertise in PHP, HTML5, Bootstrap, Angular.js, Reat.js, MongoDB, MySQL, WordPress, WooCommerce, and Magento has led him to build several portals for many start-ups and businesses. </p>
+                                    <p>Sunil experience in People Management /HR, Strategy, Marketing, Sales and
+                                        Operations, speaks volumes about the breadth of his sector and functional
+                                        experience combined with his passion for adding financial value through people.
+                                        His forte includes Senior HR Consulting and leadership coaching across a variety
+                                        of industries and disciplines. His expertise also lies in creating modern
+                                        software tools for background verifications / Employee Verifications for IT &
+                                        Non-IT companies. Besides his HR know-how, his technical expertise in PHP,
+                                        HTML5, Bootstrap, Angular.js, Reat.js, MongoDB, MySQL, WordPress, WooCommerce,
+                                        and Magento has led him to build several portals for many start-ups and
+                                        businesses. </p>
                                 </div>
                             </div>
-                           
+
                         </div>
                     </div>
                 </div>

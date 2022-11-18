@@ -29,7 +29,7 @@
                         <div class="row clearfix">
                             <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
                                 <div class="footer-widget logo-widget">
-                                    <figure class="footer-logo"><a href="index-2.html"><img src="assets/images/logo.png" alt=""></a></figure>
+                                    <figure class="footer-logo"><a href="index.php"><img src="assets/images/logo.png" alt=""></a></figure>
                                     <!-- <p>Join our newsletter and get latest updates</p>
                                     <form action="http://azim.commonsupport.com/Recvite/contact.html" method="post">
                                         <div class="form-group">
@@ -39,10 +39,10 @@
                                     </form> -->
                                     <ul class="social-links clearfix">
                                         <li><h6>Connect:</h6></li>
-                                        <li><a href="index-2.html"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="index-2.html"><i class="fab fa-facebook-square"></i></a></li>
-                                        <li><a href="index-2.html"><i class="fab fa-pinterest-p"></i></a></li>
-                                        <li><a href="index-2.html"><i class="fab fa-instagram"></i></a></li>
+                                        <li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
+                                        <li><a href="index.php"><i class="fab fa-facebook-square"></i></a></li>
+                                        <li><a href="index.php"><i class="fab fa-pinterest-p"></i></a></li>
+                                        <li><a href="index.php"><i class="fab fa-instagram"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -54,43 +54,27 @@
                                     </div>
                                     <div class="widget-content">
                                         <ul class="links-list clearfix">
-                                            <li><a href="index-2.html">About</a></li>
-                                            <li><a href="index-2.html">Our Solutions</a></li>
-                                            <li><a href="index-2.html">Team Members</a></li>
-                                            <li><a href="index-2.html">News & Articles</a></li>
-                                            <li><a href="index-2.html">Contact Us</a></li>
+                                            <li><a href="about.php">About</a></li>
+                                            <li><a href="services.php">Our Services</a></li>
+                                            <li><a href="index.php">Industry Verticals</a></li>
+                                            <li><a href="leadership.php">Leadership Team</a></li>
+                                            <li><a href="csr.php">CSR</a></li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-2 col-md-6 col-sm-12 footer-column">
+                            <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
                                 <div class="footer-widget links-widget ml-30">
                                     <div class="widget-title">
-                                        <h4>Links</h4>
+                                        <h4>Services</h4>
                                     </div>
                                     <div class="widget-content">
                                         <ul class="links-list clearfix">
-                                            <li><a href="index-2.html">Employers</a></li>
-                                            <li><a href="index-2.html">Job Seekers</a></li>
-                                            <li><a href="index-2.html">How It Works</a></li>
-                                            <li><a href="index-2.html">Pricing & Plans</a></li>
-                                            <li><a href="index-2.html">Our Departments</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-6 col-sm-12 footer-column">
-                                <div class="footer-widget links-widget ml-30">
-                                    <div class="widget-title">
-                                        <h4>Links</h4>
-                                    </div>
-                                    <div class="widget-content">
-                                        <ul class="links-list clearfix">
-                                            <li><a href="index-2.html">Employers</a></li>
-                                            <li><a href="index-2.html">Job Seekers</a></li>
-                                            <li><a href="index-2.html">How It Works</a></li>
-                                            <li><a href="index-2.html">Pricing & Plans</a></li>
-                                            <li><a href="index-2.html">Our Departments</a></li>
+                                            <li><a href="campus-to-corporate.php">Campus to Corporate</a></li>
+                                            <li><a href="talent-identification-sourcing.php">Talent Identificaiton Sources</a></li>
+                                            <li><a href="background-credential-verification.php">Background / Credentials Verification </a></li>
+                                            <li><a href="placement.php">Placement</a></li>
+                                            <li><a href="contract-staffing.php">Staffing Contract</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -122,12 +106,12 @@
                 <div class="auto-container">
                     <div class="inner-box clearfix">
                         <div class="copyright pull-left">
-                            <p>&copy; Copyright 2020 by <a href="index-2.html">Ace Global</a></p>
+                            <p>&copy; Copyright 2020 by <a href="index.php">Ace Global</a></p>
                         </div>
                         <ul class="footer-nav pull-right">
-                            <li><a href="index-2.html">Privacy Policy</a></li>
-                            <li><a href="index-2.html">Terms & Conditions</a></li>
-                            <li><a href="index-2.html">Site Map</a></li>
+                            <li><a href="index.php">Privacy Policy</a></li>
+                            <li><a href="index.php">Terms & Conditions</a></li>
+                            <li><a href="index.php">Site Map</a></li>
                         </ul>
                     </div>
                 </div>
