@@ -66,7 +66,7 @@
         <section class="service-details">
             <div class="auto-container">
                 <div class="row clearfix">
-                    
+
                     <div class="col-lg-8 col-md-12 col-sm-12 content-side">
                         <div class="service-details-content">
                             <!-- <figure class="image-box">
@@ -76,18 +76,28 @@
                             </figure> -->
                             <div class="text">
                                 <h2>Placement</h2>
-                                <p>Ace Global HR is a consulting company that provides organisations with a high-value workforce and helps bring in a diverse and talented team. The advice that we give to organizational leaders is based on years of experience across all industries, strategies, and innovations.</p>
-                                <p>Our motto is to help organizations find potential candidates who have an equally effective strategy that cuts through complexity, understand the values and culture of the organization and inspires people around them.</p>
-                                <p>We come with international experience that we execute locally to build exceptional customer service and technological advantage. Our placement services are end-to-end automated, and ensure agility, accuracy and excellence in delivering the right candidates for the right role.
+                                <p>Ace Global HR is a consulting company that provides organisations with a high-value
+                                    workforce and helps bring in a diverse and talented team Pan India and in the UAE region. The advice that we give to
+                                    organizational leaders is based on years of experience across all industries,
+                                    strategies, and innovations.</p>
+                                <p>Our motto is to help organizations find potential candidates who have an equally
+                                    effective strategy that cuts through complexity, understand the values and culture
+                                    of the organization and inspires people around them.</p>
+                                <p>We come with international experience that we execute locally to build exceptional
+                                    customer service and technological advantage. Our placement services are end-to-end
+                                    automated, and ensure agility, accuracy and excellence in delivering the right
+                                    candidates for the right role. We opened our recruitment firm in Dubai to be close to our clients and candidates in the UAE region. We have a team of international consultants who have extensive knowledge and experience in the main UAE markets.
                                 </p>
-                                <p>Our institutional capability around placement comes with years of experience, discipline and a keen eye to consistently discover new sources of growth.</p>
+                                <p>Our institutional capability around placement comes with years of experience,
+                                    discipline and a keen eye to consistently discover new sources of growth.</p>
                             </div>
                             <div class="two-column">
                                 <div class="row clearfix">
                                     <div class="col-lg-12 col-md-12 col-sm-12 text-column">
                                         <div class="text">
                                             <h3>Why choose us?</h3>
-                                            <p>We at Ace Global HR show you a strategy that can attract, recruit and retain the workforce. Our focus is on every aspect ranging from:</p>
+                                            <p>We at Ace Global HR show you a strategy that can attract, recruit and
+                                                retain the workforce. Our focus is on every aspect ranging from:</p>
                                             <ul class="list-item clearfix">
                                                 <li>Requirement mapping</li>
                                                 <li>Sourcing</li>
@@ -128,7 +138,11 @@
                                         </div>
                                         <div class="acc-content current">
                                             <div class="text">
-                                                <p>To design a placement strategy and to get the best from your team, we align your HR function with your goals for the future. We offer simple, customized and cost-effective solutions to make your life easier. With the right placement strategy in place, the organization can work smarter, grow stronger and move faster.</p>
+                                                <p>To design a placement strategy and to get the best from your team, we
+                                                    align your HR function with your goals for the future. We offer
+                                                    simple, customized and cost-effective solutions to make your life
+                                                    easier. With the right placement strategy in place, the organization
+                                                    can work smarter, grow stronger and move faster.</p>
                                             </div>
                                         </div>
                                     </li>
@@ -139,7 +153,11 @@
                                         </div>
                                         <div class="acc-content">
                                             <div class="text">
-                                                <p>We play a pivotal role in connecting job seekers and recruiters by connecting the right company with the right candidate. Ace Global HR maintains a large database of job aspirants and employers alike that caters to all the specific needs and requirements for all your placement solutions.</p>
+                                                <p>We play a pivotal role in connecting job seekers and recruiters by
+                                                    connecting the right company with the right candidate. Ace Global HR
+                                                    maintains a large database of job aspirants and employers alike that
+                                                    caters to all the specific needs and requirements for all your
+                                                    placement solutions.</p>
                                             </div>
                                         </div>
                                     </li>
@@ -150,10 +168,13 @@
                                         </div>
                                         <div class="acc-content">
                                             <div class="text">
-                                                <p>The key to successful placement is having a simple process, efficient schedule, tremendous candidate experience, and factual reporting. Here’s what we do:</p>
+                                                <p>The key to successful placement is having a simple process, efficient
+                                                    schedule, tremendous candidate experience, and factual reporting.
+                                                    Here’s what we do:</p>
                                                 <ul class="list-item clearfix">
                                                     <li>Attract and engage candidates for the right role</li>
-                                                    <li>Configure automated workflows throughout the entirety of the hiring process</li>
+                                                    <li>Configure automated workflows throughout the entirety of the
+                                                        hiring process</li>
                                                     <li>Meet and screen people virtually or physically </li>
                                                     <li>Close in on the right people in your organization swiftly</li>
                                                 </ul>
@@ -168,12 +189,17 @@
                         <div class="service-sidebar">
                             <div class="category-widget">
                                 <ul class="category-list clearfix">
-                                <li><a href="campus-to-corporate.php"><i
-                                                class="fas fa-angle-right"></i>Campus to Corporate</a></li>
-                                    <li><a href="talent-identification-sourcing.php"><i class="fas fa-angle-right"></i>Talent Identificaiton Sources</a></li>
-                                    <li><a href="background-credential-verification.php" ><i class="fas fa-angle-right"></i>Background / Credentials Verification</a></li>
-                                    <li><a href="placement.php" class="current"><i class="fas fa-angle-right"></i>Placement</a></li>
-                                    <li><a href="contract-staffing.php"><i class="fas fa-angle-right"></i>Contract Staffing</a></li>
+                                    <li><a href="campus-to-corporate.php"><i class="fas fa-angle-right"></i>Campus to
+                                            Corporate</a></li>
+                                    <li><a href="talent-identification-sourcing.php"><i
+                                                class="fas fa-angle-right"></i>Talent Identificaiton Sources</a></li>
+                                    <li><a href="background-credential-verification.php"><i
+                                                class="fas fa-angle-right"></i>Background / Credentials Verification</a>
+                                    </li>
+                                    <li><a href="placement.php" class="current"><i
+                                                class="fas fa-angle-right"></i>Placement</a></li>
+                                    <li><a href="contract-staffing.php"><i class="fas fa-angle-right"></i>Contract
+                                            Staffing</a></li>
                                 </ul>
                             </div>
                             <div class="support-box">

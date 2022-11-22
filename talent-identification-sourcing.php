@@ -91,7 +91,7 @@
                                     Our team develops comprehensive ideas of what you are exactly looking for in your
                                     candidate’s profile as different job platforms have different specialities. We
                                     source and assess the right talent pool based on the understanding of where
-                                    candidates with desired talents are concentrated.
+                                    candidates with desired talents are concentrated both pan India and in the UAE region.
                                     which an organization attracts, recruits, retains, identifies and develops talent.
                                 </p>
                             </div>

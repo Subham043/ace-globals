@@ -160,7 +160,7 @@
                                                 <li><a href="contract-staffing.php">Staffing Contract</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact.php">Industries Verticals</a></li>
+                                        <li><a href="industry-verticals.php">Industry Verticals</a></li>
                                         <li><a href="leadership-team.php">Leadership Team</a></li>
                                         <li><a href="csr.php">CSR</a></li>
                                     </ul>

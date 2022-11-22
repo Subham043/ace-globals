@@ -66,7 +66,7 @@
         <section class="about-style-three">
             <div class="auto-container">
                 <div class="inner-container">
-                    <div class="row clearfix">
+                    <!-- <div class="row clearfix">
                         <div class="col-xl-8 col-lg-12 col-md-12 big-column">
                             <div class="image-box clearfix">
                                 <figure class="image"><img src="assets/images/resource/about-4.jpg" alt=""></figure>
@@ -76,7 +76,7 @@
                         <div class="col-xl-4 col-lg-12 col-md-12 small-column">
                             <figure class="image"><img src="assets/images/resource/about-6.jpg" alt=""></figure>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="row clearfix">
                         <div class="col-lg-12 col-md-12 col-sm-12 content-column">
                             <div class="content-box">
