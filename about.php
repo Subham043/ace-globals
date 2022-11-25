@@ -356,7 +356,7 @@
 
 
         <!-- funfact-section -->
-        <!-- <section class="funfact-section centred">
+        <section class="funfact-section centred">
             <div class="auto-container">
                 <div class="inner-container">
                     <div class="row clearfix">
@@ -365,9 +365,9 @@
                                 <div class="inner-box">
                                     <div class="icon-box"><i class="flaticon-scrum"></i></div>
                                     <div class="count-outer count-box">
-                                        <span class="count-text" data-speed="1500" data-stop="8080">0</span>
+                                        <span class="count-text" data-speed="1500" data-stop="2500">0</span>
                                     </div>
-                                    <p>Project Completed</p>
+                                    <p>Placements</p>
                                 </div>
                             </div>
                         </div>
@@ -376,9 +376,9 @@
                                 <div class="inner-box">
                                     <div class="icon-box"><i class="flaticon-business-idea"></i></div>
                                     <div class="count-outer count-box">
-                                        <span class="count-text" data-speed="1500" data-stop="697">0</span>
+                                        <span class="count-text" data-speed="1500" data-stop="95">0</span>%
                                     </div>
-                                    <p>Employer Solutions</p>
+                                    <p>Employer Satisfaction Feedback</p>
                                 </div>
                             </div>
                         </div>
@@ -387,9 +387,9 @@
                                 <div class="inner-box">
                                     <div class="icon-box"><i class="flaticon-recruit"></i></div>
                                     <div class="count-outer count-box">
-                                        <span class="count-text" data-speed="1500" data-stop="440">0</span>
+                                        <span class="count-text" data-speed="1500" data-stop="25280">0</span>
                                     </div>
-                                    <p>Job Seekers</p>
+                                    <p>Job Aspirants</p>
                                 </div>
                             </div>
                         </div>
@@ -398,7 +398,7 @@
                                 <div class="inner-box">
                                     <div class="icon-box"><i class="flaticon-customer-review"></i></div>
                                     <div class="count-outer count-box">
-                                        <span class="count-text" data-speed="1500" data-stop="2887">0</span>
+                                        <span class="count-text" data-speed="1500" data-stop="250">0</span>
                                     </div>
                                     <p>Happy Customers</p>
                                 </div>
@@ -407,7 +407,7 @@
                     </div>
                 </div>
             </div>
-        </section> -->
+        </section>
         <!-- funfact-section end -->
 
         <!-- about-section -->
