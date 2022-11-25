@@ -105,14 +105,14 @@
             <div class="footer-bottom">
                 <div class="auto-container">
                     <div class="inner-box clearfix">
-                        <div class="copyright pull-left">
-                            <p>&copy; Copyright 2020 by <a href="index.php">Ace Global</a></p>
+                        <div class="copyright text-center">
+                            <p>&copy; Copyright <?php echo date('Y'); ?> by <a href="index.php">Ace Global</a></p>
                         </div>
-                        <ul class="footer-nav pull-right">
+                        <!-- <ul class="footer-nav pull-right">
                             <li><a href="index.php">Privacy Policy</a></li>
                             <li><a href="index.php">Terms & Conditions</a></li>
                             <li><a href="index.php">Site Map</a></li>
-                        </ul>
+                        </ul> -->
                     </div>
                 </div>
             </div>

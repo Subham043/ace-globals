@@ -26,6 +26,7 @@
     <link href="assets/css/color.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
     <link href="assets/css/responsive.css" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/02923278a2.js" crossorigin="anonymous"></script>
 
 </head>
 
@@ -42,7 +43,124 @@
         <!-- preloader -->
 
 
-        <?php include './includes/header.php' ?>
+        <!-- main header -->
+        <header class="main-header style-two">
+
+            <!-- header-upper -->
+            <div class="header-upper">
+                <div class="auto-container">
+                    <div class="upper-inner clearfix">
+                        <div class="logo-box pull-left">
+                            <figure class="logo"><a href="index.php"><img class="logo-img" src="assets/images/logo.png"
+                                        alt=""></a></figure>
+                        </div>
+                        <ul class="upper-info clearfix pull-right">
+                            <li>
+                                <div class="icon-box"><i class="flaticon-telephone"></i></div>
+                                <p>Call</p>
+                                <h6><a href="tel:9538969696">9538969696</a></h6>
+                            </li>
+                            <li>
+                                <div class="icon-box"><i class="flaticon-email"></i></div>
+                                <p>Email</p>
+                                <h6><a href="mailto:sunil@aceglobalhr.com">sunil@aceglobalhr.com</a></h6>
+                            </li>
+                            <li class="btn-box">
+                                <a href="contact.php" class="theme-btn-one">Contact Us</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- header-lower -->
+            <div class="header-lower">
+                <div class="auto-container">
+                    <div class="outer-box clearfix">
+                        <div class="menu-area pull-left">
+                            <!--Mobile Navigation Toggler-->
+                            <div class="mobile-nav-toggler">
+                                <i class="icon-bar"></i>
+                                <i class="icon-bar"></i>
+                                <i class="icon-bar"></i>
+                            </div>
+                            <nav class="main-menu navbar-expand-md navbar-light">
+                                <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
+
+                                    <ul class="navigation clearfix">
+                                        <li><a href="index.php">Home</a></li>
+                                        <li class="current"><a href="about.php">About Us</a></li>
+                                        <li class="dropdown"><a href="services.php">Our Services</a>
+                                            <ul>
+                                                <li><a href="campus-to-corporate.php">Campus to Corporate</a></li>
+                                                <li><a href="talent-identification-sourcing.php">Talent Identificaiton
+                                                        Sources</a></li>
+                                                <li><a href="background-credential-verification.php">Background /
+                                                        Credentials
+                                                        Verification </a></li>
+                                                <li><a href="placement.php">Placement</a></li>
+                                                <li><a href="contract-staffing.php">Staffing Contract</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="industry-verticals.php">Industry Verticals</a></li>
+                                        <li><a href="leadership-team.php">Leadership Team</a></li>
+                                        <li><a href="csr.php">CSR</a></li>
+                                    </ul>
+                                </div>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!--sticky Header-->
+            <div class="sticky-header">
+                <div class="outer-box">
+                    <div class="logo-box">
+                        <figure class="logo"><a href="index.php"><img class="logo-img" src="assets/images/logo.png"
+                                    alt=""></a>
+                        </figure>
+                    </div>
+                    <div class="menu-area">
+                        <nav class="main-menu clearfix">
+                            <!--Keep This Empty / Menu will come through Javascript-->
+                        </nav>
+                    </div>
+
+                </div>
+            </div>
+        </header>
+        <!-- main-header end -->
+
+        <!-- Mobile Menu  -->
+        <div class="mobile-menu">
+            <div class="menu-backdrop"></div>
+            <div class="close-btn"><i class="fas fa-times"></i></div>
+
+            <nav class="menu-box">
+                <div class="nav-logo"><a href="index.php"><img src="assets/images/logo-2.png" alt="" title=""></a></div>
+                <div class="menu-outer">
+                    <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
+                </div>
+                <div class="contact-info">
+                    <h4>Contact Info</h4>
+                    <ul>
+                        <li>Chicago 12, Melborne City, USA</li>
+                        <li><a href="tel:+8801682648101">+88 01682648101</a></li>
+                        <li><a href="mailto:info@example.com">info@example.com</a></li>
+                    </ul>
+                </div>
+                <div class="social-links">
+                    <ul class="clearfix">
+                        <li><a href="index.php"><span class="fab fa-twitter"></span></a></li>
+                        <li><a href="index.php"><span class="fab fa-facebook-square"></span></a></li>
+                        <li><a href="index.php"><span class="fab fa-pinterest-p"></span></a></li>
+                        <li><a href="index.php"><span class="fab fa-instagram"></span></a></li>
+                        <li><a href="index.php"><span class="fab fa-youtube"></span></a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div><!-- End Mobile Menu -->
 
 
         <!-- Page Title -->
@@ -107,15 +225,20 @@
                                 data-wow-duration="1500ms">
                                 <div class="inner-box">
                                     <div class="icon-box">
-                                        <i class="flaticon-investment"></i>
+                                        <i class="fa-regular fa-star"></i>
                                         <span>01</span>
                                         <div class="icon-shape"
                                             style="background-image: url(assets/images/shape/shape-4.png);"></div>
                                     </div>
                                     <h3>What sets up apart from the rest?</h3>
-                                    <p>The world of business is changing all around us and this changing time and again demands a fundamental shift in how organisations contemplate and operate. Some of the successful organisations that we have worked with have embraced change as they understand that change is an opportunity rather than a risk.
+                                    <p>The world of business is changing all around us and this changing time and again
+                                        demands a fundamental shift in how organisations contemplate and operate. Some
+                                        of the successful organisations that we have worked with have embraced change as
+                                        they understand that change is an opportunity rather than a risk.
                                     </p>
-                                    <p>Ace global HR is a disruptive consultancy that specialises in making the HR arena and its workforce to be empowered across the full HR and leadership spectrum.</p>
+                                    <p>Ace global HR is a disruptive consultancy that specialises in making the HR arena
+                                        and its workforce to be empowered across the full HR and leadership spectrum.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -124,13 +247,17 @@
                                 data-wow-duration="1500ms">
                                 <div class="inner-box">
                                     <div class="icon-box">
-                                        <i class="flaticon-checklist"></i>
+                                        <i class="fa-regular fa-handshake"></i>
                                         <span>02</span>
                                         <div class="icon-shape"
                                             style="background-image: url(assets/images/shape/shape-4.png);"></div>
                                     </div>
                                     <h3>Our expertise lies in the business of people</h3>
-                                    <p>There are two verticals we are passionate about – people and business relationships. Both relationships matter and if finely tuned then organisations thrive and flourish. As an organization, you need us by your side for sustainable change as we pride ourselves to be your most critical, strategic and trusted partner.
+                                    <p>There are two verticals we are passionate about – people and business
+                                        relationships. Both relationships matter and if finely tuned then organisations
+                                        thrive and flourish. As an organization, you need us by your side for
+                                        sustainable change as we pride ourselves to be your most critical, strategic and
+                                        trusted partner.
                                     </p>
                                 </div>
                             </div>
@@ -140,15 +267,21 @@
                                 data-wow-duration="1500ms">
                                 <div class="inner-box">
                                     <div class="icon-box">
-                                        <i class="flaticon-outsourcing"></i>
+                                        <i class="fa-solid fa-users-line"></i>
                                         <span>03</span>
                                         <div class="icon-shape"
                                             style="background-image: url(assets/images/shape/shape-4.png);"></div>
                                     </div>
                                     <h3>This is what our work culture looks like</h3>
-                                    <p>Since we work across many sectors and domains, our culture is rather very collaborative. Everyone in our team is seasoned and has held senior roles in their field. Our team comes with rich industry experience and has an unsurpassed breadth of knowledge.
+                                    <p>Since we work across many sectors and domains, our culture is rather very
+                                        collaborative. Everyone in our team is seasoned and has held senior roles in
+                                        their field. Our team comes with rich industry experience and has an unsurpassed
+                                        breadth of knowledge.
                                     </p>
-                                    <p>Our bespoke service is tailored entirely to the needs of the organization and we provide end-to-end support across the whole employee lifecycle. Over a period of time, we have developed long-term relationships, flexibly working with you as and how your organization evolves.</p>
+                                    <p>Our bespoke service is tailored entirely to the needs of the organization and we
+                                        provide end-to-end support across the whole employee lifecycle. Over a period of
+                                        time, we have developed long-term relationships, flexibly working with you as
+                                        and how your organization evolves.</p>
                                 </div>
                             </div>
                         </div>
@@ -189,7 +322,7 @@
                                         <div class="tab active-tab" id="tab-1">
                                             <div class="inner-box">
                                                 <div class="text">
-                                                    <p>Ace Global HR aims at giving a workforce to the organization that is cut above the rest. One workplace at a time. We have the vision to humanise HR and want to bring back the people element in full throttle.</p>
+                                                    <p>To help companies reach high potential by leveraging data and insight to drive talent decisions, to accelerate the performance with the right mechanisms that can steer you effectively in uncertain and dynamic markets.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -197,10 +330,16 @@
                                             <div class="inner-box">
                                                 <div class="text">
                                                     <ul class="list clearfix">
-                                                        <li>Our goal is to make our clients understand the connection between a high-performing workforce and business success.</li>
-                                                        <li>We empower your leadership team and effectively create a team of HR experts within your business that can amplify your culture and your success.</li>
-                                                        <li>We are on a mission to become one of the prominent human resources consulting firms operating worldwide.</li>
-                                                        <li>We want to maintain strict principles, and strategic partnerships and create value for all our stakeholders.</li>
+                                                        <li>Our goal is to make our clients understand the connection
+                                                            between a high-performing workforce and business success.
+                                                        </li>
+                                                        <li>We empower your leadership team and effectively create a
+                                                            team of HR experts within your business that can amplify
+                                                            your culture and your success.</li>
+                                                        <li>We are on a mission to become one of the prominent human
+                                                            resources consulting firms operating worldwide.</li>
+                                                        <li>We want to maintain strict principles, and strategic
+                                                            partnerships and create value for all our stakeholders.</li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -271,15 +410,17 @@
         </section> -->
         <!-- funfact-section end -->
 
-         <!-- about-section -->
-         <section class="about-section">
+        <!-- about-section -->
+        <section class="about-section">
             <div class="auto-container">
                 <div class="row clearfix">
                     <div class="col-lg-5 col-md-12 col-sm-12 image-column">
                         <div class="image_block_1">
                             <div class="image-box">
-                                <figure class="image image-1"><img src="assets/images/resource/about-1.jpg" alt=""></figure>
-                                <figure class="image image-2"><img src="assets/images/resource/about-2.jpg" alt=""></figure>
+                                <figure class="image image-1"><img src="assets/images/resource/about-1.jpg" alt="">
+                                </figure>
+                                <figure class="image image-2"><img src="assets/images/resource/about-2.jpg" alt="">
+                                </figure>
                             </div>
                         </div>
                     </div>
@@ -293,19 +434,30 @@
                                 <div class="inner-box clearfix">
                                     <div class="single-item mb-3">
                                         <h5><span>01</span>Integrity</h5>
-                                        <p>We conform to the highest standards of personal and professional ethics, integrity and conviction. We welcome diversity as diversity brings innovation and leadership at all levels.</p>
+                                        <p>We conform to the highest standards of personal and professional ethics,
+                                            integrity and conviction. We welcome diversity as diversity brings
+                                            innovation and leadership at all levels.</p>
                                     </div>
                                     <div class="single-item mb-3">
                                         <h5><span>02</span>Competency</h5>
-                                        <p>We are a competent team who are set out to fulfil our commitment to our clients, partners and all our stakeholders with a clear understanding of the urgency and accountability inherent in those commitments.</p>
+                                        <p>We are a competent team who are set out to fulfil our commitment to our
+                                            clients, partners and all our stakeholders with a clear understanding of the
+                                            urgency and accountability inherent in those commitments.</p>
                                     </div>
                                     <div class="single-item mb-3">
                                         <h5><span>03</span>Passion for Excellence</h5>
-                                        <p>We are committed to delivering superior services with integrity, trust and appreciation to maintain our customer loyalty. We live up to the expectations of our clients with a promise to deliver exceptional business results while making a positive contribution to our client’s organizations.</p>
+                                        <p>We are committed to delivering superior services with integrity, trust and
+                                            appreciation to maintain our customer loyalty. We live up to the
+                                            expectations of our clients with a promise to deliver exceptional business
+                                            results while making a positive contribution to our client’s organizations.
+                                        </p>
                                     </div>
                                     <div class="single-item mb-3">
                                         <h5><span>04</span>Collaboration</h5>
-                                        <p>Ace Global HR works as a team where we share knowledge for the unceasing enhancement of learning and innovation. Since its inception, Ace global HR stands for intense client focus and this definition has remained at the heart of our culture from day one. </p>
+                                        <p>Ace Global HR works as a team where we share knowledge for the unceasing
+                                            enhancement of learning and innovation. Since its inception, Ace global HR
+                                            stands for intense client focus and this definition has remained at the
+                                            heart of our culture from day one. </p>
                                     </div>
                                 </div>
                             </div>
@@ -327,7 +479,8 @@
                             <div class="shape-2" style="background-image: url(assets/images/shape/shape-7.png);"></div>
                         </div>
                         <h2>Reach out to us for a strategic direction</h2>
-                        <p>We design solutions that match your market situation and organisational requirement and do not believe in cookie-cutter solutions to resolve complex problems.</p>
+                        <p>We design solutions that match your market situation and organisational requirement and do
+                            not believe in cookie-cutter solutions to resolve complex problems.</p>
                     </div>
                     <div class="btn-box">
                         <a href="contact.php" class="theme-btn-one">Contact Us</a>

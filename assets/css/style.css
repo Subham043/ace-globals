@@ -1998,6 +1998,7 @@ div#mCSB_1_container{
 .content_block_1 .content-box .inner-box .single-item p{
   font-size: 16px;
   line-height: 20px;
+  text-align: justify;
 }
 
 .content_block_1 .content-box .lower-box{
@@ -2165,12 +2166,14 @@ div#mCSB_1_container{
   font-size: 24px;
   line-height: 32px;
   font-weight: 700;
-  margin-bottom: 23px;
+  /* margin-bottom: 23px; */
+  margin-bottom: 5px;
 }
 
 .service-block-one .inner-box .lower-content h3 a{
   display: inline-block;
   color: #272727;
+  font-size: 1.2rem;
 }
 
 .service-block-one .inner-box .lower-content h3 a:hover{
@@ -2179,6 +2182,8 @@ div#mCSB_1_container{
 
 .service-block-one .inner-box .lower-content p{
   margin-bottom: 28px;
+  text-align: justify;
+  line-height: 25px;
 }
 
 .service-block-one .inner-box .lower-content .link a{
@@ -2920,9 +2925,10 @@ div#mCSB_1_container{
 
 .testimonial-block-one .inner-box p{
   font-size: 20px;
-  line-height: 36px;
+  line-height: 25px;
   font-style: italic;
   margin-bottom: 27px;
+  text-align: justify;
 }
 
 .testimonial-block-one .inner-box h5{
@@ -3954,6 +3960,7 @@ div#mCSB_1_container{
 .content_block_8 .content-box .text p{
   font-size: 18px;
   line-height: 25px;
+  text-align: justify;
 }
 
 .content_block_8 .content-box .inner-box .single-item{
@@ -4000,6 +4007,7 @@ div#mCSB_1_container{
 .content_block_8 .content-box .inner-box .single-item p{
   font-size: 16px;
   line-height: 20px;
+  text-align: justify;
 }
 
 .content_block_8 .content-box .inner-box{
@@ -4580,6 +4588,7 @@ div#mCSB_1_container{
 .about-style-three .content-box .text p{
   font-size: 18px;
   line-height: 25px;
+  text-align: justify;
 }
 
 .team-section .inner-container{
@@ -4590,6 +4599,7 @@ div#mCSB_1_container{
 
 .process-block .inner-box p{
   line-height: 20px;
+  text-align: justify;
 }
 
 
@@ -4740,6 +4750,7 @@ div#mCSB_1_container{
   line-height: 34px;
   /* margin-bottom: 58px; */
   margin-bottom: 20px;
+  text-align: justify;
 }
 
 .project-details-content .text p:last-child{
@@ -4766,6 +4777,7 @@ div#mCSB_1_container{
   line-height: 34px;
   margin-bottom: 6px;
   padding-left: 25px;
+  text-align: justify;
 }
 
 .project-details-content .two-column .list-item li:last-child{
@@ -5021,6 +5033,7 @@ div#mCSB_1_container{
   font-size: 18px;
   line-height: 34px;
   margin-bottom: 34px;
+  text-align: justify;
 }
 
 .service-details-content .text h4{
@@ -5252,6 +5265,7 @@ div#mCSB_1_container{
   line-height: 25px;
   font-weight: 400;
   margin-bottom: 10px;
+  text-align: justify;
 }
 
 .sidebar-page-container .news-block-one .inner-box{
@@ -5584,6 +5598,7 @@ div#mCSB_1_container{
 .blog-details-content .author-box .inner p{
   font-size: 18px;
   line-height: 25px;
+  text-align: justify;
 }
 
 .sidebar-page-container .blog-details-content .news-block-one .inner-box{

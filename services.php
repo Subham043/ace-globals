@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -41,7 +42,124 @@
         <!-- preloader -->
 
 
-        <?php include './includes/header.php' ?>
+        <!-- main header -->
+        <header class="main-header style-two">
+
+            <!-- header-upper -->
+            <div class="header-upper">
+                <div class="auto-container">
+                    <div class="upper-inner clearfix">
+                        <div class="logo-box pull-left">
+                            <figure class="logo"><a href="index.php"><img class="logo-img" src="assets/images/logo.png"
+                                        alt=""></a></figure>
+                        </div>
+                        <ul class="upper-info clearfix pull-right">
+                            <li>
+                                <div class="icon-box"><i class="flaticon-telephone"></i></div>
+                                <p>Call</p>
+                                <h6><a href="tel:9538969696">9538969696</a></h6>
+                            </li>
+                            <li>
+                                <div class="icon-box"><i class="flaticon-email"></i></div>
+                                <p>Email</p>
+                                <h6><a href="mailto:sunil@aceglobalhr.com">sunil@aceglobalhr.com</a></h6>
+                            </li>
+                            <li class="btn-box">
+                                <a href="contact.php" class="theme-btn-one">Contact Us</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- header-lower -->
+            <div class="header-lower">
+                <div class="auto-container">
+                    <div class="outer-box clearfix">
+                        <div class="menu-area pull-left">
+                            <!--Mobile Navigation Toggler-->
+                            <div class="mobile-nav-toggler">
+                                <i class="icon-bar"></i>
+                                <i class="icon-bar"></i>
+                                <i class="icon-bar"></i>
+                            </div>
+                            <nav class="main-menu navbar-expand-md navbar-light">
+                                <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
+
+                                    <ul class="navigation clearfix">
+                                        <li><a href="index.php">Home</a></li>
+                                        <li><a href="about.php">About Us</a></li>
+                                        <li class="dropdown current"><a href="services.php">Our Services</a>
+                                            <ul>
+                                                <li><a href="campus-to-corporate.php">Campus to Corporate</a></li>
+                                                <li><a href="talent-identification-sourcing.php">Talent Identificaiton
+                                                        Sources</a></li>
+                                                <li><a href="background-credential-verification.php">Background /
+                                                        Credentials
+                                                        Verification </a></li>
+                                                <li><a href="placement.php">Placement</a></li>
+                                                <li><a href="contract-staffing.php">Staffing Contract</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="industry-verticals.php">Industry Verticals</a></li>
+                                        <li><a href="leadership-team.php">Leadership Team</a></li>
+                                        <li><a href="csr.php">CSR</a></li>
+                                    </ul>
+                                </div>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!--sticky Header-->
+            <div class="sticky-header">
+                <div class="outer-box">
+                    <div class="logo-box">
+                        <figure class="logo"><a href="index.php"><img class="logo-img" src="assets/images/logo.png"
+                                    alt=""></a>
+                        </figure>
+                    </div>
+                    <div class="menu-area">
+                        <nav class="main-menu clearfix">
+                            <!--Keep This Empty / Menu will come through Javascript-->
+                        </nav>
+                    </div>
+
+                </div>
+            </div>
+        </header>
+        <!-- main-header end -->
+
+        <!-- Mobile Menu  -->
+        <div class="mobile-menu">
+            <div class="menu-backdrop"></div>
+            <div class="close-btn"><i class="fas fa-times"></i></div>
+
+            <nav class="menu-box">
+                <div class="nav-logo"><a href="index.php"><img src="assets/images/logo-2.png" alt="" title=""></a></div>
+                <div class="menu-outer">
+                    <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
+                </div>
+                <div class="contact-info">
+                    <h4>Contact Info</h4>
+                    <ul>
+                        <li>Chicago 12, Melborne City, USA</li>
+                        <li><a href="tel:+8801682648101">+88 01682648101</a></li>
+                        <li><a href="mailto:info@example.com">info@example.com</a></li>
+                    </ul>
+                </div>
+                <div class="social-links">
+                    <ul class="clearfix">
+                        <li><a href="index.php"><span class="fab fa-twitter"></span></a></li>
+                        <li><a href="index.php"><span class="fab fa-facebook-square"></span></a></li>
+                        <li><a href="index.php"><span class="fab fa-pinterest-p"></span></a></li>
+                        <li><a href="index.php"><span class="fab fa-instagram"></span></a></li>
+                        <li><a href="index.php"><span class="fab fa-youtube"></span></a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div><!-- End Mobile Menu -->
 
 
         <!-- Page Title -->
@@ -53,7 +171,7 @@
                     </div>
                     <ul class="bread-crumb clearfix">
                         <li><a href="index.php">Home</a></li>
-                        <li>Service Details</li>
+                        <li>Services</li>
                     </ul>
                 </div>
             </div>
@@ -65,7 +183,7 @@
         <section class="service-details">
             <div class="auto-container">
                 <div class="row clearfix">
-                    
+
                     <div class="col-lg-8 col-md-12 col-sm-12 content-side">
                         <div class="service-details-content">
                             <!-- <figure class="image-box">
@@ -75,15 +193,24 @@
                             </figure> -->
                             <div class="text">
                                 <h2>We enable your business to harness the power of human energy.</h2>
-                                <p>At Ace Global HR, we offer all HR services right from understanding how your organisation thrives on the quality of your people to creating exemplary organisational cultures. We have been successful in resolving critical organisational issues so that organizations work smoothly on a daily basis without any discrepancies.</p>
-                                <p>We are committed to developing a team of talented consultants that provide you with practical and real-world advice and support. For us, your business community is at the crux of our thought process and the core of our business is to offer human resource services and management consulting to organizations.</p>
-                                <p>We are also specialists in mentoring CEOs and founders to amplify engagement and performance in their businesses.</p>
+                                <p>At Ace Global HR, we offer all HR services right from understanding how your
+                                    organisation thrives on the quality of your people to creating exemplary
+                                    organisational cultures. We have been successful in resolving critical
+                                    organisational issues so that organizations work smoothly on a daily basis without
+                                    any discrepancies.</p>
+                                <p>We are committed to developing a team of talented consultants that provide you with
+                                    practical and real-world advice and support. For us, your business community is at
+                                    the crux of our thought process and the core of our business is to offer human
+                                    resource services and management consulting to organizations.</p>
+                                <p>We are also specialists in mentoring CEOs and founders to amplify engagement and
+                                    performance in their businesses.</p>
                             </div>
                             <div class="two-column">
                                 <div class="row clearfix">
                                     <div class="col-lg-12 col-md-12 col-sm-12 text-column">
                                         <div class="text">
-                                            <h3>We collaborate with our clients across all facets of human resources like</h3>
+                                            <h3>We collaborate with our clients across all facets of human resources
+                                                like</h3>
                                             <ul class="list-item clearfix">
                                                 <li>Workforce planning,</li>
                                                 <li>Safety and wellbeing,</li>
@@ -111,10 +238,14 @@
                                             <div class="text">
                                                 <p>We assist our clients in –</p>
                                                 <ul class="list-item clearfix">
-                                                    <li>Identifying internal skill gaps and addressing them for HR expertise</li>
-                                                    <li>We step up in absence of an in-house HR department and let the show go on seamlessly</li>
-                                                    <li>Undertake special projects that can upscale your organization</li>
-                                                    <li>By Capitalizing on opportunities by keeping up with the latest trends</li>
+                                                    <li>Identifying internal skill gaps and addressing them for HR
+                                                        expertise</li>
+                                                    <li>We step up in absence of an in-house HR department and let the
+                                                        show go on seamlessly</li>
+                                                    <li>Undertake special projects that can upscale your organization
+                                                    </li>
+                                                    <li>By Capitalizing on opportunities by keeping up with the latest
+                                                        trends</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -143,8 +274,13 @@
                                         </div>
                                         <div class="acc-content">
                                             <div class="text">
-                                                <p>We prepare bespoke employment documentation like job descriptions, background verification, letters and contracts for your business. Right from providing you with templates, and forms to streamlining your processes, we take care of it all.</p>
-                                                <p>We know that hiring people can be very taxing, we help our clients get back to what they do best, growing their business while we work wonders from the backend.</p>
+                                                <p>We prepare bespoke employment documentation like job descriptions,
+                                                    background verification, letters and contracts for your business.
+                                                    Right from providing you with templates, and forms to streamlining
+                                                    your processes, we take care of it all.</p>
+                                                <p>We know that hiring people can be very taxing, we help our clients
+                                                    get back to what they do best, growing their business while we work
+                                                    wonders from the backend.</p>
                                             </div>
                                         </div>
                                     </li>
@@ -155,7 +291,9 @@
                                         </div>
                                         <div class="acc-content">
                                             <div class="text">
-                                                <p>Once our solutions match your requirements, we then get into a confidentiality and non-disclosure agreement that will ensure substantial protection for both parties.</p>
+                                                <p>Once our solutions match your requirements, we then get into a
+                                                    confidentiality and non-disclosure agreement that will ensure
+                                                    substantial protection for both parties.</p>
                                             </div>
                                         </div>
                                     </li>
@@ -167,12 +305,16 @@
                         <div class="service-sidebar">
                             <div class="category-widget">
                                 <ul class="category-list clearfix">
-                                <li><a href="campus-to-corporate.php"><i
-                                                class="fas fa-angle-right"></i>Campus to Corporate</a></li>
-                                    <li><a href="talent-identification-sourcing.php"><i class="fas fa-angle-right"></i>Talent Identificaiton Sources</a></li>
-                                    <li><a href="background-credential-verification.php" ><i class="fas fa-angle-right"></i>Background / Credentials Verification</a></li>
+                                    <li><a href="campus-to-corporate.php"><i class="fas fa-angle-right"></i>Campus to
+                                            Corporate</a></li>
+                                    <li><a href="talent-identification-sourcing.php"><i
+                                                class="fas fa-angle-right"></i>Talent Identificaiton Sources</a></li>
+                                    <li><a href="background-credential-verification.php"><i
+                                                class="fas fa-angle-right"></i>Background / Credentials Verification</a>
+                                    </li>
                                     <li><a href="placement.php"><i class="fas fa-angle-right"></i>Placement</a></li>
-                                    <li><a href="contract-staffing.php"><i class="fas fa-angle-right"></i>Contract Staffing</a></li>
+                                    <li><a href="contract-staffing.php"><i class="fas fa-angle-right"></i>Contract
+                                            Staffing</a></li>
                                 </ul>
                             </div>
                             <div class="support-box">
@@ -186,7 +328,7 @@
                             </div>
                         </div>
                     </div>
-                    
+
                 </div>
             </div>
         </section>

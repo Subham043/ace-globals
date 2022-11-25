@@ -42,7 +42,124 @@
         <!-- preloader -->
 
 
-        <?php include './includes/header.php' ?>
+        <!-- main header -->
+        <header class="main-header style-two">
+
+            <!-- header-upper -->
+            <div class="header-upper">
+                <div class="auto-container">
+                    <div class="upper-inner clearfix">
+                        <div class="logo-box pull-left">
+                            <figure class="logo"><a href="index.php"><img class="logo-img" src="assets/images/logo.png"
+                                        alt=""></a></figure>
+                        </div>
+                        <ul class="upper-info clearfix pull-right">
+                            <li>
+                                <div class="icon-box"><i class="flaticon-telephone"></i></div>
+                                <p>Call</p>
+                                <h6><a href="tel:9538969696">9538969696</a></h6>
+                            </li>
+                            <li>
+                                <div class="icon-box"><i class="flaticon-email"></i></div>
+                                <p>Email</p>
+                                <h6><a href="mailto:sunil@aceglobalhr.com">sunil@aceglobalhr.com</a></h6>
+                            </li>
+                            <li class="btn-box">
+                                <a href="contact.php" class="theme-btn-one">Contact Us</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- header-lower -->
+            <div class="header-lower">
+                <div class="auto-container">
+                    <div class="outer-box clearfix">
+                        <div class="menu-area pull-left">
+                            <!--Mobile Navigation Toggler-->
+                            <div class="mobile-nav-toggler">
+                                <i class="icon-bar"></i>
+                                <i class="icon-bar"></i>
+                                <i class="icon-bar"></i>
+                            </div>
+                            <nav class="main-menu navbar-expand-md navbar-light">
+                                <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
+
+                                    <ul class="navigation clearfix">
+                                        <li><a href="index.php">Home</a></li>
+                                        <li><a href="about.php">About Us</a></li>
+                                        <li class="dropdown current"><a href="services.php">Our Services</a>
+                                            <ul>
+                                                <li><a href="campus-to-corporate.php">Campus to Corporate</a></li>
+                                                <li><a href="talent-identification-sourcing.php">Talent Identificaiton
+                                                        Sources</a></li>
+                                                <li><a href="background-credential-verification.php">Background /
+                                                        Credentials
+                                                        Verification </a></li>
+                                                <li><a href="placement.php">Placement</a></li>
+                                                <li><a href="contract-staffing.php">Staffing Contract</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="industry-verticals.php">Industry Verticals</a></li>
+                                        <li><a href="leadership-team.php">Leadership Team</a></li>
+                                        <li><a href="csr.php">CSR</a></li>
+                                    </ul>
+                                </div>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!--sticky Header-->
+            <div class="sticky-header">
+                <div class="outer-box">
+                    <div class="logo-box">
+                        <figure class="logo"><a href="index.php"><img class="logo-img" src="assets/images/logo.png"
+                                    alt=""></a>
+                        </figure>
+                    </div>
+                    <div class="menu-area">
+                        <nav class="main-menu clearfix">
+                            <!--Keep This Empty / Menu will come through Javascript-->
+                        </nav>
+                    </div>
+
+                </div>
+            </div>
+        </header>
+        <!-- main-header end -->
+
+        <!-- Mobile Menu  -->
+        <div class="mobile-menu">
+            <div class="menu-backdrop"></div>
+            <div class="close-btn"><i class="fas fa-times"></i></div>
+
+            <nav class="menu-box">
+                <div class="nav-logo"><a href="index.php"><img src="assets/images/logo-2.png" alt="" title=""></a></div>
+                <div class="menu-outer">
+                    <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
+                </div>
+                <div class="contact-info">
+                    <h4>Contact Info</h4>
+                    <ul>
+                        <li>Chicago 12, Melborne City, USA</li>
+                        <li><a href="tel:+8801682648101">+88 01682648101</a></li>
+                        <li><a href="mailto:info@example.com">info@example.com</a></li>
+                    </ul>
+                </div>
+                <div class="social-links">
+                    <ul class="clearfix">
+                        <li><a href="index.php"><span class="fab fa-twitter"></span></a></li>
+                        <li><a href="index.php"><span class="fab fa-facebook-square"></span></a></li>
+                        <li><a href="index.php"><span class="fab fa-pinterest-p"></span></a></li>
+                        <li><a href="index.php"><span class="fab fa-instagram"></span></a></li>
+                        <li><a href="index.php"><span class="fab fa-youtube"></span></a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div><!-- End Mobile Menu -->
 
 
         <!-- Page Title -->
@@ -54,7 +171,8 @@
                     </div>
                     <ul class="bread-crumb clearfix">
                         <li><a href="index.php">Home</a></li>
-                        <li>Service Details</li>
+                        <li><a href="services.php">Services</a></li>
+                        <li>Background / Credentials Verification</li>
                     </ul>
                 </div>
             </div>
@@ -66,7 +184,7 @@
         <section class="service-details">
             <div class="auto-container">
                 <div class="row clearfix">
-                    
+
                     <div class="col-lg-8 col-md-12 col-sm-12 content-side">
                         <div class="service-details-content">
                             <!-- <figure class="image-box">
@@ -76,13 +194,23 @@
                             </figure> -->
                             <div class="text">
                                 <h2>Background / Credentials Verification</h2>
-                                <p>Maintaining compliance through background checks generally creates onboarding roadblocks for the candidates and tends to become a burden for your team members.
-It is important that the process is smooth sailing and done within a stipulated time. Ace Global HR works meticulously with you to design solutions that achieve this goal seamlessly. 
-</p>
-                                <p>Through a scrupulous, automated background check process and by using strict data security protocols, we procure the data that verifies the financial, unlawful and sometimes commercial records of employees. </p>
-                                <p>Our Background and Credential Verification services protect the organization’s interests and keep any kind of fraudulent activities, loss of income and damage to reputation at bay.
+                                <p>Maintaining compliance through background checks generally creates onboarding
+                                    roadblocks for the candidates and tends to become a burden for your team members.
+                                    It is important that the process is smooth sailing and done within a stipulated
+                                    time. Ace Global HR works meticulously with you to design solutions that achieve
+                                    this goal seamlessly.
                                 </p>
-                                <p>Ace Global HR is your source for the most professional background screening services in the industry as we do comprehensive screening with immediate results. Our array of products and services is designed specifically to provide you with high calibre information at phenomenal prices. </p>
+                                <p>Through a scrupulous, automated background check process and by using strict data
+                                    security protocols, we procure the data that verifies the financial, unlawful and
+                                    sometimes commercial records of employees. </p>
+                                <p>Our Background and Credential Verification services protect the organization’s
+                                    interests and keep any kind of fraudulent activities, loss of income and damage to
+                                    reputation at bay.
+                                </p>
+                                <p>Ace Global HR is your source for the most professional background screening services
+                                    in the industry as we do comprehensive screening with immediate results. Our array
+                                    of products and services is designed specifically to provide you with high calibre
+                                    information at phenomenal prices. </p>
                             </div>
                             <div class="two-column">
                                 <div class="row clearfix">
@@ -111,9 +239,15 @@ It is important that the process is smooth sailing and done within a stipulated 
                                             <div class="text">
                                                 <p>Our Services include:</p>
                                                 <ul class="list-item clearfix">
-                                                    <li>Employee Background Screening - Access to due-diligence reports, Quality verification with authentic analysis and a Strong network with an international presence.</li>
-                                                    <li>Education Verification - Digital education verification. minimize liability, scopious reach with real-time report updates</li>
-                                                    <li>Know Your Customer [KYC] - Advanced and automated customer identification, accurate risk mitigation analysis, augmented operational efficiency with expanded reach</li>
+                                                    <li>Employee Background Screening - Access to due-diligence reports,
+                                                        Quality verification with authentic analysis and a Strong
+                                                        network with an international presence.</li>
+                                                    <li>Education Verification - Digital education verification.
+                                                        minimize liability, scopious reach with real-time report updates
+                                                    </li>
+                                                    <li>Know Your Customer [KYC] - Advanced and automated customer
+                                                        identification, accurate risk mitigation analysis, augmented
+                                                        operational efficiency with expanded reach</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -125,7 +259,10 @@ It is important that the process is smooth sailing and done within a stipulated 
                                         </div>
                                         <div class="acc-content current">
                                             <div class="text">
-                                                <p>We have a streamlined online process that can deliver results in less than an hour. Our background and credentials verification saves organizations a lot of time as we neither deal with paper forms nor follow up with candidates to conclude their verifications.</p>
+                                                <p>We have a streamlined online process that can deliver results in less
+                                                    than an hour. Our background and credentials verification saves
+                                                    organizations a lot of time as we neither deal with paper forms nor
+                                                    follow up with candidates to conclude their verifications.</p>
                                             </div>
                                         </div>
                                     </li>
@@ -136,7 +273,12 @@ It is important that the process is smooth sailing and done within a stipulated 
                                         </div>
                                         <div class="acc-content">
                                             <div class="text">
-                                                <p>In today’s growing world, it is important that organizations get pre-employment verifications done for all their employees to avoid any kind of hassle in the future. These background checks keep a tab on both the competitors as well as your employees. We cater to verifications that even include BFSI, type of residential occupancy, domestic help and support staff verification, etc</p>
+                                                <p>In today’s growing world, it is important that organizations get
+                                                    pre-employment verifications done for all their employees to avoid
+                                                    any kind of hassle in the future. These background checks keep a tab
+                                                    on both the competitors as well as your employees. We cater to
+                                                    verifications that even include BFSI, type of residential occupancy,
+                                                    domestic help and support staff verification, etc</p>
                                             </div>
                                         </div>
                                     </li>
@@ -147,7 +289,12 @@ It is important that the process is smooth sailing and done within a stipulated 
                                         </div>
                                         <div class="acc-content">
                                             <div class="text">
-                                                <p>Ace Global HR has a dynamic legal team that, if need be, gets in touch with advisors in the government to perform background verification and credentials services with authentic results. To maintain the authenticity and accuracy of our verification results, we have collaborated with C-DAC and E-Pramaan (National e-Authentication framework). </p>
+                                                <p>Ace Global HR has a dynamic legal team that, if need be, gets in
+                                                    touch with advisors in the government to perform background
+                                                    verification and credentials services with authentic results. To
+                                                    maintain the authenticity and accuracy of our verification results,
+                                                    we have collaborated with C-DAC and E-Pramaan (National
+                                                    e-Authentication framework). </p>
                                             </div>
                                         </div>
                                     </li>
@@ -159,12 +306,16 @@ It is important that the process is smooth sailing and done within a stipulated 
                         <div class="service-sidebar">
                             <div class="category-widget">
                                 <ul class="category-list clearfix">
-                                <li><a href="campus-to-corporate.php"><i
-                                                class="fas fa-angle-right"></i>Campus to Corporate</a></li>
-                                    <li><a href="talent-identification-sourcing.php"><i class="fas fa-angle-right"></i>Talent Identificaiton Sources</a></li>
-                                    <li><a href="background-credential-verification.php" class="current"><i class="fas fa-angle-right"></i>Background / Credentials Verification</a></li>
+                                    <li><a href="campus-to-corporate.php"><i class="fas fa-angle-right"></i>Campus to
+                                            Corporate</a></li>
+                                    <li><a href="talent-identification-sourcing.php"><i
+                                                class="fas fa-angle-right"></i>Talent Identificaiton Sources</a></li>
+                                    <li><a href="background-credential-verification.php" class="current"><i
+                                                class="fas fa-angle-right"></i>Background / Credentials Verification</a>
+                                    </li>
                                     <li><a href="placement.php"><i class="fas fa-angle-right"></i>Placement</a></li>
-                                    <li><a href="contract-staffing.php"><i class="fas fa-angle-right"></i>Contract Staffing</a></li>
+                                    <li><a href="contract-staffing.php"><i class="fas fa-angle-right"></i>Contract
+                                            Staffing</a></li>
                                 </ul>
                             </div>
                             <div class="support-box">

@@ -42,7 +42,124 @@
         <!-- preloader -->
 
 
-        <?php include './includes/header.php' ?>
+        <!-- main header -->
+        <header class="main-header style-two">
+
+            <!-- header-upper -->
+            <div class="header-upper">
+                <div class="auto-container">
+                    <div class="upper-inner clearfix">
+                        <div class="logo-box pull-left">
+                            <figure class="logo"><a href="index.php"><img class="logo-img" src="assets/images/logo.png"
+                                        alt=""></a></figure>
+                        </div>
+                        <ul class="upper-info clearfix pull-right">
+                            <li>
+                                <div class="icon-box"><i class="flaticon-telephone"></i></div>
+                                <p>Call</p>
+                                <h6><a href="tel:9538969696">9538969696</a></h6>
+                            </li>
+                            <li>
+                                <div class="icon-box"><i class="flaticon-email"></i></div>
+                                <p>Email</p>
+                                <h6><a href="mailto:sunil@aceglobalhr.com">sunil@aceglobalhr.com</a></h6>
+                            </li>
+                            <li class="btn-box">
+                                <a href="contact.php" class="theme-btn-one">Contact Us</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- header-lower -->
+            <div class="header-lower">
+                <div class="auto-container">
+                    <div class="outer-box clearfix">
+                        <div class="menu-area pull-left">
+                            <!--Mobile Navigation Toggler-->
+                            <div class="mobile-nav-toggler">
+                                <i class="icon-bar"></i>
+                                <i class="icon-bar"></i>
+                                <i class="icon-bar"></i>
+                            </div>
+                            <nav class="main-menu navbar-expand-md navbar-light">
+                                <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
+
+                                    <ul class="navigation clearfix">
+                                        <li><a href="index.php">Home</a></li>
+                                        <li><a href="about.php">About Us</a></li>
+                                        <li class="dropdown"><a href="services.php">Our Services</a>
+                                            <ul>
+                                                <li><a href="campus-to-corporate.php">Campus to Corporate</a></li>
+                                                <li><a href="talent-identification-sourcing.php">Talent Identificaiton
+                                                        Sources</a></li>
+                                                <li><a href="background-credential-verification.php">Background /
+                                                        Credentials
+                                                        Verification </a></li>
+                                                <li><a href="placement.php">Placement</a></li>
+                                                <li><a href="contract-staffing.php">Staffing Contract</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="current"><a href="industry-verticals.php">Industry Verticals</a></li>
+                                        <li><a href="leadership-team.php">Leadership Team</a></li>
+                                        <li><a href="csr.php">CSR</a></li>
+                                    </ul>
+                                </div>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!--sticky Header-->
+            <div class="sticky-header">
+                <div class="outer-box">
+                    <div class="logo-box">
+                        <figure class="logo"><a href="index.php"><img class="logo-img" src="assets/images/logo.png"
+                                    alt=""></a>
+                        </figure>
+                    </div>
+                    <div class="menu-area">
+                        <nav class="main-menu clearfix">
+                            <!--Keep This Empty / Menu will come through Javascript-->
+                        </nav>
+                    </div>
+
+                </div>
+            </div>
+        </header>
+        <!-- main-header end -->
+
+        <!-- Mobile Menu  -->
+        <div class="mobile-menu">
+            <div class="menu-backdrop"></div>
+            <div class="close-btn"><i class="fas fa-times"></i></div>
+
+            <nav class="menu-box">
+                <div class="nav-logo"><a href="index.php"><img src="assets/images/logo-2.png" alt="" title=""></a></div>
+                <div class="menu-outer">
+                    <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
+                </div>
+                <div class="contact-info">
+                    <h4>Contact Info</h4>
+                    <ul>
+                        <li>Chicago 12, Melborne City, USA</li>
+                        <li><a href="tel:+8801682648101">+88 01682648101</a></li>
+                        <li><a href="mailto:info@example.com">info@example.com</a></li>
+                    </ul>
+                </div>
+                <div class="social-links">
+                    <ul class="clearfix">
+                        <li><a href="index.php"><span class="fab fa-twitter"></span></a></li>
+                        <li><a href="index.php"><span class="fab fa-facebook-square"></span></a></li>
+                        <li><a href="index.php"><span class="fab fa-pinterest-p"></span></a></li>
+                        <li><a href="index.php"><span class="fab fa-instagram"></span></a></li>
+                        <li><a href="index.php"><span class="fab fa-youtube"></span></a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div><!-- End Mobile Menu -->
 
 
         <!-- Page Title -->
@@ -68,9 +185,9 @@
                 </div>
                 <div class="inner-container">
                     <div class="row clearfix">
-                        
-                        
-                        
+
+
+
                         <div class="col-lg-4 col-md-6 col-sm-12 news-block">
                             <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms"
                                 data-wow-duration="1500ms">
@@ -82,7 +199,12 @@
                                     </div>
                                     <div class="lower-content">
                                         <h3><a href="blog-details.html">FMCG Industry</a></h3>
-                                        <p>As FMCG is one of the fast growing sectors in India, we understand the demand and ensure that the requirement matches your business needs. We have both PAN India and global reach and we are also well-connected when it comes to the best talent management practices. Our FMCG business consultants also provide guidance to small players who are planning to capture the FMCG market.</p>
+                                        <p>As FMCG is one of the fast growing sectors in India, we understand the demand
+                                            and ensure that the requirement matches your business needs. We have both
+                                            PAN India and global reach and we are also well-connected when it comes to
+                                            the best talent management practices. Our FMCG business consultants also
+                                            provide guidance to small players who are planning to capture the FMCG
+                                            market.</p>
                                     </div>
                                 </div>
                             </div>
@@ -98,7 +220,12 @@
                                     </div>
                                     <div class="lower-content">
                                         <h3><a href="blog-details.html">Health Care</a></h3>
-                                        <p>We, at Ace Global HR, have sensed the growing demand for skilled individuals through our industry contacts and we deliver the right talent with the definitive human resource needs. The healthcare industry mostly works on word of mouth and therefore we go through a robust evaluation and strong referral procedures to find the right fit that is conducted by our specialist consultants.</p>
+                                        <p>We, at Ace Global HR, have sensed the growing demand for skilled individuals
+                                            through our industry contacts and we deliver the right talent with the
+                                            definitive human resource needs. The healthcare industry mostly works on
+                                            word of mouth and therefore we go through a robust evaluation and strong
+                                            referral procedures to find the right fit that is conducted by our
+                                            specialist consultants.</p>
                                     </div>
                                 </div>
                             </div>
@@ -114,7 +241,12 @@
                                     </div>
                                     <div class="lower-content">
                                         <h3><a href="blog-details.html">The Industrial Sector</a></h3>
-                                        <p>There has been a rapid transformation in the market and a wide variety of greenfield projects have surfaced across various sectors. With the rise of different projects, there will definitely be a great demand for a skilled workforce. This exponential rise has made us understand the changing trends and we are working seamlessly across various sectors to meet the needs and expectations of our clients</p>
+                                        <p>There has been a rapid transformation in the market and a wide variety of
+                                            greenfield projects have surfaced across various sectors. With the rise of
+                                            different projects, there will definitely be a great demand for a skilled
+                                            workforce. This exponential rise has made us understand the changing trends
+                                            and we are working seamlessly across various sectors to meet the needs and
+                                            expectations of our clients</p>
                                     </div>
                                 </div>
                             </div>
@@ -130,7 +262,12 @@
                                     </div>
                                     <div class="lower-content">
                                         <h3><a href="blog-details.html">The Infrastructure Industry</a></h3>
-                                        <p>With different projects running across the country, there is a possibility that there can be procedural delays that can delay the development of Infrastructure. A pool of talent and experienced individuals remains unexplored who are looking for challenging opportunities in the infrastructure domain. Ace Global HR has consultants who can tap into this talent and bring the right workforce to your doorstep.</p>
+                                        <p>With different projects running across the country, there is a possibility
+                                            that there can be procedural delays that can delay the development of
+                                            Infrastructure. A pool of talent and experienced individuals remains
+                                            unexplored who are looking for challenging opportunities in the
+                                            infrastructure domain. Ace Global HR has consultants who can tap into this
+                                            talent and bring the right workforce to your doorstep.</p>
                                     </div>
                                 </div>
                             </div>
@@ -146,7 +283,12 @@
                                     </div>
                                     <div class="lower-content">
                                         <h3><a href="blog-details.html">Internet and the E-commerce sector</a></h3>
-                                        <p>The past decade has seen startling growth in the e-commerce industry even in the tier-II and tier-III cities in India. Whether it is Internet connectivity, mobile phone reach, living standards, Banking and payment services, the dynamics have certainly changed. We, at Ace Global HR, have a team of consultants who are in constant touch with industry experts to propel transformation in the e-commerce sector.</p>
+                                        <p>The past decade has seen startling growth in the e-commerce industry even in
+                                            the tier-II and tier-III cities in India. Whether it is Internet
+                                            connectivity, mobile phone reach, living standards, Banking and payment
+                                            services, the dynamics have certainly changed. We, at Ace Global HR, have a
+                                            team of consultants who are in constant touch with industry experts to
+                                            propel transformation in the e-commerce sector.</p>
                                     </div>
                                 </div>
                             </div>
@@ -162,7 +304,12 @@
                                     </div>
                                     <div class="lower-content">
                                         <h3><a href="blog-details.html">The logistics sector</a></h3>
-                                        <p>Since the logistics sector is a major contributing factor to the growth and progress of most industries, there needs to be a conducive environment where the right talent can be placed. Ace Global HR consultants have an extensive experience in the Logistics and supply chain talent ecosystem. We look at exceeding the client’s expectations and therefore help them handpick appropriate candidates.</p>
+                                        <p>Since the logistics sector is a major contributing factor to the growth and
+                                            progress of most industries, there needs to be a conducive environment where
+                                            the right talent can be placed. Ace Global HR consultants have an extensive
+                                            experience in the Logistics and supply chain talent ecosystem. We look at
+                                            exceeding the client’s expectations and therefore help them handpick
+                                            appropriate candidates.</p>
                                     </div>
                                 </div>
                             </div>
@@ -178,12 +325,17 @@
                                     </div>
                                     <div class="lower-content">
                                         <h3><a href="blog-details.html">The Media and Entertainment Industry</a></h3>
-                                        <p>The M&E industry has seen substantial growth and there are oodles of exciting opportunities as the consumption pattern has drastically changed. We at Ace Global HR have unconventional solutions that can identify skills that are just the right fit in the M&E industry. Whether it is publishing, broadcasting and cable, film and music production, new media or marketing services, we have got you covered.</p>
+                                        <p>The M&E industry has seen substantial growth and there are oodles of exciting
+                                            opportunities as the consumption pattern has drastically changed. We at Ace
+                                            Global HR have unconventional solutions that can identify skills that are
+                                            just the right fit in the M&E industry. Whether it is publishing,
+                                            broadcasting and cable, film and music production, new media or marketing
+                                            services, we have got you covered.</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        
+
                         <div class="col-lg-4 col-md-6 col-sm-12 news-block">
                             <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms"
                                 data-wow-duration="1500ms">
@@ -195,12 +347,17 @@
                                     </div>
                                     <div class="lower-content">
                                         <h3><a href="blog-details.html">The Oil and Gas industry</a></h3>
-                                        <p>The rising demand for energy also has given rise to skilled manpower who can manoeuvre this industry to great heights. The tailor-made solutions at Ace Global HR address the growing needs and demands of our clients and candidates. We help companies reorganize themselves in order to stay on par with today’s changing landscape. Our professional approach helps our clients achieve this goal.</p>
+                                        <p>The rising demand for energy also has given rise to skilled manpower who can
+                                            manoeuvre this industry to great heights. The tailor-made solutions at Ace
+                                            Global HR address the growing needs and demands of our clients and
+                                            candidates. We help companies reorganize themselves in order to stay on par
+                                            with today’s changing landscape. Our professional approach helps our clients
+                                            achieve this goal.</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        
+
                         <div class="col-lg-4 col-md-6 col-sm-12 news-block">
                             <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms"
                                 data-wow-duration="1500ms">
@@ -211,8 +368,14 @@
                                         </div>
                                     </div>
                                     <div class="lower-content">
-                                        <h3><a href="blog-details.html">Pharmaceutical Industry and diagnostic sector</a></h3>
-                                        <p>In the fast-evolving environment, the need for this Industry to find reliable talent becomes inevitable. We bring in a talented pool that can boost creativity and we understand that the process of the product development cycle of the pharma industry is a prolonged one. Therefore, it is prudent that we find reliable talent for our clients who are able to focus on product innovation for a long period.</p>
+                                        <h3><a href="blog-details.html">Pharmaceutical Industry and diagnostic
+                                                sector</a></h3>
+                                        <p>In the fast-evolving environment, the need for this Industry to find reliable
+                                            talent becomes inevitable. We bring in a talented pool that can boost
+                                            creativity and we understand that the process of the product development
+                                            cycle of the pharma industry is a prolonged one. Therefore, it is prudent
+                                            that we find reliable talent for our clients who are able to focus on
+                                            product innovation for a long period.</p>
                                     </div>
                                 </div>
                             </div>
@@ -228,7 +391,12 @@
                                     </div>
                                     <div class="lower-content">
                                         <h3><a href="blog-details.html">The Power Sector</a></h3>
-                                        <p>We, at Ace Global HR, have adept consultants who have deeper insights across different sub verticals and job positions in the industry. We have a well-connected team of professionals who are aware of the change and innovation and accordingly find a fine line of talent for your unique requirements. Our tailor-made solutions help clients in their most difficult market conditions.</p>
+                                        <p>We, at Ace Global HR, have adept consultants who have deeper insights across
+                                            different sub verticals and job positions in the industry. We have a
+                                            well-connected team of professionals who are aware of the change and
+                                            innovation and accordingly find a fine line of talent for your unique
+                                            requirements. Our tailor-made solutions help clients in their most difficult
+                                            market conditions.</p>
                                     </div>
                                 </div>
                             </div>
@@ -244,7 +412,12 @@
                                     </div>
                                     <div class="lower-content">
                                         <h3><a href="blog-details.html">The Real Estate Sector</a></h3>
-                                        <p>Whether it is residential and commercial (retail, offices, and hospitality, construction management, project management) categories, we have a very strong network of consultants who can steer you through every vertical of the real estate sector. Ace Global HR believes in developing strong relations with clients to ensure that the right candidates are onboarded in the right companies.</p>
+                                        <p>Whether it is residential and commercial (retail, offices, and hospitality,
+                                            construction management, project management) categories, we have a very
+                                            strong network of consultants who can steer you through every vertical of
+                                            the real estate sector. Ace Global HR believes in developing strong
+                                            relations with clients to ensure that the right candidates are onboarded in
+                                            the right companies.</p>
                                     </div>
                                 </div>
                             </div>
@@ -260,7 +433,12 @@
                                     </div>
                                     <div class="lower-content">
                                         <h3><a href="blog-details.html">The Retail Industry</a></h3>
-                                        <p>With Ace Global HR at your side, you can be rest assured that we help you keep informed about the developments that are changing the dynamics of the industry. Our dedicated team of consultants have acumen about operational structures deliver the clients what they precisely require to reach towering heights. We also have experience across sectors spanning right from top to middle level positions.</p>
+                                        <p>With Ace Global HR at your side, you can be rest assured that we help you
+                                            keep informed about the developments that are changing the dynamics of the
+                                            industry. Our dedicated team of consultants have acumen about operational
+                                            structures deliver the clients what they precisely require to reach towering
+                                            heights. We also have experience across sectors spanning right from top to
+                                            middle level positions.</p>
                                     </div>
                                 </div>
                             </div>
@@ -276,7 +454,11 @@
                                     </div>
                                     <div class="lower-content">
                                         <h3><a href="blog-details.html">Services</a></h3>
-                                        <p>Ace Global HR caters to various industries such as tourism, hospitality, civil aviation, personal Services and much more. We bring you niche talent that can serve both global and domestic requirements. With decades of experience behind us, we have set up an unparalleled network of individuals who will prove instrumental in taking your company several notches up.</p>
+                                        <p>Ace Global HR caters to various industries such as tourism, hospitality,
+                                            civil aviation, personal Services and much more. We bring you niche talent
+                                            that can serve both global and domestic requirements. With decades of
+                                            experience behind us, we have set up an unparalleled network of individuals
+                                            who will prove instrumental in taking your company several notches up.</p>
                                     </div>
                                 </div>
                             </div>
@@ -292,7 +474,12 @@
                                     </div>
                                     <div class="lower-content">
                                         <h3><a href="blog-details.html">Technology</a></h3>
-                                        <p>Ace Global HR has expertise in various segments of IT that includes IT products, IT services etc. We help in steering change for both established as well as emerging Tech providers. The ever-changing industry requires a workforce that can keep up with the savvy nature of IT. As Ace recruiters, we give you a secured placement and respectable positions across the industry.</p>
+                                        <p>Ace Global HR has expertise in various segments of IT that includes IT
+                                            products, IT services etc. We help in steering change for both established
+                                            as well as emerging Tech providers. The ever-changing industry requires a
+                                            workforce that can keep up with the savvy nature of IT. As Ace recruiters,
+                                            we give you a secured placement and respectable positions across the
+                                            industry.</p>
                                     </div>
                                 </div>
                             </div>
@@ -308,7 +495,12 @@
                                     </div>
                                     <div class="lower-content">
                                         <h3><a href="blog-details.html">Telecom Industry</a></h3>
-                                        <p>Ace Global HR is your most trusted partner when it comes to acquiring talent from across the industry. Our designated team caters to your executive needs in the telecom sector providing you with customized solutions. With a strong network at hand, we have access to the right and adept talent in the industry. This allows you to focus on your business while we take care of your recruitment needs. </p>
+                                        <p>Ace Global HR is your most trusted partner when it comes to acquiring talent
+                                            from across the industry. Our designated team caters to your executive needs
+                                            in the telecom sector providing you with customized solutions. With a strong
+                                            network at hand, we have access to the right and adept talent in the
+                                            industry. This allows you to focus on your business while we take care of
+                                            your recruitment needs. </p>
                                     </div>
                                 </div>
                             </div>
@@ -463,8 +655,14 @@
                                         </div>
                                     </div>
                                     <div class="lower-content">
-                                        <h3><a href="blog-details.html">The core industries – Metals, Minerals and Mining</a></h3>
-                                        <p>India stands in the fourth position as the largest producer of coal in the world and therefore the demand for professionals in this industry also is more. We at Ace Global HR pride ourselves on being highly specialised in this sector. We have constantly observed the growth curve of this industry over the past few years and know how to find the merited talent for our clients.</p>
+                                        <h3><a href="blog-details.html">The core industries – Metals, Minerals and
+                                                Mining</a></h3>
+                                        <p>India stands in the fourth position as the largest producer of coal in the
+                                            world and therefore the demand for professionals in this industry also is
+                                            more. We at Ace Global HR pride ourselves on being highly specialised in
+                                            this sector. We have constantly observed the growth curve of this industry
+                                            over the past few years and know how to find the merited talent for our
+                                            clients.</p>
                                     </div>
                                 </div>
                             </div>
@@ -480,7 +678,11 @@
                                     </div>
                                     <div class="lower-content">
                                         <h3><a href="blog-details.html">The Outsourcing and offshoring services</a></h3>
-                                        <p>India is the hub for O&O services and it has evolved exponentially because of progress in Information technology and AI. There is demand for restructuring the job markets to fuel the companies and help them flourish domestically and globally. That’s where Ace global HR steps in. We bring in a talented workforce that can showcase their skills at various sites and bases. </p>
+                                        <p>India is the hub for O&O services and it has evolved exponentially because of
+                                            progress in Information technology and AI. There is demand for restructuring
+                                            the job markets to fuel the companies and help them flourish domestically
+                                            and globally. That’s where Ace global HR steps in. We bring in a talented
+                                            workforce that can showcase their skills at various sites and bases. </p>
                                     </div>
                                 </div>
                             </div>
