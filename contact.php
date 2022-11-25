@@ -26,6 +26,15 @@
     <link href="assets/css/color.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
     <link href="assets/css/responsive.css" rel="stylesheet">
+    <!-- Google reCAPTCHA CDN -->
+    <script src="https://www.google.com/recaptcha/api.js" async defer>
+    </script>
+
+    <style>
+    .error {
+        color: red;
+    }
+    </style>
 
 </head>
 
@@ -244,24 +253,28 @@
                     </div>
                     <div class="col-lg-8 col-md-12 col-sm-12 form-column">
                         <div class="form-inner">
-                            <form method="post" action="http://azim.commonsupport.com/Recvite/sendemail.php"
+                            <form method="post"
                                 id="contact-form" class="default-form">
                                 <div class="row clearfix">
                                     <div class="col-lg-6 col-md-6 col-sm-12 form-group">
-                                        <input type="text" name="username" placeholder="Full Name" required="">
+                                        <input type="text" id="name" name="name" placeholder="Full Name">
                                     </div>
                                     <div class="col-lg-6 col-md-6 col-sm-12 form-group">
-                                        <input type="email" name="email" placeholder="Email Address" required="">
+                                        <input type="email" id="email" name="email" placeholder="Email Address">
                                     </div>
                                     <div class="col-lg-6 col-md-12 col-sm-12 form-group">
-                                        <input type="text" name="phone" required="" placeholder="Phone Number">
+                                        <input type="text" id="phone" name="phone" placeholder="Phone Number">
                                     </div>
                                     <div class="col-lg-6 col-md-12 col-sm-12 form-group">
-                                        <input type="text" name="subject" required="" placeholder="Subject">
+                                        <input type="text" id="subject" name="subject" placeholder="Subject">
                                     </div>
                                     <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                        <textarea name="message" placeholder="Write Message"></textarea>
+                                        <textarea id="message" name="message" placeholder="Write Message"></textarea>
                                     </div>
+                                    <div class="col-lg-12 col-md-12 col-sm-12 form-group g-recaptcha"
+                                        data-sitekey="6LejGTMjAAAAAPROmA-1KuSSrLmTD5MXXX7taBC5">
+                                    </div>
+                                    <br>
                                     <div class="col-lg-12 col-md-12 col-sm-12 form-group message-btn">
                                         <button class="theme-btn-one" type="submit" name="submit-form">Submit</button>
                                     </div>
@@ -286,11 +299,12 @@
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/owl.js"></script>
     <script src="assets/js/wow.js"></script>
-    <script src="assets/js/validation.js"></script>
     <script src="assets/js/jquery.fancybox.js"></script>
     <script src="assets/js/appear.js"></script>
     <script src="assets/js/scrollbar.js"></script>
     <script src="assets/js/isotope.js"></script>
+    <script src="assets/js/jquery.validate.min.js"></script>
+    <script src="assets/js/axios.min.js"></script>
 
     <!-- map script -->
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA-CE0deH3Jhj6GN4YvdCFZS7DpbXexzGU"></script>
@@ -299,6 +313,106 @@
 
     <!-- main-js -->
     <script src="assets/js/script.js"></script>
+
+    <script>
+    jQuery.validator.addMethod("namePattern", function(value, element) {
+        return /^[a-zA-Z\s]*$/.test(value);
+    }, "Your name contains invalid characters");
+    jQuery.validator.addMethod("commonPattern", function(value, element) {
+        return /^[a-z 0-9~%.:_\@\-\/\(\)\\\#\;\[\]\{\}\$\!\&\<\>\'\r\n+=,]+$/i.test(value);
+    }, "This field contains invalid characters");
+
+    var validators = $("#contact-form").validate({
+        rules: {
+            // compound rule
+            name: {
+                // required: true,
+                namePattern: true
+            },
+            email: {
+                required: true,
+                email: true
+            },
+            phone: {
+                required: true,
+                digits: true,
+            },
+            subject: {
+                required: true,
+                commonPattern: true,
+            },
+            message: {
+                required: true,
+                commonPattern: true,
+            },
+        },
+        messages: {
+            name: {
+                required: "Please specify your full name",
+            },
+            email: {
+                required: "Please specify your email",
+                email: "Your email address must be in the format of name@domain.com"
+            },
+            phone: {
+                required: "Please specify your phone",
+                digits: "Your phone number must be in the format of digits only",
+            },
+            subject: {
+                required: "Please specify your subject",
+                commonPattern: "Your subject contains invalid characters",
+            },
+            message: {
+                required: "Please specify your message",
+                commonPattern: "Your message contains invalid characters",
+            },
+        },
+        submitHandler: function(form) {
+            // form.submit();
+            $.ajax({
+                type: "POST",
+                url: "mail.php",
+                data: new FormData(form),
+                processData: false,
+                contentType: false,
+                cache: false,
+                async: false,
+                dataType: "json",
+                success: function(response) {
+                    
+                },
+                error: function (xhr, ajaxOptions, thrownError) {
+                    if(xhr?.responseJSON?.form_error?.name){
+                        validators.showErrors({
+                            "name": xhr?.responseJSON?.form_error?.name
+                        });
+                    }
+                    if(xhr?.responseJSON?.form_error?.email){
+                        validators.showErrors({
+                            "email": xhr?.responseJSON?.form_error?.email
+                        });
+                    }
+                    if(xhr?.responseJSON?.form_error?.phone){
+                        validators.showErrors({
+                            "phone": xhr?.responseJSON?.form_error?.phone
+                        });
+                    }
+                    if(xhr?.responseJSON?.form_error?.subject){
+                        validators.showErrors({
+                            "subject": xhr?.responseJSON?.form_error?.subject
+                        });
+                    }
+                    if(xhr?.responseJSON?.form_error?.message){
+                        validators.showErrors({
+                            "message": xhr?.responseJSON?.form_error?.message
+                        });
+                    }
+                }
+            });
+            return false;
+        }
+    });
+    </script>
 
 </body><!-- End of .page_wrapper -->
 
