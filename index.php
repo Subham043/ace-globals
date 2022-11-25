@@ -746,62 +746,69 @@
 
         <!-- clients-section -->
         <section class="clients-section alternat-2"
-            style="background-image: url(./assets/images/background/clients-1.jpg);">
-            <!-- <div class="auto-container">
-                <div class="inner-container">
-                    <div class="clients-carousel owl-carousel owl-theme owl-nav-none owl-dots-none">
-                        <figure class="clients-logo-box"><a href="index.php"><img src="./assets/images/clients/clients-logo-6.png" alt=""></a></figure>
-                        <figure class="clients-logo-box"><a href="index.php"><img src="./assets/images/clients/clients-logo-7.png" alt=""></a></figure>
-                        <figure class="clients-logo-box"><a href="index.php"><img src="./assets/images/clients/clients-logo-8.png" alt=""></a></figure>
-                        <figure class="clients-logo-box"><a href="index.php"><img src="./assets/images/clients/clients-logo-9.png" alt=""></a></figure>
-                        <figure class="clients-logo-box"><a href="index.php"><img src="./assets/images/clients/clients-logo-10.png" alt=""></a></figure>
-                    </div>
-                </div>
-            </div> -->
-        </section>
+            style="background-image: url(./assets/images/background/clients-1.jpg);"></section>
         <!-- clients-section end -->
 
 
-        <!-- feature-style-two -->
-        <section class="feature-style-two">
+
+        <section class="service-details">
             <div class="auto-container">
-                <div class="inner-container clearfix">
-                    <div class="single-item">
-                        <div class="inner-box">
-                            <div class="icon-box"><i class="fas fa-check"></i></div>
-                            <h4>Setting the standard for excellence</h4>
-                            <p>We have created a culture that encourages the professional achievement of employees and
-                                that has become the cornerstone of Ace global HR. We have an experienced and seasoned
-                                team that has know-how about all facets of human resources and our proficiency in best
-                                practices is second to none.</p>
-                        </div>
-                    </div>
-                    <div class="single-item">
-                        <div class="inner-box">
-                            <div class="icon-box"><i class="fas fa-check"></i></div>
-                            <h4>Bespoke solutions</h4>
-                            <p>Our bespoke and customized solutions fit every HR requirement across different domains
-                                and industries. We closely analyse the organizational needs and design strategies
-                                accordingly. We strongly believe that a closely knit collaboration is the crux of
-                                providing adequate HR solutions where our experts will work with you as a cohesive team.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="single-item">
-                        <div class="inner-box">
-                            <div class="icon-box"><i class="fas fa-check"></i></div>
-                            <h4>Comprehensive HR support</h4>
-                            <p>We get it that dealing with HR issues and employment laws can be intimidating and
-                                time-consuming. We at Ace global HR provide far-reaching HR support tailored to your
-                                budget and prerequisites. Right from full HR project management, to recruitment,
-                                managing and retaining a team of passion and training, we drive your business to
-                                success.</p>
+                <div class="row clearfix">
+                    <div class="col-lg-12 col-md-12 col-sm-12 content-side">
+                        <div class="service-details-content">
+                            <div class="content_block_1">
+                                <div class="content-box">
+                                    <div class="inner-box row clearfix">
+                                        <div class="single-item col-lg-12 col-md-6 col-sm-12">
+                                            <h5><span>01</span>Setting the standard for excellence</h5>
+                                            <p>We have created a culture that encourages the professional achievement of
+                                                employees and
+                                                that has become the cornerstone of Ace global HR. We have an experienced
+                                                and seasoned
+                                                team that has know-how about all facets of human resources and our
+                                                proficiency in best
+                                                practices is second to none.</p><br/>
+                                        </div>
+                                        <div class="single-item col-lg-12 col-md-6 col-sm-12">
+                                            <h5><span>02</span>Bespoke solutions</h5>
+                                            <p>Our bespoke and customized solutions fit every HR requirement across
+                                                different domains
+                                                and industries. We closely analyse the organizational needs and design
+                                                strategies
+                                                accordingly. We strongly believe that a closely knit collaboration is
+                                                the crux of
+                                                providing adequate HR solutions where our experts will work with you as
+                                                a cohesive team.</p><br/>
+                                        </div>
+                                        <div class="single-item col-lg-12 col-md-6 col-sm-12">
+                                            <h5><span>03</span>Comprehensive HR support</h5>
+                                            <p>We get it that dealing with HR issues and employment laws can be
+                                                intimidating and
+                                                time-consuming. We at Ace global HR provide far-reaching HR support
+                                                tailored to your
+                                                budget and prerequisites. Right from full HR project management, to
+                                                recruitment,
+                                                managing and retaining a team of passion and training, we drive your
+                                                business to
+                                                success.</p><br/>
+                                        </div>
+                                        <div class="single-item col-lg-12 col-md-6 col-sm-12">
+                                            <h5><span>02</span>International recruitment specialists</h5>
+                                            <p>We recruit people for international operations as we are adept at
+                                                identifying the global competitiveness of the potential applicants and
+                                                are aware of the nuances of international business, especially in the
+                                                UAE region. We know the significance of talent and skilled employees for
+                                                various roles in a company and find some highly competent candidates
+                                                through a stringent process of screening and shortlisting.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- feature-style-two end -->
 
 
         <!-- cta-style-two -->

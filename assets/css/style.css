@@ -4857,7 +4857,7 @@ div#mCSB_1_container{
 .service-details{
   position: relative;
   /* padding: 120px 0px; */
-  padding: 60px 0px;
+  padding: 60px 0px 0px;
 }
 
 .service-sidebar .category-widget{
