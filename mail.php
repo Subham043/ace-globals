@@ -9,10 +9,16 @@ function nameValidator($val){
     if(empty($val)){
         return true;
     }
+    if(!preg_match("/^[a-zA-Z\s]*$/", $val)){
+        return true;
+    }
     return false;
 }
 function emailValidator($val){
     if(empty($val)){
+        return true;
+    }
+    if (!filter_var($val, FILTER_VALIDATE_EMAIL)) {
         return true;
     }
     return false;
@@ -21,10 +27,42 @@ function phoneValidator($val){
     if(empty($val)){
         return true;
     }
+    if(!preg_match("/^[0-9]*$/", $val)){
+        return true;
+    }
     return false;
 }
 function subject_messageValidator($val){
     if(empty($val)){
+        return true;
+    }
+    if(!preg_match("/^[a-z 0-9~%.:_\@\-\/\(\)\\\#\;\[\]\{\}\$\!\&\<\>\'\r\n+=,]+$/i", $val)){
+        return true;
+    }
+    return false;
+}
+function captchaValidator($val){
+    if(empty($val)){
+        return true;
+    }
+    // Put secret key here, which we get
+    // from google console
+    $secret_key = '6LejGTMjAAAAAKBhwRTSGDgAWh__xJmK_4lxxLsZ';
+  
+    // Hitting request to the URL, Google will
+    // respond with success or error scenario
+    $url = 'https://www.google.com/recaptcha/api/siteverify?secret='
+          . $secret_key . '&response=' . $val;
+    // Making request to verify captcha
+    $response = file_get_contents($url);
+  
+    // Response return by google is in
+    // JSON format, so we have to parse
+    // that json
+    $response = json_decode($response);
+  
+    // Checking, if response is true or not
+    if ($response->success != true) {
         return true;
     }
     return false;
@@ -35,11 +73,36 @@ $subject     =  $_POST['subject'];
 $email     =  $_POST['email'];
 $phone     =  $_POST['phone'];
 $message   =  $_POST['message'];
+$recaptcha = $_POST['g-recaptcha-response'];
 
 if(nameValidator($name)){
-
     http_response_code(400); 
     echo json_encode(array("form_error"=>array("name"=>"Name field is invalid")));
+    exit;
+}
+if(emailValidator($email)){
+    http_response_code(400); 
+    echo json_encode(array("form_error"=>array("email"=>"Email field is invalid")));
+    exit;
+}
+if(phoneValidator($phone)){
+    http_response_code(400); 
+    echo json_encode(array("form_error"=>array("phone"=>"Phone field is invalid")));
+    exit;
+}
+if(subject_messageValidator($subject)){
+    http_response_code(400); 
+    echo json_encode(array("form_error"=>array("subject"=>"Subject field is invalid")));
+    exit;
+}
+if(subject_messageValidator($message)){
+    http_response_code(400); 
+    echo json_encode(array("form_error"=>array("message"=>"Message field is invalid")));
+    exit;
+}
+if(captchaValidator($recaptcha)){
+    http_response_code(400); 
+    echo json_encode(array("form_error"=>array("recaptcha"=>"Recaptcha field is required")));
     exit;
 }
 
@@ -96,16 +159,17 @@ try {
     //Content
     $mail->isHTML(true);                                  //Set email format to HTML
     $mail->Subject = 'Here is the subject';
-    $mail->Body    =  $body.$body_2;
+    $mail->Body    =  $body;
     $mail->send();
     //echo 'Message has been sent';
-    if($_SERVER['HTTP_HOST']=='localhost'){
-        header("Location:http://".$_SERVER['HTTP_HOST']."/ashwasurya/thankyou-page.html");
-    }else{
-        header("Location:https://".$_SERVER['HTTP_HOST']."/AshwaSurya/thankyou-page.html");
-    }
+    http_response_code(200); 
+    echo json_encode(array("message"=>"Mail sent successfully"));
+    exit;
+    
    
 } catch (Exception $e) {
-    echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+    http_response_code(400); 
+    echo json_encode(array("error"=>"Message could not be sent. Mailer Error: {$mail->ErrorInfo}"));
+    exit;
 }
 ?>

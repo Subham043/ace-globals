@@ -26,6 +26,7 @@
     <link href="assets/css/color.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
     <link href="assets/css/responsive.css" rel="stylesheet">
+    <link href="assets/css/iziToast.min.css" rel="stylesheet">
     <!-- Google reCAPTCHA CDN -->
     <script src="https://www.google.com/recaptcha/api.js" async defer>
     </script>
@@ -276,7 +277,7 @@
                                     </div>
                                     <br>
                                     <div class="col-lg-12 col-md-12 col-sm-12 form-group message-btn">
-                                        <button class="theme-btn-one" type="submit" name="submit-form">Submit</button>
+                                        <button class="theme-btn-one" type="submit" id="submitBtn" name="submit-form">Submit</button>
                                     </div>
                                 </div>
                             </form>
@@ -304,7 +305,7 @@
     <script src="assets/js/scrollbar.js"></script>
     <script src="assets/js/isotope.js"></script>
     <script src="assets/js/jquery.validate.min.js"></script>
-    <script src="assets/js/axios.min.js"></script>
+    <script src="assets/js/iziToast.min.js"></script>
 
     <!-- map script -->
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA-CE0deH3Jhj6GN4YvdCFZS7DpbXexzGU"></script>
@@ -315,6 +316,23 @@
     <script src="assets/js/script.js"></script>
 
     <script>
+    const errorToast = (message) =>{
+        iziToast.error({
+            title: 'Error',
+            message: message,
+            position: 'bottomCenter',
+            timeout:7000
+        });
+    }
+    const successToast = (message) =>{
+        iziToast.success({
+            title: 'Success',
+            message: message,
+            position: 'bottomCenter',
+            timeout:6000
+        });
+    }
+
     jQuery.validator.addMethod("namePattern", function(value, element) {
         return /^[a-zA-Z\s]*$/.test(value);
     }, "Your name contains invalid characters");
@@ -326,7 +344,7 @@
         rules: {
             // compound rule
             name: {
-                // required: true,
+                required: true,
                 namePattern: true
             },
             email: {
@@ -369,6 +387,18 @@
         },
         submitHandler: function(form) {
             // form.submit();
+            var submitBtn = document.getElementById('submitBtn')
+            submitBtn.innerHTML = `
+                <span class="d-flex align-items-center">
+                    <span class="spinner-border flex-shrink-0" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </span>
+                    <span class="flex-grow-1 ms-2">
+                        Loading...
+                    </span>
+                </span>
+                `
+            submitBtn.disabled = true;
             $.ajax({
                 type: "POST",
                 url: "mail.php",
@@ -379,7 +409,13 @@
                 async: false,
                 dataType: "json",
                 success: function(response) {
-                    
+                    successToast("Message Sent Successfully.")
+                    grecaptcha.reset();
+                    form.reset();
+                    submitBtn.innerHTML =  `
+                        Submit
+                        `
+                    submitBtn.disabled = false;
                 },
                 error: function (xhr, ajaxOptions, thrownError) {
                     if(xhr?.responseJSON?.form_error?.name){
@@ -407,6 +443,16 @@
                             "message": xhr?.responseJSON?.form_error?.message
                         });
                     }
+                    if(xhr?.responseJSON?.form_error?.recaptcha){
+                        errorToast(xhr?.responseJSON?.form_error?.recaptcha)
+                    }
+                    if(xhr?.responseJSON?.error){
+                        errorToast(xhr?.responseJSON?.error)
+                    }
+                    submitBtn.innerHTML =  `
+                        Submit
+                        `
+                    submitBtn.disabled = false;
                 }
             });
             return false;
