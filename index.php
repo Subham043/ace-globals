@@ -167,7 +167,7 @@
         <section class="banner-section style-two centred">
             <div class="banner-carousel owl-theme owl-carousel owl-dots-none">
                 <div class="slide-item">
-                    <div class="image-layer" style="background-image:url(./assets/images/banner/banner-7.jpg)"></div>
+                    <div class="image-layer" style="background-image:url(./assets/images/banner/banner-10.jpg)"></div>
                     <div class="auto-container">
                         <div class="content-box">
                             <h1>A seamless journey through a human-centric approach</h1>
@@ -180,7 +180,7 @@
                     </div>
                 </div>
                 <div class="slide-item">
-                    <div class="image-layer" style="background-image:url(./assets/images/banner/banner-6.jpg)"></div>
+                    <div class="image-layer" style="background-image:url(./assets/images/banner/banner-8.jpg)"></div>
                     <div class="auto-container">
                         <div class="content-box">
                             <h1>International Recruitment made simple</h1>
@@ -192,7 +192,7 @@
                     </div>
                 </div>
                 <div class="slide-item">
-                    <div class="image-layer" style="background-image:url(./assets/images/banner/banner-6.jpg)"></div>
+                    <div class="image-layer" style="background-image:url(./assets/images/banner/banner-14.jpg)"></div>
                     <div class="auto-container">
                         <div class="content-box">
                             <h1>We're galvanised to empower your workforce</h1>
@@ -205,7 +205,7 @@
                     </div>
                 </div>
                 <div class="slide-item">
-                    <div class="image-layer" style="background-image:url(./assets/images/banner/banner-5.jpg)"></div>
+                    <div class="image-layer" style="background-image:url(./assets/images/banner/banner-12.jpg)"></div>
                     <div class="auto-container">
                         <div class="content-box">
                             <h1>Build your business with our best practices</h1>
