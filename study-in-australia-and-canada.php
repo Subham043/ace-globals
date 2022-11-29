@@ -9,23 +9,24 @@
     <title>Ace Global</title>
 
     <!-- Fav Icon -->
-    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="assets/images/logo.png" type="image/x-icon">
 
     <!-- Google Fonts -->
     <link
         href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&amp;display=swap"
-        rel="stylesheet">
+        rel="stylesheet" async>
 
     <!-- Stylesheets -->
-    <link href="assets/css/font-awesome-all.css" rel="stylesheet">
-    <link href="assets/css/flaticon.css" rel="stylesheet">
-    <link href="assets/css/owl.css" rel="stylesheet">
-    <link href="assets/css/bootstrap.css" rel="stylesheet">
-    <link href="assets/css/jquery.fancybox.min.css" rel="stylesheet">
-    <link href="assets/css/animate.css" rel="stylesheet">
-    <link href="assets/css/color.css" rel="stylesheet">
-    <link href="assets/css/style.css" rel="stylesheet">
-    <link href="assets/css/responsive.css" rel="stylesheet">
+    <link href="assets/css/font-awesome-all.css" rel="stylesheet" async>
+    <link href="assets/css/flaticon.css" rel="stylesheet" async>
+    <link href="assets/css/owl.css" rel="stylesheet" async>
+    <link href="assets/css/bootstrap.css" rel="stylesheet" async>
+    <link href="assets/css/jquery.fancybox.min.css" rel="stylesheet" async>
+    <link href="assets/css/animate.css" rel="stylesheet" async>
+    <link href="assets/css/color.css" rel="stylesheet" async>
+    <link href="assets/css/style.css" rel="stylesheet" async>
+    <link href="assets/css/responsive.css" rel="stylesheet" async>
+    <script src="https://kit.fontawesome.com/02923278a2.js" crossorigin="anonymous"></script>
 
 </head>
 
@@ -252,24 +253,34 @@
                                     <div class="col-lg-4 col-md-6 col-sm-12 feature-block">
                                         <div class="feature-block-one">
                                             <div class="inner-box">
-                                                <div class="icon-box"><i class="flaticon-mission"></i></div>
-                                                <h4>Planning your departure</h4>
+                                                <div class="icon-box"><i class="fal fa-plane-departure"></i></div>
+                                                <h6>Planning your departure</h6>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-4 col-md-6 col-sm-12 feature-block ">
+                                    
+                                    <div class="col-lg-4 col-md-6 col-sm-12 feature-block">
                                         <div class="feature-block-one">
                                             <div class="inner-box">
-                                                <div class="icon-box"><i class="flaticon-solution"></i></div>
-                                                <h4>Living costs and finding accommodation.</h4>
+                                                <div class="icon-box"><i class="fab fa-cc-visa"></i></div>
+                                                <h6>Visa compliance services</h6>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-4 col-md-6 col-sm-12 feature-block">
                                         <div class="feature-block-one">
                                             <div class="inner-box">
-                                                <div class="icon-box"><i class="flaticon-solution"></i></div>
-                                                <h4>Accessing support services.</h4>
+                                                <div class="icon-box"><i class="fas fa-laptop-house"></i></div>
+                                                <h6>Work while you study options</h6>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-4 col-md-6 col-sm-12 feature-block mt-5">
+                                        <div class="feature-block-one">
+                                            <div class="inner-box">
+                                                <div class="icon-box"><i class="fal fa-building"></i></div>
+                                                <h6>Living costs and finding accommodation.</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -277,15 +288,7 @@
                                         <div class="feature-block-one">
                                             <div class="inner-box">
                                                 <div class="icon-box"><i class="flaticon-solution"></i></div>
-                                                <h4>Visa compliance services</h4>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-4 col-md-6 col-sm-12 feature-block mt-5">
-                                        <div class="feature-block-one">
-                                            <div class="inner-box">
-                                                <div class="icon-box"><i class="flaticon-solution"></i></div>
-                                                <h4>Work while you study options</h4>
+                                                <h6>Accessing support services.</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -293,16 +296,16 @@
                                     <div class="col-lg-4 col-md-6 col-sm-12 feature-block mt-5">
                                         <div class="feature-block-one">
                                             <div class="inner-box">
-                                                <div class="icon-box"><i class="flaticon-creative-idea"></i></div>
-                                                <h4>Arriving at your study destination</h4>
+                                                <div class="icon-box"><i class="fas fa-taxi"></i></div>
+                                                <h6>Arriving at your study destination</h6>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-4 col-md-6 col-sm-12 feature-block mt-5">
                                         <div class="feature-block-one">
                                             <div class="inner-box">
-                                                <div class="icon-box"><i class="flaticon-solution"></i></div>
-                                                <h4>Health and safety.</h4>
+                                                <div class="icon-box"><i class="fal fa-heartbeat"></i></div>
+                                                <h6>Health and safety.</h6>
                                             </div>
                                         </div>
                                     </div>

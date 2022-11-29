@@ -9,24 +9,24 @@
     <title>Ace Global HR Integrated Services</title>
 
     <!-- Fav Icon -->
-    <link rel="icon" href="./assets/images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="./assets/images/logo.png" type="image/x-icon">
 
     <!-- Google Fonts -->
     <link
         href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&amp;display=swap"
-        rel="stylesheet">
+        rel="stylesheet" async>
 
     <!-- Stylesheets -->
-    <link href="./assets/css/font-awesome-all.css" rel="stylesheet">
-    <link href="./assets/css/flaticon.css" rel="stylesheet">
-    <link href="./assets/css/owl.css" rel="stylesheet">
-    <link href="./assets/css/bootstrap.css" rel="stylesheet">
-    <link href="./assets/css/jquery.fancybox.min.css" rel="stylesheet">
-    <link href="./assets/css/animate.css" rel="stylesheet">
-    <link href="./assets/css/color.css" rel="stylesheet">
-    <link href="./assets/css/style.css" rel="stylesheet">
-    <link href="./assets/css/responsive.css" rel="stylesheet">
-    <script src="https://kit.fontawesome.com/02923278a2.js" crossorigin="anonymous"></script>
+    <link href="./assets/css/font-awesome-all.css" rel="stylesheet" async>
+    <link href="./assets/css/flaticon.css" rel="stylesheet" async>
+    <link href="./assets/css/owl.css" rel="stylesheet" async>
+    <link href="./assets/css/bootstrap.css" rel="stylesheet" async>
+    <link href="./assets/css/jquery.fancybox.min.css" rel="stylesheet" async>
+    <link href="./assets/css/animate.css" rel="stylesheet" async>
+    <link href="./assets/css/color.css" rel="stylesheet" async>
+    <link href="./assets/css/style.css" rel="stylesheet" async>
+    <link href="./assets/css/responsive.css" rel="stylesheet" async>
+    <script src="https://kit.fontawesome.com/02923278a2.js" defer crossorigin="anonymous"></script>
 
 </head>
 
@@ -167,7 +167,7 @@
         <section class="banner-section style-two centred">
             <div class="banner-carousel owl-theme owl-carousel owl-dots-none">
                 <div class="slide-item">
-                    <div class="image-layer" style="background-image:url(./assets/images/banner/banner-10.jpg)"></div>
+                    <div class="image-layer" style="background-image:url(./assets/images/banner/banner-10.webp)"></div>
                     <div class="auto-container">
                         <div class="content-box">
                             <h1>A seamless journey through a human-centric approach</h1>
@@ -180,7 +180,7 @@
                     </div>
                 </div>
                 <div class="slide-item">
-                    <div class="image-layer" style="background-image:url(./assets/images/banner/banner-8.jpg)"></div>
+                    <div class="image-layer" style="background-image:url(./assets/images/banner/banner-8.webp)"></div>
                     <div class="auto-container">
                         <div class="content-box">
                             <h1>International Recruitment made simple</h1>
@@ -192,7 +192,7 @@
                     </div>
                 </div>
                 <div class="slide-item">
-                    <div class="image-layer" style="background-image:url(./assets/images/banner/banner-14.jpg)"></div>
+                    <div class="image-layer" style="background-image:url(./assets/images/banner/banner-14.webp)"></div>
                     <div class="auto-container">
                         <div class="content-box">
                             <h1>We're galvanised to empower your workforce</h1>
@@ -205,7 +205,7 @@
                     </div>
                 </div>
                 <div class="slide-item">
-                    <div class="image-layer" style="background-image:url(./assets/images/banner/banner-12.jpg)"></div>
+                    <div class="image-layer" style="background-image:url(./assets/images/banner/banner-12.webp)"></div>
                     <div class="auto-container">
                         <div class="content-box">
                             <h1>Build your business with our best practices</h1>
@@ -551,7 +551,7 @@
                             data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <figure class="image-box">
-                                    <img src="./assets/images/team/team-1.jpg" alt="">
+                                    <img src="./assets/images/news/director-3.webp" alt="">
                                     <div class="content-box clearfix">
                                         <span>Connect</span>
                                         <ul class="social-links">
@@ -563,8 +563,8 @@
                                     </div>
                                 </figure>
                                 <div class="lower-content">
-                                    <h4><a href="index-3.html">Jessica Brown</a></h4>
-                                    <span class="designation">Director</span>
+                                    <h4><a href="index-3.html">Kemparaj</a></h4>
+                                    <span class="designation">Managing Director</span>
                                 </div>
                             </div>
                         </div>
@@ -574,7 +574,7 @@
                             data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <figure class="image-box">
-                                    <img src="./assets/images/team/team-2.jpg" alt="">
+                                    <img src="./assets/images/news/director-2.jpg" alt="">
                                     <div class="content-box clearfix">
                                         <span>Connect</span>
                                         <ul class="social-links">
@@ -586,7 +586,7 @@
                                     </div>
                                 </figure>
                                 <div class="lower-content">
-                                    <h4><a href="index-3.html">Mike Hardson</a></h4>
+                                    <h4><a href="index-3.html">H N MOHAMED ALI UCHIL</a></h4>
                                     <span class="designation">Director</span>
                                 </div>
                             </div>
@@ -609,7 +609,7 @@
                                     </div>
                                 </figure>
                                 <div class="lower-content">
-                                    <h4><a href="index-3.html">Christine Eve</a></h4>
+                                    <h4><a href="index-3.html">Rakshith Kumar</a></h4>
                                     <span class="designation">Director</span>
                                 </div>
                             </div>
@@ -632,7 +632,7 @@
                                     </div>
                                 </figure>
                                 <div class="lower-content">
-                                    <h4><a href="index-3.html">Kevin Smith</a></h4>
+                                    <h4><a href="index-3.html">Ramdass Manjeshwar Kamath</a></h4>
                                     <span class="designation">Director</span>
                                 </div>
                             </div>
