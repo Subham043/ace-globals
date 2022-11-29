@@ -238,7 +238,7 @@
                     <div class="two-column">
                         <div class="row clearfix">
                             <div class="col-lg-5 col-md-6 col-sm-12 image-column">
-                                <figure class="image"><img src="assets/images/news/director.jpg" alt=""></figure>
+                                <figure class="image"><img src="assets/images/news/director-3.webp" alt=""></figure>
                             </div>
                             <div class="col-lg-7 col-md-6 col-sm-12 text-column">
                                 <div class="text">
