@@ -91,14 +91,24 @@
                                         <li><a href="about.php">About Us</a></li>
                                         <li class="dropdown"><a href="services.php">Our Services</a>
                                             <ul>
-                                                <li><a href="campus-to-corporate.php">Campus to Corporate</a></li>
-                                                <li><a href="talent-identification-sourcing.php">Talent Identificaiton
-                                                        Sources</a></li>
-                                                <li><a href="background-credential-verification.php">Background /
-                                                        Credentials
-                                                        Verification </a></li>
-                                                <li><a href="placement.php">Placement</a></li>
-                                                <li><a href="contract-staffing.php">Staffing Contract</a></li>
+                                                <li class="dropdown"><a href="services.php">India</a>
+                                                    <ul>
+                                                        <li><a href="campus-to-corporate.php">Campus to Corporate</a></li>
+                                                        <li><a href="talent-identification-sourcing.php">Talent Identificaiton
+                                                                Sources</a></li>
+                                                        <li><a href="background-credential-verification.php">Background /
+                                                                Credentials
+                                                                Verification </a></li>
+                                                        <li><a href="placement.php">Placement</a></li>
+                                                        <li><a href="contract-staffing.php">Staffing Contract</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li class="dropdown"><a href="services.php">Abroad</a>
+                                                    <ul>
+                                                        <li><a href="placements-in-uae-and-saudi-arabia.php">Placement in UAE & Saudi Arabia</a></li>
+                                                        <li><a href="study-in-australia-and-canada.php">Study in Australia & Canada</a></li>
+                                                    </ul>
+                                                </li>
                                             </ul>
                                         </li>
                                         <li class="current"><a href="industry-verticals.php">Industry Verticals</a></li>
