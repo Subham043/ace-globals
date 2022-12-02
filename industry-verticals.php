@@ -77,6 +77,10 @@
                 <div class="auto-container">
                     <div class="outer-box clearfix">
                         <div class="menu-area pull-left">
+                            <div class="logo-box pull-left d-none d-sm-active">
+                                <figure class="logo"><a href="index.php"><img class="logo-img" src="assets/images/logo.png"
+                                            alt=""></a></figure>
+                            </div>
                             <!--Mobile Navigation Toggler-->
                             <div class="mobile-nav-toggler">
                                 <i class="icon-bar"></i>
@@ -87,7 +91,7 @@
                                 <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
 
                                     <ul class="navigation clearfix">
-                                        <li><a href="index.php">Home</a></li>
+                                        <li class="current"><a href="index.php">Home</a></li>
                                         <li><a href="about.php">About Us</a></li>
                                         <li class="dropdown"><a href="services.php">Our Services</a>
                                             <ul>
@@ -111,7 +115,7 @@
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li class="current"><a href="industry-verticals.php">Industry Verticals</a></li>
+                                        <li><a href="industry-verticals.php">Industry Verticals</a></li>
                                         <li><a href="leadership-team.php">Leadership Team</a></li>
                                         <li><a href="csr.php">CSR</a></li>
                                     </ul>
@@ -147,16 +151,15 @@
             <div class="close-btn"><i class="fas fa-times"></i></div>
 
             <nav class="menu-box">
-                <div class="nav-logo"><a href="index.php"><img src="assets/images/logo-2.png" alt="" title=""></a></div>
+                <div class="nav-logo"><a href="index.php"><img src="assets/images/logo.png" alt="" title=""></a></div>
                 <div class="menu-outer">
                     <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
                 </div>
                 <div class="contact-info">
                     <h4>Contact Info</h4>
                     <ul>
-                        <li>Chicago 12, Melborne City, USA</li>
-                        <li><a href="tel:+8801682648101">+88 01682648101</a></li>
-                        <li><a href="mailto:info@example.com">info@example.com</a></li>
+                        <li><a href="tel:9538969696">9538969696</a></li>
+                        <li><a href="mailto:sunil@aceglobalhr.com">sunil@aceglobalhr.com</a></li>
                     </ul>
                 </div>
                 <div class="social-links">

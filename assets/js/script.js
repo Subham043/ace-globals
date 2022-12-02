@@ -386,7 +386,7 @@
 			navText: [ '<span class="fas fa-angle-left"></span>', '<span class="fas fa-angle-right"></span>' ],
 			responsive:{
 				0:{
-					items:3
+					items:1
 				},
 				480:{
 					items:1
@@ -540,3 +540,17 @@
 	
 
 })(window.jQuery);
+
+
+(function () {
+	var options = {
+		whatsapp: "9538969696", // WhatsApp number
+		call_to_action: "Message us", // Call to action
+		button_color: "#FF6550", // Color of button
+		position: "left", // Position may be 'right' or 'left'
+	};
+	var proto = 'https:', host = "getbutton.io", url = proto + '//static.' + host;
+	var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+	s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+	var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+})();
