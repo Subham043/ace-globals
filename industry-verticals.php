@@ -199,8 +199,6 @@
                 <div class="inner-container">
                     <div class="row clearfix">
 
-
-
                         <div class="col-lg-4 col-md-6 col-sm-12 news-block">
                             <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms"
                                 data-wow-duration="1500ms">
@@ -211,17 +209,20 @@
                                         </div>
                                     </div>
                                     <div class="lower-content">
-                                        <h3><a href="blog-details.html">FMCG Industry</a></h3>
-                                        <p>As FMCG is one of the fast growing sectors in India, we understand the demand
-                                            and ensure that the requirement matches your business needs. We have both
-                                            PAN India and global reach and we are also well-connected when it comes to
-                                            the best talent management practices. Our FMCG business consultants also
-                                            provide guidance to small players who are planning to capture the FMCG
-                                            market.</p>
+                                        <h3><a href="blog-details.html">The Oil and Gas industry</a></h3>
+                                        <p>The rising demand for energy also has given rise to skilled manpower who can
+                                            manoeuvre this industry to great heights. The tailor-made solutions at Ace
+                                            Global HR address the growing needs and demands of our clients and
+                                            candidates. We help companies reorganize themselves in order to stay on par
+                                            with today’s changing landscape. Our professional approach helps our clients
+                                            achieve this goal.</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
+
+                        
+                        
                         <div class="col-lg-4 col-md-6 col-sm-12 news-block">
                             <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms"
                                 data-wow-duration="1500ms">
@@ -229,48 +230,6 @@
                                     <div class="image-box">
                                         <div class="post-date">
                                             <h4>2</h4>
-                                        </div>
-                                    </div>
-                                    <div class="lower-content">
-                                        <h3><a href="blog-details.html">Health Care</a></h3>
-                                        <p>We, at Ace Global HR, have sensed the growing demand for skilled individuals
-                                            through our industry contacts and we deliver the right talent with the
-                                            definitive human resource needs. The healthcare industry mostly works on
-                                            word of mouth and therefore we go through a robust evaluation and strong
-                                            referral procedures to find the right fit that is conducted by our
-                                            specialist consultants.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                            <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms"
-                                data-wow-duration="1500ms">
-                                <div class="inner-box">
-                                    <div class="image-box">
-                                        <div class="post-date">
-                                            <h4>3</h4>
-                                        </div>
-                                    </div>
-                                    <div class="lower-content">
-                                        <h3><a href="blog-details.html">The Industrial Sector</a></h3>
-                                        <p>There has been a rapid transformation in the market and a wide variety of
-                                            greenfield projects have surfaced across various sectors. With the rise of
-                                            different projects, there will definitely be a great demand for a skilled
-                                            workforce. This exponential rise has made us understand the changing trends
-                                            and we are working seamlessly across various sectors to meet the needs and
-                                            expectations of our clients</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                            <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms"
-                                data-wow-duration="1500ms">
-                                <div class="inner-box">
-                                    <div class="image-box">
-                                        <div class="post-date">
-                                            <h4>4</h4>
                                         </div>
                                     </div>
                                     <div class="lower-content">
@@ -285,6 +244,54 @@
                                 </div>
                             </div>
                         </div>
+
+                        
+
+                        <div class="col-lg-4 col-md-6 col-sm-12 news-block">
+                            <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms"
+                                data-wow-duration="1500ms">
+                                <div class="inner-box">
+                                    <div class="image-box">
+                                        <div class="post-date">
+                                            <h4>3</h4>
+                                        </div>
+                                    </div>
+                                    <div class="lower-content">
+                                        <h3><a href="blog-details.html">The Real Estate Sector</a></h3>
+                                        <p>Whether it is residential and commercial (retail, offices, and hospitality,
+                                            construction management, project management) categories, we have a very
+                                            strong network of consultants who can steer you through every vertical of
+                                            the real estate sector. Ace Global HR believes in developing strong
+                                            relations with clients to ensure that the right candidates are onboarded in
+                                            the right companies.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-sm-12 news-block">
+                            <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms"
+                                data-wow-duration="1500ms">
+                                <div class="inner-box">
+                                    <div class="image-box">
+                                        <div class="post-date">
+                                            <h4>4</h4>
+                                        </div>
+                                    </div>
+                                    <div class="lower-content">
+                                        <h3><a href="blog-details.html">The Power Sector</a></h3>
+                                        <p>We, at Ace Global HR, have adept consultants who have deeper insights across
+                                            different sub verticals and job positions in the industry. We have a
+                                            well-connected team of professionals who are aware of the change and
+                                            innovation and accordingly find a fine line of talent for your unique
+                                            requirements. Our tailor-made solutions help clients in their most difficult
+                                            market conditions.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                       
                         <div class="col-lg-4 col-md-6 col-sm-12 news-block">
                             <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms"
                                 data-wow-duration="1500ms">
@@ -295,17 +302,17 @@
                                         </div>
                                     </div>
                                     <div class="lower-content">
-                                        <h3><a href="blog-details.html">Internet and the E-commerce sector</a></h3>
-                                        <p>The past decade has seen startling growth in the e-commerce industry even in
-                                            the tier-II and tier-III cities in India. Whether it is Internet
-                                            connectivity, mobile phone reach, living standards, Banking and payment
-                                            services, the dynamics have certainly changed. We, at Ace Global HR, have a
-                                            team of consultants who are in constant touch with industry experts to
-                                            propel transformation in the e-commerce sector.</p>
+                                        <h3><a href="blog-details.html">Consumer Durables & Building Materials</a></h3>
+                                        <p>There has been fast-paced growth in the consumer industry with the surge in
+                                            the standard of living and dispensable incomes like construction materials,
+                                            interior décor, modular kitchens etc. we have a dynamic database of
+                                            candidates that helps us handpick the right workforce that can keep up with
+                                            innovation in the Consumer Durables & Building Materials industry</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
+
                         <div class="col-lg-4 col-md-6 col-sm-12 news-block">
                             <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms"
                                 data-wow-duration="1500ms">
@@ -359,13 +366,13 @@
                                         </div>
                                     </div>
                                     <div class="lower-content">
-                                        <h3><a href="blog-details.html">The Oil and Gas industry</a></h3>
-                                        <p>The rising demand for energy also has given rise to skilled manpower who can
-                                            manoeuvre this industry to great heights. The tailor-made solutions at Ace
-                                            Global HR address the growing needs and demands of our clients and
-                                            candidates. We help companies reorganize themselves in order to stay on par
-                                            with today’s changing landscape. Our professional approach helps our clients
-                                            achieve this goal.</p>
+                                        <h3><a href="blog-details.html">FMCG Industry</a></h3>
+                                        <p>As FMCG is one of the fast growing sectors in India, we understand the demand
+                                            and ensure that the requirement matches your business needs. We have both
+                                            PAN India and global reach and we are also well-connected when it comes to
+                                            the best talent management practices. Our FMCG business consultants also
+                                            provide guidance to small players who are planning to capture the FMCG
+                                            market.</p>
                                     </div>
                                 </div>
                             </div>
@@ -393,27 +400,30 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="col-lg-4 col-md-6 col-sm-12 news-block">
                             <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms"
                                 data-wow-duration="1500ms">
                                 <div class="inner-box">
                                     <div class="image-box">
                                         <div class="post-date">
-                                            <h4>10</h4>
+                                            <h4>4</h4>
                                         </div>
                                     </div>
                                     <div class="lower-content">
-                                        <h3><a href="blog-details.html">The Power Sector</a></h3>
-                                        <p>We, at Ace Global HR, have adept consultants who have deeper insights across
-                                            different sub verticals and job positions in the industry. We have a
-                                            well-connected team of professionals who are aware of the change and
-                                            innovation and accordingly find a fine line of talent for your unique
-                                            requirements. Our tailor-made solutions help clients in their most difficult
-                                            market conditions.</p>
+                                        <h3><a href="blog-details.html">Health Care</a></h3>
+                                        <p>We, at Ace Global HR, have sensed the growing demand for skilled individuals
+                                            through our industry contacts and we deliver the right talent with the
+                                            definitive human resource needs. The healthcare industry mostly works on
+                                            word of mouth and therefore we go through a robust evaluation and strong
+                                            referral procedures to find the right fit that is conducted by our
+                                            specialist consultants.</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
+                        
+
                         <div class="col-lg-4 col-md-6 col-sm-12 news-block">
                             <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms"
                                 data-wow-duration="1500ms">
@@ -424,17 +434,18 @@
                                         </div>
                                     </div>
                                     <div class="lower-content">
-                                        <h3><a href="blog-details.html">The Real Estate Sector</a></h3>
-                                        <p>Whether it is residential and commercial (retail, offices, and hospitality,
-                                            construction management, project management) categories, we have a very
-                                            strong network of consultants who can steer you through every vertical of
-                                            the real estate sector. Ace Global HR believes in developing strong
-                                            relations with clients to ensure that the right candidates are onboarded in
-                                            the right companies.</p>
+                                        <h3><a href="blog-details.html">The Industrial Sector</a></h3>
+                                        <p>There has been a rapid transformation in the market and a wide variety of
+                                            greenfield projects have surfaced across various sectors. With the rise of
+                                            different projects, there will definitely be a great demand for a skilled
+                                            workforce. This exponential rise has made us understand the changing trends
+                                            and we are working seamlessly across various sectors to meet the needs and
+                                            expectations of our clients</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
+                        
                         <div class="col-lg-4 col-md-6 col-sm-12 news-block">
                             <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms"
                                 data-wow-duration="1500ms">
@@ -538,6 +549,7 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="col-lg-4 col-md-6 col-sm-12 news-block">
                             <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms"
                                 data-wow-duration="1500ms">
@@ -548,16 +560,18 @@
                                         </div>
                                     </div>
                                     <div class="lower-content">
-                                        <h3><a href="blog-details.html">Consumer Durables & Building Materials</a></h3>
-                                        <p>There has been fast-paced growth in the consumer industry with the surge in
-                                            the standard of living and dispensable incomes like construction materials,
-                                            interior décor, modular kitchens etc. we have a dynamic database of
-                                            candidates that helps us handpick the right workforce that can keep up with
-                                            innovation in the Consumer Durables & Building Materials industry</p>
+                                        <h3><a href="blog-details.html">Internet and the E-commerce sector</a></h3>
+                                        <p>The past decade has seen startling growth in the e-commerce industry even in
+                                            the tier-II and tier-III cities in India. Whether it is Internet
+                                            connectivity, mobile phone reach, living standards, Banking and payment
+                                            services, the dynamics have certainly changed. We, at Ace Global HR, have a
+                                            team of consultants who are in constant touch with industry experts to
+                                            propel transformation in the e-commerce sector.</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
+                        
                         <div class="col-lg-4 col-md-6 col-sm-12 news-block">
                             <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms"
                                 data-wow-duration="1500ms">

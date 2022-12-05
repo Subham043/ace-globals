@@ -568,15 +568,15 @@
                                     <div class="content-box clearfix">
                                         <span>Connect</span>
                                         <ul class="social-links">
-                                            <li><a href="index-3.html"><i class="fab fa-facebook-square"></i></a></li>
-                                            <li><a href="index-3.html"><i class="fab fa-twitter"></i></a></li>
-                                            <li><a href="index-3.html"><i class="fab fa-pinterest-p"></i></a></li>
-                                            <li><a href="index-3.html"><i class="fab fa-instagram"></i></a></li>
+                                            <li><a href="leadership-team.php"><i class="fab fa-facebook-square"></i></a></li>
+                                            <li><a href="leadership-team.php"><i class="fab fa-twitter"></i></a></li>
+                                            <li><a href="leadership-team.php"><i class="fab fa-pinterest-p"></i></a></li>
+                                            <li><a href="leadership-team.php"><i class="fab fa-instagram"></i></a></li>
                                         </ul>
                                     </div>
                                 </figure>
                                 <div class="lower-content">
-                                    <h4><a href="index-3.html">Kemparaj</a></h4>
+                                    <h4><a href="leadership-team.php">Kemparaj</a></h4>
                                     <span class="designation">Managing Director</span>
                                 </div>
                             </div>
@@ -591,15 +591,15 @@
                                     <div class="content-box clearfix">
                                         <span>Connect</span>
                                         <ul class="social-links">
-                                            <li><a href="index-3.html"><i class="fab fa-facebook-square"></i></a></li>
-                                            <li><a href="index-3.html"><i class="fab fa-twitter"></i></a></li>
-                                            <li><a href="index-3.html"><i class="fab fa-pinterest-p"></i></a></li>
-                                            <li><a href="index-3.html"><i class="fab fa-instagram"></i></a></li>
+                                            <li><a href="leadership-team.php"><i class="fab fa-facebook-square"></i></a></li>
+                                            <li><a href="leadership-team.php"><i class="fab fa-twitter"></i></a></li>
+                                            <li><a href="leadership-team.php"><i class="fab fa-pinterest-p"></i></a></li>
+                                            <li><a href="leadership-team.php"><i class="fab fa-instagram"></i></a></li>
                                         </ul>
                                     </div>
                                 </figure>
                                 <div class="lower-content">
-                                    <h4><a href="index-3.html">H N MOHAMED ALI UCHIL</a></h4>
+                                    <h4><a href="leadership-team.php">H N MOHAMED ALI UCHIL</a></h4>
                                     <span class="designation">Director</span>
                                 </div>
                             </div>
@@ -610,20 +610,20 @@
                             data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <figure class="image-box">
-                                    <img src="./assets/images/team/team-3.jpg" alt="">
+                                    <img src="assets/images/news/rakshith.jpg" alt="">
                                     <div class="content-box clearfix">
                                         <span>Connect</span>
                                         <ul class="social-links">
-                                            <li><a href="index-3.html"><i class="fab fa-facebook-square"></i></a></li>
-                                            <li><a href="index-3.html"><i class="fab fa-twitter"></i></a></li>
-                                            <li><a href="index-3.html"><i class="fab fa-pinterest-p"></i></a></li>
-                                            <li><a href="index-3.html"><i class="fab fa-instagram"></i></a></li>
+                                            <li><a href="leadership-team.php"><i class="fab fa-facebook-square"></i></a></li>
+                                            <li><a href="leadership-team.php"><i class="fab fa-twitter"></i></a></li>
+                                            <li><a href="leadership-team.php"><i class="fab fa-pinterest-p"></i></a></li>
+                                            <li><a href="leadership-team.php"><i class="fab fa-instagram"></i></a></li>
                                         </ul>
                                     </div>
                                 </figure>
                                 <div class="lower-content">
-                                    <h4><a href="index-3.html">Rakshith Kumar</a></h4>
-                                    <span class="designation">Director</span>
+                                    <h4><a href="leadership-team.php">Rakshith Kumar</a></h4>
+                                    <span class="designation">Legal</span>
                                 </div>
                             </div>
                         </div>
@@ -633,20 +633,20 @@
                             data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <figure class="image-box">
-                                    <img src="./assets/images/team/team-4.jpg" alt="">
+                                    <img src="./assets/images/team/team-5.webp" alt="">
                                     <div class="content-box clearfix">
                                         <span>Connect</span>
                                         <ul class="social-links">
-                                            <li><a href="index-3.html"><i class="fab fa-facebook-square"></i></a></li>
-                                            <li><a href="index-3.html"><i class="fab fa-twitter"></i></a></li>
-                                            <li><a href="index-3.html"><i class="fab fa-pinterest-p"></i></a></li>
-                                            <li><a href="index-3.html"><i class="fab fa-instagram"></i></a></li>
+                                            <li><a href="leadership-team.php"><i class="fab fa-facebook-square"></i></a></li>
+                                            <li><a href="leadership-team.php"><i class="fab fa-twitter"></i></a></li>
+                                            <li><a href="leadership-team.php"><i class="fab fa-pinterest-p"></i></a></li>
+                                            <li><a href="leadership-team.php"><i class="fab fa-instagram"></i></a></li>
                                         </ul>
                                     </div>
                                 </figure>
                                 <div class="lower-content">
-                                    <h4><a href="index-3.html">Ramdass Manjeshwar Kamath</a></h4>
-                                    <span class="designation">Director</span>
+                                    <h4><a href="leadership-team.php">Ramdass Manjeshwar Kamath</a></h4>
+                                    <span class="designation">Administration</span>
                                 </div>
                             </div>
                         </div>

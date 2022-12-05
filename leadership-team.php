@@ -373,7 +373,7 @@
                                 </div>
                             </div> -->
                             <div class="author-box">
-                                <figure class="author-thumb"><img src="assets/images/news/author-1.jpg" alt=""></figure>
+                                <figure class="author-thumb"><img src="assets/images/news/rakshith.jpg" alt=""></figure>
                                 <div class="inner">
                                     <h4>Rakshith Kumar
                                     </h4>
@@ -390,7 +390,7 @@
                                 </div>
                             </div>
                             <div class="author-box">
-                                <figure class="author-thumb"><img src="assets/images/news/author-1.jpg" alt=""></figure>
+                                <figure class="author-thumb"><img src="assets/images/team/team-5.webp" alt=""></figure>
                                 <div class="inner">
                                     <h4>Capt. (Ex) Ramdass Manjeshwar Kamath
                                     </h4>
@@ -407,7 +407,7 @@
                                 </div>
                             </div>
                             <div class="author-box">
-                                <figure class="author-thumb"><img src="assets/images/news/author-1.jpg" alt=""></figure>
+                                <figure class="author-thumb"><img src="assets/images/team/team-5.webp" alt=""></figure>
                                 <div class="inner">
                                     <h4>Sunil
                                     </h4>
