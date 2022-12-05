@@ -259,7 +259,7 @@
 
         <!-- about-style-two -->
         <section class="about-style-two">
-            <div class="bg-layer" style="background-image: url(./assets/images/background/about-1.jpg);"></div>
+            <div class="bg-layer" style="background-image: url(./assets/images/background/hr-banner-2.png);"></div>
             <div class="auto-container">
                 <div class="upper-box">
                     <div class="row clearfix">
@@ -633,7 +633,7 @@
                             data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <figure class="image-box">
-                                    <img src="./assets/images/team/team-5.webp" alt="">
+                                    <img src="assets/images/news/riaz.jpg" alt="">
                                     <div class="content-box clearfix">
                                         <span>Connect</span>
                                         <ul class="social-links">
@@ -645,8 +645,8 @@
                                     </div>
                                 </figure>
                                 <div class="lower-content">
-                                    <h4><a href="leadership-team.php">Ramdass Manjeshwar Kamath</a></h4>
-                                    <span class="designation">Administration</span>
+                                    <h4><a href="leadership-team.php">Riaz</a></h4>
+                                    <span class="designation">Talent Acquisition/Operations</span>
                                 </div>
                             </div>
                         </div>
