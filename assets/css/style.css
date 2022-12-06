@@ -2753,6 +2753,12 @@ div#mCSB_1_container {
     margin-bottom: -52px
 }
 
+.testimonial-block-one .inner-box .image-box img {
+    height: 90px;
+    width: 90px;
+    border-radius: 45px;
+}
+
 .clients-section {
     position: relative;
     padding: 120px 0;
