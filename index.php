@@ -622,7 +622,7 @@
                                     </div>
                                 </figure>
                                 <div class="lower-content">
-                                    <h4><a href="leadership-team.php">Riaz</a></h4>
+                                    <h4><a href="leadership-team.php">Syed Riaz</a></h4>
                                     <span class="designation">Director - Talent Acquisition & Operations</span>
                                 </div>
                             </div>

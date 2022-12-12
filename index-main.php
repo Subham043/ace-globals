@@ -606,29 +606,6 @@
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 team-block">
-                        <div class="team-block-one wow fadeInUp animated animated" data-wow-delay="400ms"
-                            data-wow-duration="1500ms">
-                            <div class="inner-box">
-                                <figure class="image-box">
-                                    <img src="assets/images/news/rakshith.jpg" alt="">
-                                    <div class="content-box clearfix">
-                                        <span>Connect</span>
-                                        <ul class="social-links">
-                                            <li><a href="leadership-team.php"><i class="fab fa-facebook-square"></i></a></li>
-                                            <li><a href="leadership-team.php"><i class="fab fa-twitter"></i></a></li>
-                                            <li><a href="leadership-team.php"><i class="fab fa-pinterest-p"></i></a></li>
-                                            <li><a href="leadership-team.php"><i class="fab fa-instagram"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </figure>
-                                <div class="lower-content">
-                                    <h4><a href="leadership-team.php">Rakshith Kumar</a></h4>
-                                    <span class="designation">Legal</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
                         <div class="team-block-one wow fadeInUp animated animated" data-wow-delay="600ms"
                             data-wow-duration="1500ms">
                             <div class="inner-box">
@@ -646,11 +623,35 @@
                                 </figure>
                                 <div class="lower-content">
                                     <h4><a href="leadership-team.php">Riaz</a></h4>
-                                    <span class="designation">Talent Acquisition/Operations</span>
+                                    <span class="designation">Director - Talent Acquisition & Operations</span>
                                 </div>
                             </div>
                         </div>
                     </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                        <div class="team-block-one wow fadeInUp animated animated" data-wow-delay="400ms"
+                            data-wow-duration="1500ms">
+                            <div class="inner-box">
+                                <figure class="image-box">
+                                    <img src="assets/images/news/rakshith.jpg" alt="">
+                                    <div class="content-box clearfix">
+                                        <span>Connect</span>
+                                        <ul class="social-links">
+                                            <li><a href="leadership-team.php"><i class="fab fa-facebook-square"></i></a></li>
+                                            <li><a href="leadership-team.php"><i class="fab fa-twitter"></i></a></li>
+                                            <li><a href="leadership-team.php"><i class="fab fa-pinterest-p"></i></a></li>
+                                            <li><a href="leadership-team.php"><i class="fab fa-instagram"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </figure>
+                                <div class="lower-content">
+                                    <h4><a href="leadership-team.php">Rakshith Kumar</a></h4>
+                                    <span class="designation">Legal Advisor</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
                 </div>
             </div>
         </section>

@@ -390,6 +390,19 @@
                                 </div>
                             </div>
                             <div class="author-box">
+                                <figure class="author-thumb"><img src="assets/images/news/riaz.jpg" alt=""></figure>
+                                <div class="inner">
+                                    <h4>Syed Riaz
+                                    </h4>
+                                    <p>Simple, Speed & Solution with Optimistic Approach – these are the core strengths of Riaz Ahmed. He has been deeply rooted in the field of HRM with hands-on 31 years of exposure to different industries. His services over the years in various domains have made him a person who is transformative, stays on top of market trends, focuses on modernizing business models for corporate clients and provides decisive suggestions to help businesses stand out from their competitors, with steer determination and commitment to help clients achieve long-term substantial returns.</p>
+                                    <p>Riaz Ahmed started his career as Senior Personnel Officer - at Usha Iron & Ferro Metals Corp Ltd. Visakhapatnam. He then moved to Chennai where he was an Assistant Manager (Personnel) Corporate Office and got promoted to Dy. Manager – Personnel and admin and later became an HR Manager at ETA General Pvt Ltd., Chennai, India. After a decade-long stint in Chennai, he moved to Delhi where he was a Corporate Manager – HR & MS at LG Electronics India Pvt Ltd.</p>
+                                    <p>After his extensive experience in various parts of India, he moved to the Middle East – Qatar, UAE, Oman and Saudi Arabia where he worked with different companies for 15 years and helped the employers in building capability and performance; has balanced the commercial imperatives and the people needs; through his wide industry in-depth knowledge and out of the box thinking for improving productivity, he has a proven ability to proactively deliver results in given time frame.
+With a Master's degree in HRM and a recipient of many awards and affiliations, his core competencies just add to his tremendous journey going stronger.</p>
+                                    <p>Few of his Career competencies include – Resources Planning, Recruitment & Selection, Outsourcing, Training & Development, Compensation Management, Mergers & Acquisitions, Overseas Recruitments, Employee Relations, Statutory Compliance, Budget Management, Immigration Requirements, Separation / Exit Plans and aware of UAE, Qatar, Saudi Arabia & Oman Labour Laws.
+Apart from being an expert in his field, Riaz Ahamed not only ensures business sustainability and inherits wisdom, he is also a resourceful team player and a travel enthusiast.</p>
+                                </div>
+                            </div>
+                            <div class="author-box">
                                 <figure class="author-thumb"><img src="assets/images/team/team-5.webp" alt=""></figure>
                                 <div class="inner">
                                     <h4>Capt. (Ex) Ramdass Manjeshwar Kamath
@@ -406,7 +419,7 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="author-box">
+                            <!-- <div class="author-box">
                                 <figure class="author-thumb"><img src="assets/images/team/team-5.webp" alt=""></figure>
                                 <div class="inner">
                                     <h4>Sunil
@@ -422,7 +435,7 @@
                                         and Magento has led him to build several portals for many start-ups and
                                         businesses. </p>
                                 </div>
-                            </div>
+                            </div> -->
 
                         </div>
                     </div>

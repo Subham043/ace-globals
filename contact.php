@@ -328,7 +328,7 @@
     <!-- main-js -->
     <script src="assets/js/script.js"></script>
 
-    <script>
+<script>
     const errorToast = (message) =>{
         iziToast.error({
             title: 'Error',
@@ -471,7 +471,7 @@
             return false;
         }
     });
-    </script>
+</script>
 
 </body><!-- End of .page_wrapper -->
 
